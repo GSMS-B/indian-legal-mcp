@@ -1,7 +1,7 @@
 ---
 title: Indian Legal MCP
 emoji: ⚖️
-colorFrom: orange
+colorFrom: yellow
 colorTo: gray
 sdk: gradio
 sdk_version: 5.32.0
