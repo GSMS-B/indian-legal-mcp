@@ -4,6 +4,11 @@ import os
 import json
 import warnings
 import math
+import spaces
+
+@spaces.GPU
+def _dummy_gpu():
+    pass
 
 # Suppress harmless deprecation warnings from underlying libraries (like Starlette)
 warnings.filterwarnings("ignore")
