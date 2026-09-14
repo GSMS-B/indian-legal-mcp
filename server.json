@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.GSMS-B/indian-legal-mcp",
   "title": "Indian Legal MCP",
-  "description": "Structured, sourced access to 10 major Indian legal texts (BNS, BNSS, BSA, IPC, CRPC, IEA, COI, CPC, MVA, NIA) built for AI agents.",
+  "description": "Structured access to 10 major Indian legal texts (BNS, IPC, etc) for AI agents.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/GSMS-B/indian-legal-mcp",
