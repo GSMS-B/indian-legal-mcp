@@ -350,22 +350,6 @@ def search_keyword(query: str, act_code: str | None = None) -> dict:
     if not query:
         return {"error": "Query is required."}
         
-    # Lightweight synonym/alias layer for common colloquialisms
-    SYNONYMS = {
-        "bounced cheque": "dishonour of cheque",
-        "bounced check": "dishonour of cheque",
-        "murder": "murder", # keeping base
-        "rape": "rape", # keeping base
-        "kidnapping": "kidnapping", # keeping base
-        "homicide": "culpable homicide",
-        "self defense": "private defence",
-        "self defence": "private defence"
-    }
-    
-    query_lower = query.lower().strip()
-    if query_lower in SYNONYMS:
-        query = SYNONYMS[query_lower]
-
     try:
         conn = get_db_connection()
         cursor = conn.cursor()
