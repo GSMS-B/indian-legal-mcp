@@ -43,3 +43,7 @@ flagged/
 .DS_Store
 *.db
 
+# Publisher artifacts
+mcp-publisher.exe
+release.json
+
