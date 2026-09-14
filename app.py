@@ -1,6 +1,70 @@
 import gradio as gr
 try:
+    import gradio.mcp
     from gradio.mcp import prompt, resource
+
+    if hasattr(gradio.mcp, "GradioMCPServer"):
+        original_create_mcp_server = gradio.mcp.GradioMCPServer.create_mcp_server
+        
+        def patched_create_mcp_server(self):
+            server = original_create_mcp_server(self)
+            
+            @server.get_prompt()
+            async def fast_get_prompt(name: str, arguments: dict | None = None):
+                arguments = arguments or {}
+                
+                endpoint_name = None
+                for endpoint_name in self.tool_to_endpoint.values():
+                    block_fn = self.get_block_fn_from_endpoint_name(endpoint_name)
+                    if (
+                        block_fn
+                        and block_fn.fn
+                        and hasattr(block_fn.fn, "_mcp_type")
+                        and block_fn.fn._mcp_type == "prompt"
+                        and getattr(block_fn.fn, "_mcp_name", None) == name
+                    ):
+                        break
+
+                if not endpoint_name:
+                    raise ValueError(f"Prompt not found: {name}")
+
+                block_fn = self.get_block_fn_from_endpoint_name(endpoint_name)
+                
+                from gradio.state_holder import SessionState
+                import gradio_client.utils as client_utils
+                
+                if endpoint_name in self.api_info["named_endpoints"]:
+                    parameters_info = self.api_info["named_endpoints"][endpoint_name]["parameters"]
+                    processed_args = client_utils.construct_args(parameters_info, (), arguments)
+                else:
+                    processed_args = list(arguments.values())
+                    
+                processed_args = self.insert_empty_state(block_fn.inputs, processed_args)
+                session_state = SessionState(self.blocks)
+                
+                # Execute via FAST PATH (skips loopback networking)
+                raw_output = await self.blocks.process_api(
+                    block_fn=block_fn,
+                    inputs=processed_args,
+                    state=session_state,
+                    request=self.mcp_server.request_context.request,
+                )
+                
+                result = raw_output["data"][0]
+                
+                return self.types.GetPromptResult(
+                    messages=[
+                        self.types.PromptMessage(
+                            role="user",
+                            content=self.types.TextContent(type="text", text=str(result)),
+                        )
+                    ]
+                )
+
+            return server
+
+        gradio.mcp.GradioMCPServer.create_mcp_server = patched_create_mcp_server
+
 except ImportError:
     prompt = lambda *args, **kwargs: lambda f: f
     resource = lambda *args, **kwargs: lambda f: f
