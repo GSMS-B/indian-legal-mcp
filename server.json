@@ -1,10 +1,17 @@
 {
-  "name": "indian-legal-mcp",
-  "version": "1.0.0",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.GSMS-B/indian-legal-mcp",
+  "title": "Indian Legal MCP",
   "description": "Structured, sourced access to 10 major Indian legal texts (BNS, BNSS, BSA, IPC, CRPC, IEA, COI, CPC, MVA, NIA) built for AI agents.",
-  "author": "GSMS-B",
-  "license": "MIT",
-  "repository": "https://github.com/GSMS-B/indian-legal-mcp",
-  "type": "remote",
-  "remoteUrl": "https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/"
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/GSMS-B/indian-legal-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/"
+    }
+  ]
 }
