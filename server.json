@@ -6,5 +6,5 @@
   "license": "MIT",
   "repository": "https://github.com/GSMS-B/indian-legal-mcp",
   "type": "remote",
-  "remoteUrl": "https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/sse"
+  "remoteUrl": "https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/"
 }

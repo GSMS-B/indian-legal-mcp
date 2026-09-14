@@ -45,7 +45,7 @@ ACT_DESCRIPTIONS = {
     "COI": "The supreme law of India, establishing the framework of fundamental political code, rights, and government structure.",
     "CPC": "The primary procedural law for the administration of civil proceedings in India.",
     "MVA": "The primary law regulating all aspects of road transport vehicles, including traffic rules and vehicle registration.",
-    "NIA": "The law regulating Promissory Notes, Bills of Exchange and Cheques (frequently used for bounced cheques under Section 138)."
+    "NIA": "The law regulating Promissory Notes, Bills of Exchange and Cheques (frequently used for dishonour of cheques under Section 138)."
 }
 
 def list_acts() -> list:
