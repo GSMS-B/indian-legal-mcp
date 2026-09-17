@@ -104,11 +104,10 @@ Open **Settings → Developer → Edit Config**, and add this to `claude_desktop
 ```json
 {
   "mcpServers": {
-    "indian-legal-mcp": {
+    "Indian Legal MCP": {
       "command": "npx",
       "args": [
-        "-y",
-        "mcp-proxy",
+        "mcp-remote",
         "https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/"
       ]
     }
