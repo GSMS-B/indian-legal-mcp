@@ -1,0 +1,3710 @@
+[
+  {
+    "id": "BSA-1",
+    "lookup_key": "1",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 1 'Short title, application and commencement' corresponds to Indian Evidence Act, 1872 Section 1 'Short title. Extent. Commencement of Act' under PART I CHAPTER I PRELIMINARY.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "1",
+      "sub_section": null,
+      "title": "Short title, application and commencement",
+      "chapter": "PART I CHAPTER I PRELIMINARY"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "1",
+      "sub_section": null,
+      "title": "Short title. Extent. Commencement of Act",
+      "chapter": "PART I CHAPTER I PRELIMINARY"
+    }
+  },
+  {
+    "id": "BSA-2",
+    "lookup_key": "2",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 2 'Definitions' corresponds to Indian Evidence Act, 1872 Section 3 'Interpretation-clause' under PART I CHAPTER I PRELIMINARY with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "2",
+      "sub_section": null,
+      "title": "Definitions",
+      "chapter": "PART I CHAPTER I PRELIMINARY"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "3",
+      "sub_section": null,
+      "title": "Interpretation-clause",
+      "chapter": "PART I CHAPTER I PRELIMINARY"
+    }
+  },
+  {
+    "id": "BSA-2(1)(b),(h),(l)",
+    "lookup_key": "2(1)(b), 2(1)(h), 2(1)(l)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 2(1)(b), 2(1)(h), 2(1)(l) 'Definitions' corresponds to Indian Evidence Act, 1872 Section 4 'May presume. Shall presume. Conclusive proof' under PART I CHAPTER I PRELIMINARY.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "2",
+      "sub_section": "2(1)(b), 2(1)(h), 2(1)(l)",
+      "title": "Definitions",
+      "chapter": "PART I CHAPTER I PRELIMINARY"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "4",
+      "sub_section": null,
+      "title": "May presume. Shall presume. Conclusive proof",
+      "chapter": "PART I CHAPTER I PRELIMINARY"
+    }
+  },
+  {
+    "id": "BSA-3",
+    "lookup_key": "3",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 3 'Evidence may be given of facts in issue and relevant facts' corresponds to Indian Evidence Act, 1872 Section 5 'Evidence may be given of facts in issue and relevant facts' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "3",
+      "sub_section": null,
+      "title": "Evidence may be given of facts in issue and relevant facts",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "5",
+      "sub_section": null,
+      "title": "Evidence may be given of facts in issue and relevant facts",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-4",
+    "lookup_key": "4",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 4 'Relevancy of facts forming part of same transaction' corresponds to Indian Evidence Act, 1872 Section 6 'Relevancy of facts forming part of same transaction' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "4",
+      "sub_section": null,
+      "title": "Relevancy of facts forming part of same transaction",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "6",
+      "sub_section": null,
+      "title": "Relevancy of facts forming part of same transaction",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-5",
+    "lookup_key": "5",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 5 'Facts which are occasion, cause or effect of facts in issue or relevant facts' corresponds to Indian Evidence Act, 1872 Section 7 'Facts which are the occasion, cause or effect of facts in issue' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "5",
+      "sub_section": null,
+      "title": "Facts which are occasion, cause or effect of facts in issue or relevant facts",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "7",
+      "sub_section": null,
+      "title": "Facts which are the occasion, cause or effect of facts in issue",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-6",
+    "lookup_key": "6",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 6 'Motive, preparation and previous or subsequent conduct' corresponds to Indian Evidence Act, 1872 Section 8 'Motive, preparation and previous or subsequent conduct' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "6",
+      "sub_section": null,
+      "title": "Motive, preparation and previous or subsequent conduct",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "8",
+      "sub_section": null,
+      "title": "Motive, preparation and previous or subsequent conduct",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-7",
+    "lookup_key": "7",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 7 'Facts necessary to explain or introduce fact in issue or relevant facts' corresponds to Indian Evidence Act, 1872 Section 9 'Facts necessary to explain or introduce relevant facts' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "7",
+      "sub_section": null,
+      "title": "Facts necessary to explain or introduce fact in issue or relevant facts",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "9",
+      "sub_section": null,
+      "title": "Facts necessary to explain or introduce relevant facts",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-8",
+    "lookup_key": "8",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 8 'Things said or done by conspirator in reference to common design' corresponds to Indian Evidence Act, 1872 Section 10 'Things said or done by conspirator in reference to common design' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "8",
+      "sub_section": null,
+      "title": "Things said or done by conspirator in reference to common design",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "10",
+      "sub_section": null,
+      "title": "Things said or done by conspirator in reference to common design",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-9",
+    "lookup_key": "9",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 9 'When facts not otherwise relevant become relevant' corresponds to Indian Evidence Act, 1872 Section 11 'When facts not otherwise relevant become relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "9",
+      "sub_section": null,
+      "title": "When facts not otherwise relevant become relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "11",
+      "sub_section": null,
+      "title": "When facts not otherwise relevant become relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-10",
+    "lookup_key": "10",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 10 'Facts tending to enable Court to determine amount are relevant in suits for damages' corresponds to Indian Evidence Act, 1872 Section 12 'In suits for damages, facts tending to enable Court to determine amount are relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "10",
+      "sub_section": null,
+      "title": "Facts tending to enable Court to determine amount are relevant in suits for damages",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "12",
+      "sub_section": null,
+      "title": "In suits for damages, facts tending to enable Court to determine amount are relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-11",
+    "lookup_key": "11",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 11 'Facts relevant when right or custom is in question' corresponds to Indian Evidence Act, 1872 Section 13 'Facts relevant when right or custom is in question' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "11",
+      "sub_section": null,
+      "title": "Facts relevant when right or custom is in question",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "13",
+      "sub_section": null,
+      "title": "Facts relevant when right or custom is in question",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-12",
+    "lookup_key": "12",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 12 'Facts showing existence of state of mind, or of body or bodily feeling' corresponds to Indian Evidence Act, 1872 Section 14 'Facts showing existence of state of mind, or of body of bodily feeling' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "12",
+      "sub_section": null,
+      "title": "Facts showing existence of state of mind, or of body or bodily feeling",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "14",
+      "sub_section": null,
+      "title": "Facts showing existence of state of mind, or of body of bodily feeling",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-13",
+    "lookup_key": "13",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 13 'Facts bearing on question whether act was accidental or intentional' corresponds to Indian Evidence Act, 1872 Section 15 'Facts bearing on question whether act was accidental or intentional' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "13",
+      "sub_section": null,
+      "title": "Facts bearing on question whether act was accidental or intentional",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "15",
+      "sub_section": null,
+      "title": "Facts bearing on question whether act was accidental or intentional",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-14",
+    "lookup_key": "14",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 14 'Existence of course of business when relevant' corresponds to Indian Evidence Act, 1872 Section 16 'Existence of course of business when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "14",
+      "sub_section": null,
+      "title": "Existence of course of business when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "16",
+      "sub_section": null,
+      "title": "Existence of course of business when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-15",
+    "lookup_key": "15",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 15 'Admission defined' corresponds to Indian Evidence Act, 1872 Section 17 'Admission defined' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "15",
+      "sub_section": null,
+      "title": "Admission defined",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "17",
+      "sub_section": null,
+      "title": "Admission defined",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-16",
+    "lookup_key": "16",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 16 'Admission by party to proceeding or his agent' corresponds to Indian Evidence Act, 1872 Section 18 'Admission - by party to proceeding or his agent; by suitor in representative character; by party interested in subject-matter; by person from whom interest derived' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "16",
+      "sub_section": null,
+      "title": "Admission by party to proceeding or his agent",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "18",
+      "sub_section": null,
+      "title": "Admission - by party to proceeding or his agent; by suitor in representative character; by party interested in subject-matter; by person from whom interest derived",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-17",
+    "lookup_key": "17",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 17 'Admissions by persons whose position must be proved as against party to suit' corresponds to Indian Evidence Act, 1872 Section 19 'Admissions by persons whose position must be proved as against party to suit' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "17",
+      "sub_section": null,
+      "title": "Admissions by persons whose position must be proved as against party to suit",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "19",
+      "sub_section": null,
+      "title": "Admissions by persons whose position must be proved as against party to suit",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-18",
+    "lookup_key": "18",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 18 'Admissions by persons expressly referred to by party to suit' corresponds to Indian Evidence Act, 1872 Section 20 'Admissions by persons expressly referred to by party to suit' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "18",
+      "sub_section": null,
+      "title": "Admissions by persons expressly referred to by party to suit",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "20",
+      "sub_section": null,
+      "title": "Admissions by persons expressly referred to by party to suit",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-19",
+    "lookup_key": "19",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 19 'Proof of admissions against persons making them, and by or on their behalf' corresponds to Indian Evidence Act, 1872 Section 21 'Proof of admissions against persons making them, and by or on their behalf' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "19",
+      "sub_section": null,
+      "title": "Proof of admissions against persons making them, and by or on their behalf",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "21",
+      "sub_section": null,
+      "title": "Proof of admissions against persons making them, and by or on their behalf",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-20",
+    "lookup_key": "20",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 20 'When oral admissions as to contents of documents are relevant' corresponds to Indian Evidence Act, 1872 Section 22 'When oral admissions as to contents of documents are relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "20",
+      "sub_section": null,
+      "title": "When oral admissions as to contents of documents are relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "22",
+      "sub_section": null,
+      "title": "When oral admissions as to contents of documents are relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-21",
+    "lookup_key": "21",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 21 'Admissions in civil cases when relevant' corresponds to Indian Evidence Act, 1872 Section 23 'Admissions in civil cases when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "21",
+      "sub_section": null,
+      "title": "Admissions in civil cases when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "23",
+      "sub_section": null,
+      "title": "Admissions in civil cases when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-22",
+    "lookup_key": "22",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 22 'Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding' corresponds to Indian Evidence Act, 1872 Section 24 'Confession caused by inducement, threat or promise, when irrelevant in criminal proceeding' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "22",
+      "sub_section": null,
+      "title": "Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "24",
+      "sub_section": null,
+      "title": "Confession caused by inducement, threat or promise, when irrelevant in criminal proceeding",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-22(Proviso-1)",
+    "lookup_key": "22(Proviso-1)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 22(Proviso-1) 'Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding' corresponds to Indian Evidence Act, 1872 Section 28 'Confession made after removal of impression caused by inducement, threat or promise, relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "22",
+      "sub_section": "22(Proviso-1)",
+      "title": "Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "28",
+      "sub_section": null,
+      "title": "Confession made after removal of impression caused by inducement, threat or promise, relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-22(Proviso-2)",
+    "lookup_key": "22(Proviso-2)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 22(Proviso-2) 'Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding' corresponds to Indian Evidence Act, 1872 Section 29 'Confession otherwise relevant not to become irrelevant because of promise of secrecy, etc' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "22",
+      "sub_section": "22(Proviso-2)",
+      "title": "Confession caused by inducement, threat, coercion or promise, when irrelevant in criminal proceeding",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "29",
+      "sub_section": null,
+      "title": "Confession otherwise relevant not to become irrelevant because of promise of secrecy, etc",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-23",
+    "lookup_key": "23",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 23 'Confession to police officer' corresponds to Indian Evidence Act, 1872 Section 25 'Confession to police-officer not to be proved' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "23",
+      "sub_section": null,
+      "title": "Confession to police officer",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "25",
+      "sub_section": null,
+      "title": "Confession to police-officer not to be proved",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-23(Proviso)",
+    "lookup_key": "23(Proviso)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 23(Proviso) 'Confession to police officer' corresponds to Indian Evidence Act, 1872 Section 27 'How much of information received from accused may be proved' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "23",
+      "sub_section": "23(Proviso)",
+      "title": "Confession to police officer",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "27",
+      "sub_section": null,
+      "title": "How much of information received from accused may be proved",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-23(1)",
+    "lookup_key": "23(1)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 23(1) 'Confession to police officer' corresponds to Indian Evidence Act, 1872 Section 25 'Confession to police-officer not to be proved' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "23",
+      "sub_section": "23(1)",
+      "title": "Confession to police officer",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "25",
+      "sub_section": null,
+      "title": "Confession to police-officer not to be proved",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-23(2)",
+    "lookup_key": "23(2)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 23(2) 'Confession to police officer' corresponds to Indian Evidence Act, 1872 Section 26 'Confession by accused while in custody of Police not to be proved against him' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "23",
+      "sub_section": "23(2)",
+      "title": "Confession to police officer",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "26",
+      "sub_section": null,
+      "title": "Confession by accused while in custody of Police not to be proved against him",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-24",
+    "lookup_key": "24",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 24 'Consideration of proved confession affecting person making it and others jointly under trial for same offence' corresponds to Indian Evidence Act, 1872 Section 30 'Consideration of proved confession affecting person making it and others jointly under trial for same offence' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "24",
+      "sub_section": null,
+      "title": "Consideration of proved confession affecting person making it and others jointly under trial for same offence",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "30",
+      "sub_section": null,
+      "title": "Consideration of proved confession affecting person making it and others jointly under trial for same offence",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-25",
+    "lookup_key": "25",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 25 'Admissions not conclusive proof, but may estop' corresponds to Indian Evidence Act, 1872 Section 31 'Admissions not conclusive proof, but may estop' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "25",
+      "sub_section": null,
+      "title": "Admissions not conclusive proof, but may estop",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "31",
+      "sub_section": null,
+      "title": "Admissions not conclusive proof, but may estop",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-26",
+    "lookup_key": "26",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 26 'Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant' corresponds to Indian Evidence Act, 1872 Section 32 'Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "26",
+      "sub_section": null,
+      "title": "Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "32",
+      "sub_section": null,
+      "title": "Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-27",
+    "lookup_key": "27",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 27 'Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated' corresponds to Indian Evidence Act, 1872 Section 33 'Relevancy of certain evidence for proving, in subsequent proceeding, the truth of facts therein stated' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "27",
+      "sub_section": null,
+      "title": "Relevancy of certain evidence for proving, in subsequent proceeding, truth of facts therein stated",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "33",
+      "sub_section": null,
+      "title": "Relevancy of certain evidence for proving, in subsequent proceeding, the truth of facts therein stated",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-28",
+    "lookup_key": "28",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 28 'Entries in books of account when relevant' corresponds to Indian Evidence Act, 1872 Section 34 'Entries in books of account, including when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "28",
+      "sub_section": null,
+      "title": "Entries in books of account when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "34",
+      "sub_section": null,
+      "title": "Entries in books of account, including when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-29",
+    "lookup_key": "29",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 29 'Relevancy of entry in public record or an electronic record made in performance of duty' corresponds to Indian Evidence Act, 1872 Section 35 'Relevancy of entry in public record made in performance of duty' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "29",
+      "sub_section": null,
+      "title": "Relevancy of entry in public record or an electronic record made in performance of duty",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "35",
+      "sub_section": null,
+      "title": "Relevancy of entry in public record made in performance of duty",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-30",
+    "lookup_key": "30",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 30 'Relevancy of statements in maps, charts and plans' corresponds to Indian Evidence Act, 1872 Section 36 'Relevancy of statements in maps, charts and plans' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "30",
+      "sub_section": null,
+      "title": "Relevancy of statements in maps, charts and plans",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "36",
+      "sub_section": null,
+      "title": "Relevancy of statements in maps, charts and plans",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-31",
+    "lookup_key": "31",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 31 'Relevancy of statement as to fact of public nature contained in certain Acts or notifications' corresponds to Indian Evidence Act, 1872 Section 37 'Relevancy of statement as to fact of public nature contained in certain Acts or notifications' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "31",
+      "sub_section": null,
+      "title": "Relevancy of statement as to fact of public nature contained in certain Acts or notifications",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "37",
+      "sub_section": null,
+      "title": "Relevancy of statement as to fact of public nature contained in certain Acts or notifications",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-32",
+    "lookup_key": "32",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 32 'Relevancy of statements as to any law contained in law books including electronic or digital form' corresponds to Indian Evidence Act, 1872 Section 38 'Relevancy of statements as to any law contained in law-books' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "32",
+      "sub_section": null,
+      "title": "Relevancy of statements as to any law contained in law books including electronic or digital form",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "38",
+      "sub_section": null,
+      "title": "Relevancy of statements as to any law contained in law-books",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-33",
+    "lookup_key": "33",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 33 'What evidence to be given when statement forms part of a conversation, document, electronic record, book or series of letters or papers' corresponds to Indian Evidence Act, 1872 Section 39 'What evidence to be given when statement from part of a conversation, document, electronic record, book or series of letters or papers' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "33",
+      "sub_section": null,
+      "title": "What evidence to be given when statement forms part of a conversation, document, electronic record, book or series of letters or papers",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "39",
+      "sub_section": null,
+      "title": "What evidence to be given when statement from part of a conversation, document, electronic record, book or series of letters or papers",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-34",
+    "lookup_key": "34",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 34 'Previous judgments relevant to bar a second suit or trial' corresponds to Indian Evidence Act, 1872 Section 40 'Previous judgments relevant to bar a second suit or trial' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "34",
+      "sub_section": null,
+      "title": "Previous judgments relevant to bar a second suit or trial",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "40",
+      "sub_section": null,
+      "title": "Previous judgments relevant to bar a second suit or trial",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-35",
+    "lookup_key": "35",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 35 'Relevancy of certain judgments in probate, etc., jurisdiction' corresponds to Indian Evidence Act, 1872 Section 41 'Relevancy of certain judgments in probate, etc., jurisdiction' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "35",
+      "sub_section": null,
+      "title": "Relevancy of certain judgments in probate, etc., jurisdiction",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "41",
+      "sub_section": null,
+      "title": "Relevancy of certain judgments in probate, etc., jurisdiction",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-36",
+    "lookup_key": "36",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 36 'Relevancy and effect of judgments, orders or decrees, other than those mentioned in section 35' corresponds to Indian Evidence Act, 1872 Section 42 'Relevancy and effect of judgments, orders or decrees, other than those mentioned in section 41' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "36",
+      "sub_section": null,
+      "title": "Relevancy and effect of judgments, orders or decrees, other than those mentioned in section 35",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "42",
+      "sub_section": null,
+      "title": "Relevancy and effect of judgments, orders or decrees, other than those mentioned in section 41",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-37",
+    "lookup_key": "37",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 37 'Judgments, etc., other than those mentioned in sections 34, 35 and 36 when relevant' corresponds to Indian Evidence Act, 1872 Section 43 'Judgments, etc., other than those mentioned in sections 40, 41 and 42, when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "37",
+      "sub_section": null,
+      "title": "Judgments, etc., other than those mentioned in sections 34, 35 and 36 when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "43",
+      "sub_section": null,
+      "title": "Judgments, etc., other than those mentioned in sections 40, 41 and 42, when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-38",
+    "lookup_key": "38",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 38 'Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved' corresponds to Indian Evidence Act, 1872 Section 44 'Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "38",
+      "sub_section": null,
+      "title": "Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "44",
+      "sub_section": null,
+      "title": "Fraud or collusion in obtaining judgment, or incompetency of Court, may be proved",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-39",
+    "lookup_key": "39",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 39 'Opinions of experts' corresponds to Indian Evidence Act, 1872 Section 45 'Opinions of experts' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "39",
+      "sub_section": null,
+      "title": "Opinions of experts",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "45",
+      "sub_section": null,
+      "title": "Opinions of experts",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-39(1)",
+    "lookup_key": "39(1)",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 39(1) 'Opinions of experts' corresponds to Indian Evidence Act, 1872 Section 45 'Opinions of experts' under CHAPTER II OF THE RELEVANCY OF FACTS with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "39",
+      "sub_section": "39(1)",
+      "title": "Opinions of experts",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "45",
+      "sub_section": null,
+      "title": "Opinions of experts",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-39(2)",
+    "lookup_key": "39(2)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 39(2) 'Opinions of experts' corresponds to Indian Evidence Act, 1872 Section 45A 'Opinion of Examiner of Electronic Evidence' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "39",
+      "sub_section": "39(2)",
+      "title": "Opinions of experts",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "45A",
+      "sub_section": null,
+      "title": "Opinion of Examiner of Electronic Evidence",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-40",
+    "lookup_key": "40",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 40 'Facts bearing upon opinions of experts' corresponds to Indian Evidence Act, 1872 Section 46 'Facts hearing upon opinions of experts' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "40",
+      "sub_section": null,
+      "title": "Facts bearing upon opinions of experts",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "46",
+      "sub_section": null,
+      "title": "Facts hearing upon opinions of experts",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-41",
+    "lookup_key": "41",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 41 'Opinion as to handwriting and signature, when relevant' corresponds to Indian Evidence Act, 1872 Section 47 'Opinion as to handwriting, when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "41",
+      "sub_section": null,
+      "title": "Opinion as to handwriting and signature, when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "47",
+      "sub_section": null,
+      "title": "Opinion as to handwriting, when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-41(1)",
+    "lookup_key": "41(1)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 41(1) 'Opinion as to handwriting and signature, when relevant' corresponds to Indian Evidence Act, 1872 Section 47 'Opinion as to handwriting, when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "41",
+      "sub_section": "41(1)",
+      "title": "Opinion as to handwriting and signature, when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "47",
+      "sub_section": null,
+      "title": "Opinion as to handwriting, when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-41(2)",
+    "lookup_key": "41(2)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 41(2) 'Opinion as to handwriting and signature, when relevant' corresponds to Indian Evidence Act, 1872 Section 47A 'Opinion as to digital signature, when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "41",
+      "sub_section": "41(2)",
+      "title": "Opinion as to handwriting and signature, when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "47A",
+      "sub_section": null,
+      "title": "Opinion as to digital signature, when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-42",
+    "lookup_key": "42",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 42 'Opinion as to existence of general custom or right, when relevant' corresponds to Indian Evidence Act, 1872 Section 48 'Opinion as to existence of right or custom, when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "42",
+      "sub_section": null,
+      "title": "Opinion as to existence of general custom or right, when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "48",
+      "sub_section": null,
+      "title": "Opinion as to existence of right or custom, when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-43",
+    "lookup_key": "43",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 43 'Opinion as to usages, tenets, etc., when relevant' corresponds to Indian Evidence Act, 1872 Section 49 'Opinion as to usages, tenets, etc., when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "43",
+      "sub_section": null,
+      "title": "Opinion as to usages, tenets, etc., when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "49",
+      "sub_section": null,
+      "title": "Opinion as to usages, tenets, etc., when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-44",
+    "lookup_key": "44",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 44 'Opinion on relationship, when relevant' corresponds to Indian Evidence Act, 1872 Section 50 'Opinion on relationship, when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "44",
+      "sub_section": null,
+      "title": "Opinion on relationship, when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "50",
+      "sub_section": null,
+      "title": "Opinion on relationship, when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-45",
+    "lookup_key": "45",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 45 'Grounds of opinion, when relevant' corresponds to Indian Evidence Act, 1872 Section 51 'Grounds of opinion, when relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "45",
+      "sub_section": null,
+      "title": "Grounds of opinion, when relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "51",
+      "sub_section": null,
+      "title": "Grounds of opinion, when relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-46",
+    "lookup_key": "46",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 46 'In civil cases character to prove conduct imputed, irrelevant' corresponds to Indian Evidence Act, 1872 Section 52 'In civil cases character to prove conduct imputed, irrelevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "46",
+      "sub_section": null,
+      "title": "In civil cases character to prove conduct imputed, irrelevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "52",
+      "sub_section": null,
+      "title": "In civil cases character to prove conduct imputed, irrelevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-47",
+    "lookup_key": "47",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 47 'In criminal cases previous good character relevant' corresponds to Indian Evidence Act, 1872 Section 53 'In criminal cases previous good character relevant' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "47",
+      "sub_section": null,
+      "title": "In criminal cases previous good character relevant",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "53",
+      "sub_section": null,
+      "title": "In criminal cases previous good character relevant",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-48",
+    "lookup_key": "48",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 48 'Evidence of character or previous sexual experience not relevant in certain cases' corresponds to Indian Evidence Act, 1872 Section 53A 'Evidence of character or previous sexual experience not relevant in certain cases' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "48",
+      "sub_section": null,
+      "title": "Evidence of character or previous sexual experience not relevant in certain cases",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "53A",
+      "sub_section": null,
+      "title": "Evidence of character or previous sexual experience not relevant in certain cases",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-49",
+    "lookup_key": "49",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 49 'Previous bad character not relevant, except in reply' corresponds to Indian Evidence Act, 1872 Section 54 'Previous bad character not relevant, except in reply' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "49",
+      "sub_section": null,
+      "title": "Previous bad character not relevant, except in reply",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "54",
+      "sub_section": null,
+      "title": "Previous bad character not relevant, except in reply",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-50",
+    "lookup_key": "50",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 50 'Character as affecting damages' corresponds to Indian Evidence Act, 1872 Section 55 'Character as affecting damages' under CHAPTER II OF THE RELEVANCY OF FACTS.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "50",
+      "sub_section": null,
+      "title": "Character as affecting damages",
+      "chapter": "PART II CHAPTER II RELEVANCY OF FACTS"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "55",
+      "sub_section": null,
+      "title": "Character as affecting damages",
+      "chapter": "CHAPTER II OF THE RELEVANCY OF FACTS"
+    }
+  },
+  {
+    "id": "BSA-51",
+    "lookup_key": "51",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 51 'Fact judicially noticeable need not be proved' corresponds to Indian Evidence Act, 1872 Section 56 'Fact judicially noticeable need not be proved' under PART II ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "51",
+      "sub_section": null,
+      "title": "Fact judicially noticeable need not be proved",
+      "chapter": "PART III ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "56",
+      "sub_section": null,
+      "title": "Fact judicially noticeable need not be proved",
+      "chapter": "PART II ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED"
+    }
+  },
+  {
+    "id": "BSA-52",
+    "lookup_key": "52",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 52 'Facts of which Court shall take judicial notice' corresponds to Indian Evidence Act, 1872 Section 57 'Facts of which Court must take judicial notice' under PART II ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "52",
+      "sub_section": null,
+      "title": "Facts of which Court shall take judicial notice",
+      "chapter": "PART III ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "57",
+      "sub_section": null,
+      "title": "Facts of which Court must take judicial notice",
+      "chapter": "PART II ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED"
+    }
+  },
+  {
+    "id": "BSA-53",
+    "lookup_key": "53",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 53 'Facts admitted need not be proved' corresponds to Indian Evidence Act, 1872 Section 58 'Facts admitted need not be proved' under PART II ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "53",
+      "sub_section": null,
+      "title": "Facts admitted need not be proved",
+      "chapter": "PART III ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "58",
+      "sub_section": null,
+      "title": "Facts admitted need not be proved",
+      "chapter": "PART II ON PROOF CHAPTER III FACTS WHICH NEED NOT BE PROVED"
+    }
+  },
+  {
+    "id": "BSA-54",
+    "lookup_key": "54",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 54 'Proof of facts by oral evidence' corresponds to Indian Evidence Act, 1872 Section 59 'Proof of facts by oral evidence' under CHAPTER IV OF ORAL EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "54",
+      "sub_section": null,
+      "title": "Proof of facts by oral evidence",
+      "chapter": "CHAPTER IV OF ORAL EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "59",
+      "sub_section": null,
+      "title": "Proof of facts by oral evidence",
+      "chapter": "CHAPTER IV OF ORAL EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-55",
+    "lookup_key": "55",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 55 'Oral evidence to be direct' corresponds to Indian Evidence Act, 1872 Section 60 'Oral evidence must be direct' under CHAPTER IV OF ORAL EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "55",
+      "sub_section": null,
+      "title": "Oral evidence to be direct",
+      "chapter": "CHAPTER IV OF ORAL EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "60",
+      "sub_section": null,
+      "title": "Oral evidence must be direct",
+      "chapter": "CHAPTER IV OF ORAL EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-56",
+    "lookup_key": "56",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 56 'Proof of contents of documents' corresponds to Indian Evidence Act, 1872 Section 61 'Proof of contents of documents' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "56",
+      "sub_section": null,
+      "title": "Proof of contents of documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "61",
+      "sub_section": null,
+      "title": "Proof of contents of documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-57",
+    "lookup_key": "57",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 57 'Primary evidence' corresponds to Indian Evidence Act, 1872 Section 62 'Primary evidence' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "57",
+      "sub_section": null,
+      "title": "Primary evidence",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "62",
+      "sub_section": null,
+      "title": "Primary evidence",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-58",
+    "lookup_key": "58",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 58 'Secondary evidence' corresponds to Indian Evidence Act, 1872 Section 63 'Secondary evidence' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "58",
+      "sub_section": null,
+      "title": "Secondary evidence",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "63",
+      "sub_section": null,
+      "title": "Secondary evidence",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-59",
+    "lookup_key": "59",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 59 'Proof of documents by primary evidence' corresponds to Indian Evidence Act, 1872 Section 64 'Proof of documents by primary evidence' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "59",
+      "sub_section": null,
+      "title": "Proof of documents by primary evidence",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "64",
+      "sub_section": null,
+      "title": "Proof of documents by primary evidence",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-60",
+    "lookup_key": "60",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 60 'Cases in which secondary evidence relating to documents may be given' corresponds to Indian Evidence Act, 1872 Section 65 'Cases in which secondary evidence relating to documents may be given' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "60",
+      "sub_section": null,
+      "title": "Cases in which secondary evidence relating to documents may be given",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "65",
+      "sub_section": null,
+      "title": "Cases in which secondary evidence relating to documents may be given",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-61",
+    "lookup_key": "61",
+    "status": "New Section",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 61 'Electronic or digital record' is a newly introduced provision with no direct counterpart in Indian Evidence Act, 1872 (New Section).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "61",
+      "sub_section": null,
+      "title": "Electronic or digital record",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": null
+  },
+  {
+    "id": "BSA-62",
+    "lookup_key": "62",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 62 'Special provisions as to evidence relating to electronic record' corresponds to Indian Evidence Act, 1872 Section 65A 'Special provisions as to evidence relating to electronic record' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "62",
+      "sub_section": null,
+      "title": "Special provisions as to evidence relating to electronic record",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "65A",
+      "sub_section": null,
+      "title": "Special provisions as to evidence relating to electronic record",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-63",
+    "lookup_key": "63",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 63 'Admissibility of electronic records' corresponds to Indian Evidence Act, 1872 Section 65B 'Admissibility of electronic records' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "63",
+      "sub_section": null,
+      "title": "Admissibility of electronic records",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "65B",
+      "sub_section": null,
+      "title": "Admissibility of electronic records",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-64",
+    "lookup_key": "64",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 64 'Rules as to notice to produce' corresponds to Indian Evidence Act, 1872 Section 66 'Rules as to notice to produce' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "64",
+      "sub_section": null,
+      "title": "Rules as to notice to produce",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "66",
+      "sub_section": null,
+      "title": "Rules as to notice to produce",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-65",
+    "lookup_key": "65",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 65 'Proof of signature and handwriting of person alleged to have signed or written document produced' corresponds to Indian Evidence Act, 1872 Section 67 'Proof of signature and handwriting of person alleged to have signed or written document produced' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "65",
+      "sub_section": null,
+      "title": "Proof of signature and handwriting of person alleged to have signed or written document produced",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "67",
+      "sub_section": null,
+      "title": "Proof of signature and handwriting of person alleged to have signed or written document produced",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-66",
+    "lookup_key": "66",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 66 'Proof as to electronic signature' corresponds to Indian Evidence Act, 1872 Section 67A 'Proof as to electronic signature' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "66",
+      "sub_section": null,
+      "title": "Proof as to electronic signature",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "67A",
+      "sub_section": null,
+      "title": "Proof as to electronic signature",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-67",
+    "lookup_key": "67",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 67 'Proof of execution of document required by law to be attested' corresponds to Indian Evidence Act, 1872 Section 68 'Proof of execution of document required by law to be attested' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "67",
+      "sub_section": null,
+      "title": "Proof of execution of document required by law to be attested",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "68",
+      "sub_section": null,
+      "title": "Proof of execution of document required by law to be attested",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-68",
+    "lookup_key": "68",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 68 'Proof where no attesting witness found' corresponds to Indian Evidence Act, 1872 Section 69 'Proof where no attesting witness found' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "68",
+      "sub_section": null,
+      "title": "Proof where no attesting witness found",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "69",
+      "sub_section": null,
+      "title": "Proof where no attesting witness found",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-69",
+    "lookup_key": "69",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 69 'Admission of execution by party to attested document' corresponds to Indian Evidence Act, 1872 Section 70 'Admission of execution by party to attested document' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "69",
+      "sub_section": null,
+      "title": "Admission of execution by party to attested document",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "70",
+      "sub_section": null,
+      "title": "Admission of execution by party to attested document",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-70",
+    "lookup_key": "70",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 70 'Proof when attesting witness denies execution' corresponds to Indian Evidence Act, 1872 Section 71 'Proof when attesting witness denies the execution' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "70",
+      "sub_section": null,
+      "title": "Proof when attesting witness denies execution",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "71",
+      "sub_section": null,
+      "title": "Proof when attesting witness denies the execution",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-71",
+    "lookup_key": "71",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 71 'Proof of document not required by law to be attested' corresponds to Indian Evidence Act, 1872 Section 72 'Proof of document not required by law to be attested' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "71",
+      "sub_section": null,
+      "title": "Proof of document not required by law to be attested",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "72",
+      "sub_section": null,
+      "title": "Proof of document not required by law to be attested",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-72",
+    "lookup_key": "72",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 72 'Comparison of signature, writing or seal with others admitted or proved' corresponds to Indian Evidence Act, 1872 Section 73 'Comparison of signature, writing or seal with others admitted or proved' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "72",
+      "sub_section": null,
+      "title": "Comparison of signature, writing or seal with others admitted or proved",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "73",
+      "sub_section": null,
+      "title": "Comparison of signature, writing or seal with others admitted or proved",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-73",
+    "lookup_key": "73",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 73 'Proof as to verification of digital signature' corresponds to Indian Evidence Act, 1872 Section 73A 'Proof as to verification of digital signature' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "73",
+      "sub_section": null,
+      "title": "Proof as to verification of digital signature",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "73A",
+      "sub_section": null,
+      "title": "Proof as to verification of digital signature",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-74",
+    "lookup_key": "74",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 74 'Public and private documents' corresponds to Indian Evidence Act, 1872 Section 74 'Public documents' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "74",
+      "sub_section": null,
+      "title": "Public and private documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "74",
+      "sub_section": null,
+      "title": "Public documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-74(1)",
+    "lookup_key": "74(1)",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 74(1) 'Public and private documents' corresponds to Indian Evidence Act, 1872 Section 74 'Public documents' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "74",
+      "sub_section": "74(1)",
+      "title": "Public and private documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "74",
+      "sub_section": null,
+      "title": "Public documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-74(2)",
+    "lookup_key": "74(2)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 74(2) 'Public and private documents' corresponds to Indian Evidence Act, 1872 Section 75 'Private documents' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "74",
+      "sub_section": "74(2)",
+      "title": "Public and private documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "75",
+      "sub_section": null,
+      "title": "Private documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-75",
+    "lookup_key": "75",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 75 'Certified copies of public documents' corresponds to Indian Evidence Act, 1872 Section 76 'Certified copies of public documents' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "75",
+      "sub_section": null,
+      "title": "Certified copies of public documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "76",
+      "sub_section": null,
+      "title": "Certified copies of public documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-76",
+    "lookup_key": "76",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 76 'Proof of documents by production of certified copies' corresponds to Indian Evidence Act, 1872 Section 77 'Proof of documents by production of certified copies' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "76",
+      "sub_section": null,
+      "title": "Proof of documents by production of certified copies",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "77",
+      "sub_section": null,
+      "title": "Proof of documents by production of certified copies",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-77",
+    "lookup_key": "77",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 77 'Proof of other official documents' corresponds to Indian Evidence Act, 1872 Section 78 'Proof of other official documents' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "77",
+      "sub_section": null,
+      "title": "Proof of other official documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "78",
+      "sub_section": null,
+      "title": "Proof of other official documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-78",
+    "lookup_key": "78",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 78 'Presumption as to genuineness of certified copies' corresponds to Indian Evidence Act, 1872 Section 79 'Presumption as to genuineness of certified copies' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "78",
+      "sub_section": null,
+      "title": "Presumption as to genuineness of certified copies",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "79",
+      "sub_section": null,
+      "title": "Presumption as to genuineness of certified copies",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-79",
+    "lookup_key": "79",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 79 'Presumption as to documents produced as record of evidence, etc' corresponds to Indian Evidence Act, 1872 Section 80 'Presumption as to documents produced as record of evidence' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "79",
+      "sub_section": null,
+      "title": "Presumption as to documents produced as record of evidence, etc",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "80",
+      "sub_section": null,
+      "title": "Presumption as to documents produced as record of evidence",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-80",
+    "lookup_key": "80",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 80 'Presumption as to Gazettes, newspapers, and other documents' corresponds to Indian Evidence Act, 1872 Section 81 'Presumption as to Gazettes, newspapers, private Acts of Parliament and other documents' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "80",
+      "sub_section": null,
+      "title": "Presumption as to Gazettes, newspapers, and other documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "81",
+      "sub_section": null,
+      "title": "Presumption as to Gazettes, newspapers, private Acts of Parliament and other documents",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-81",
+    "lookup_key": "81",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 81 'Presumption as to Gazettes in electronic or digital record' corresponds to Indian Evidence Act, 1872 Section 81A 'Presumption as to Gazettes in electronic forms' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "81",
+      "sub_section": null,
+      "title": "Presumption as to Gazettes in electronic or digital record",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "81A",
+      "sub_section": null,
+      "title": "Presumption as to Gazettes in electronic forms",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-82",
+    "lookup_key": "82",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 82 'Presumption as to maps or plans made by authority of Government' corresponds to Indian Evidence Act, 1872 Section 83 'Presumption as to maps or plans made by authority of Government' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "82",
+      "sub_section": null,
+      "title": "Presumption as to maps or plans made by authority of Government",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "83",
+      "sub_section": null,
+      "title": "Presumption as to maps or plans made by authority of Government",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-83",
+    "lookup_key": "83",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 83 'Presumption as to collections of laws and reports of decisions' corresponds to Indian Evidence Act, 1872 Section 84 'Presumption as to collections of laws and reports of decisions' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "83",
+      "sub_section": null,
+      "title": "Presumption as to collections of laws and reports of decisions",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "84",
+      "sub_section": null,
+      "title": "Presumption as to collections of laws and reports of decisions",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-84",
+    "lookup_key": "84",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 84 'Presumption as to powers-of-attorney' corresponds to Indian Evidence Act, 1872 Section 85 'Presumptions as to powers-of-attorney' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "84",
+      "sub_section": null,
+      "title": "Presumption as to powers-of-attorney",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "85",
+      "sub_section": null,
+      "title": "Presumptions as to powers-of-attorney",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-85",
+    "lookup_key": "85",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 85 'Presumption as to electronic agreements' corresponds to Indian Evidence Act, 1872 Section 85A 'Presumption as to electronic agreements' under CHAPTER V OF DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "85",
+      "sub_section": null,
+      "title": "Presumption as to electronic agreements",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "85A",
+      "sub_section": null,
+      "title": "Presumption as to electronic agreements",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-86",
+    "lookup_key": "86",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 86 'Presumption as to electronic records and electronic signatures' corresponds to Indian Evidence Act, 1872 Section 85B 'Presumption as to electronic records and electronic signatures' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "86",
+      "sub_section": null,
+      "title": "Presumption as to electronic records and electronic signatures",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "85B",
+      "sub_section": null,
+      "title": "Presumption as to electronic records and electronic signatures",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-87",
+    "lookup_key": "87",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 87 'Presumption as to Electronic Signature Certificates' corresponds to Indian Evidence Act, 1872 Section 85C 'Presumption as to electronic signature certificates' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "87",
+      "sub_section": null,
+      "title": "Presumption as to Electronic Signature Certificates",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "85C",
+      "sub_section": null,
+      "title": "Presumption as to electronic signature certificates",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-88",
+    "lookup_key": "88",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 88 'Presumption as to certified copies of foreign judicial records' corresponds to Indian Evidence Act, 1872 Section 86 'Presumption as to certified copies of foreign judicial records' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "88",
+      "sub_section": null,
+      "title": "Presumption as to certified copies of foreign judicial records",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "86",
+      "sub_section": null,
+      "title": "Presumption as to certified copies of foreign judicial records",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-89",
+    "lookup_key": "89",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 89 'Presumption as to books, maps and charts' corresponds to Indian Evidence Act, 1872 Section 87 'Presumption as to books, maps and charts' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "89",
+      "sub_section": null,
+      "title": "Presumption as to books, maps and charts",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "87",
+      "sub_section": null,
+      "title": "Presumption as to books, maps and charts",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-90",
+    "lookup_key": "90",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 90 'Presumption as to electronic messages' corresponds to Indian Evidence Act, 1872 Section 88A 'Presumption as to electronic messages' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "90",
+      "sub_section": null,
+      "title": "Presumption as to electronic messages",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "88A",
+      "sub_section": null,
+      "title": "Presumption as to electronic messages",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-91",
+    "lookup_key": "91",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 91 'Presumption as to due execution, etc., of documents not produced' corresponds to Indian Evidence Act, 1872 Section 89 'Presumption as to due execution, etc., of documents not produced' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "91",
+      "sub_section": null,
+      "title": "Presumption as to due execution, etc., of documents not produced",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "89",
+      "sub_section": null,
+      "title": "Presumption as to due execution, etc., of documents not produced",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-92",
+    "lookup_key": "92",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 92 'Presumption as to documents thirty years old' corresponds to Indian Evidence Act, 1872 Section 90 'Presumption as to documents thirty years old' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "92",
+      "sub_section": null,
+      "title": "Presumption as to documents thirty years old",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "90",
+      "sub_section": null,
+      "title": "Presumption as to documents thirty years old",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-93",
+    "lookup_key": "93",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 93 'Presumption as to electronic records five years old' corresponds to Indian Evidence Act, 1872 Section 90A 'Presumption as to electronic records five years old' under CHAPTER V OF DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "93",
+      "sub_section": null,
+      "title": "Presumption as to electronic records five years old",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "90A",
+      "sub_section": null,
+      "title": "Presumption as to electronic records five years old",
+      "chapter": "CHAPTER V OF DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-94",
+    "lookup_key": "94",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 94 'Evidence of terms of contracts, grants and other dispositions of property reduced to form of document' corresponds to Indian Evidence Act, 1872 Section 91 'Evidence of terms of contracts, grants and other dispositions of property reduced to form of document' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "94",
+      "sub_section": null,
+      "title": "Evidence of terms of contracts, grants and other dispositions of property reduced to form of document",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "91",
+      "sub_section": null,
+      "title": "Evidence of terms of contracts, grants and other dispositions of property reduced to form of document",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-95",
+    "lookup_key": "95",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 95 'Exclusion of evidence of oral agreement' corresponds to Indian Evidence Act, 1872 Section 92 'Exclusion of evidence of oral agreement' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "95",
+      "sub_section": null,
+      "title": "Exclusion of evidence of oral agreement",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "92",
+      "sub_section": null,
+      "title": "Exclusion of evidence of oral agreement",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-96",
+    "lookup_key": "96",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 96 'Exclusion of evidence to explain or amend ambiguous document' corresponds to Indian Evidence Act, 1872 Section 93 'Exclusion of evidence to explain or amend ambiguous document' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "96",
+      "sub_section": null,
+      "title": "Exclusion of evidence to explain or amend ambiguous document",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "93",
+      "sub_section": null,
+      "title": "Exclusion of evidence to explain or amend ambiguous document",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-97",
+    "lookup_key": "97",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 97 'Exclusion of evidence against application of document to existing facts' corresponds to Indian Evidence Act, 1872 Section 94 'Exclusion of evidence against application of document to existing facts' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "97",
+      "sub_section": null,
+      "title": "Exclusion of evidence against application of document to existing facts",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "94",
+      "sub_section": null,
+      "title": "Exclusion of evidence against application of document to existing facts",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-98",
+    "lookup_key": "98",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 98 'Evidence as to document unmeaning in reference to existing facts' corresponds to Indian Evidence Act, 1872 Section 95 'Evidence as to document unmeaning in reference to existing facts' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "98",
+      "sub_section": null,
+      "title": "Evidence as to document unmeaning in reference to existing facts",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "95",
+      "sub_section": null,
+      "title": "Evidence as to document unmeaning in reference to existing facts",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-99",
+    "lookup_key": "99",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 99 'Evidence as to application of language which can apply to one only of several persons' corresponds to Indian Evidence Act, 1872 Section 96 'Evidence as to application of language which can apply to one only of several persons' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "99",
+      "sub_section": null,
+      "title": "Evidence as to application of language which can apply to one only of several persons",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "96",
+      "sub_section": null,
+      "title": "Evidence as to application of language which can apply to one only of several persons",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-100",
+    "lookup_key": "100",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 100 'Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies' corresponds to Indian Evidence Act, 1872 Section 97 'Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "100",
+      "sub_section": null,
+      "title": "Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "97",
+      "sub_section": null,
+      "title": "Evidence as to application of language to one of two sets of facts, to neither of which the whole correctly applies",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-101",
+    "lookup_key": "101",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 101 'Evidence as to meaning of illegible characters, etc' corresponds to Indian Evidence Act, 1872 Section 98 'Evidence as to meaning of illegible characters, etc' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "101",
+      "sub_section": null,
+      "title": "Evidence as to meaning of illegible characters, etc",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "98",
+      "sub_section": null,
+      "title": "Evidence as to meaning of illegible characters, etc",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-102",
+    "lookup_key": "102",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 102 'Who may give evidence of agreement varying terms of document' corresponds to Indian Evidence Act, 1872 Section 99 'Who may give evidence of agreement varying terms of document' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "102",
+      "sub_section": null,
+      "title": "Who may give evidence of agreement varying terms of document",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "99",
+      "sub_section": null,
+      "title": "Who may give evidence of agreement varying terms of document",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-103",
+    "lookup_key": "103",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 103 'Saving of provisions of Indian Succession Act relating to wills' corresponds to Indian Evidence Act, 1872 Section 100 'Saving of provisions of Indian Succession Act relating to wills' under CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "103",
+      "sub_section": null,
+      "title": "Saving of provisions of Indian Succession Act relating to wills",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL EVIDENCE BY DOCUMENTARY EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "100",
+      "sub_section": null,
+      "title": "Saving of provisions of Indian Succession Act relating to wills",
+      "chapter": "CHAPTER VI OF THE EXCLUSION OF ORAL BY DOCUMENTARY EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-104",
+    "lookup_key": "104",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 104 'Burden of proof' corresponds to Indian Evidence Act, 1872 Section 101 'Burden of proof' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "104",
+      "sub_section": null,
+      "title": "Burden of proof",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "101",
+      "sub_section": null,
+      "title": "Burden of proof",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-105",
+    "lookup_key": "105",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 105 'On whom burden of proof lies' corresponds to Indian Evidence Act, 1872 Section 102 'On whom burden of proof lies' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "105",
+      "sub_section": null,
+      "title": "On whom burden of proof lies",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "102",
+      "sub_section": null,
+      "title": "On whom burden of proof lies",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-106",
+    "lookup_key": "106",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 106 'Burden of proof as to particular fact' corresponds to Indian Evidence Act, 1872 Section 103 'Burden of proof as to particular fact' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "106",
+      "sub_section": null,
+      "title": "Burden of proof as to particular fact",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "103",
+      "sub_section": null,
+      "title": "Burden of proof as to particular fact",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-107",
+    "lookup_key": "107",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 107 'Burden of proving fact to be proved to make evidence admissible' corresponds to Indian Evidence Act, 1872 Section 104 'Burden of proving fact to be proved to make evidence admissible' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "107",
+      "sub_section": null,
+      "title": "Burden of proving fact to be proved to make evidence admissible",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "104",
+      "sub_section": null,
+      "title": "Burden of proving fact to be proved to make evidence admissible",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-108",
+    "lookup_key": "108",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 108 'Burden of proving that case of accused comes within exceptions' corresponds to Indian Evidence Act, 1872 Section 105 'Burden of proving that case of accused comes within exceptions' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "108",
+      "sub_section": null,
+      "title": "Burden of proving that case of accused comes within exceptions",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "105",
+      "sub_section": null,
+      "title": "Burden of proving that case of accused comes within exceptions",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-109",
+    "lookup_key": "109",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 109 'Burden of proving fact especially within knowledge' corresponds to Indian Evidence Act, 1872 Section 106 'Burden of proving fact especially within knowledge' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "109",
+      "sub_section": null,
+      "title": "Burden of proving fact especially within knowledge",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "106",
+      "sub_section": null,
+      "title": "Burden of proving fact especially within knowledge",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-110",
+    "lookup_key": "110",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 110 'Burden of proving death of person known to have been alive within thirty years' corresponds to Indian Evidence Act, 1872 Section 107 'Burden of proving death of person known to have been alive within thirty years' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "110",
+      "sub_section": null,
+      "title": "Burden of proving death of person known to have been alive within thirty years",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "107",
+      "sub_section": null,
+      "title": "Burden of proving death of person known to have been alive within thirty years",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-111",
+    "lookup_key": "111",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 111 'Burden of proving that person is alive who has not been heard of for seven years' corresponds to Indian Evidence Act, 1872 Section 108 'Burden of proving that person is alive who has not been heard of for seven years' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "111",
+      "sub_section": null,
+      "title": "Burden of proving that person is alive who has not been heard of for seven years",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "108",
+      "sub_section": null,
+      "title": "Burden of proving that person is alive who has not been heard of for seven years",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-112",
+    "lookup_key": "112",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 112 'Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent' corresponds to Indian Evidence Act, 1872 Section 109 'Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "112",
+      "sub_section": null,
+      "title": "Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "109",
+      "sub_section": null,
+      "title": "Burden of proof as to relationship in the cases of partners, landlord and tenant, principal and agent",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-113",
+    "lookup_key": "113",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 113 'Burden of proof as to ownership' corresponds to Indian Evidence Act, 1872 Section 110 'Burden of proof as to ownership' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "113",
+      "sub_section": null,
+      "title": "Burden of proof as to ownership",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "110",
+      "sub_section": null,
+      "title": "Burden of proof as to ownership",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-114",
+    "lookup_key": "114",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 114 'Proof of good faith in transactions where one party is in relation of active confidence' corresponds to Indian Evidence Act, 1872 Section 111 'Proof of good faith in transactions where one party is in relation of active confidence' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "114",
+      "sub_section": null,
+      "title": "Proof of good faith in transactions where one party is in relation of active confidence",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "111",
+      "sub_section": null,
+      "title": "Proof of good faith in transactions where one party is in relation of active confidence",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-115",
+    "lookup_key": "115",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 115 'Presumption as to certain offences' corresponds to Indian Evidence Act, 1872 Section 111A 'Presumption as to certain offences' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "115",
+      "sub_section": null,
+      "title": "Presumption as to certain offences",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "111A",
+      "sub_section": null,
+      "title": "Presumption as to certain offences",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-116",
+    "lookup_key": "116",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 116 'Birth during marriage, conclusive proof of legitimacy' corresponds to Indian Evidence Act, 1872 Section 112 'Birth during marriage, conclusive proof of legitimacy' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "116",
+      "sub_section": null,
+      "title": "Birth during marriage, conclusive proof of legitimacy",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "112",
+      "sub_section": null,
+      "title": "Birth during marriage, conclusive proof of legitimacy",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-117",
+    "lookup_key": "117",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 117 'Presumption as to abetment of suicide by a married woman' corresponds to Indian Evidence Act, 1872 Section 113A 'Presumption as to abetment of suicide by a married woman' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "117",
+      "sub_section": null,
+      "title": "Presumption as to abetment of suicide by a married woman",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "113A",
+      "sub_section": null,
+      "title": "Presumption as to abetment of suicide by a married woman",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-118",
+    "lookup_key": "118",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 118 'Presumption as to dowry death' corresponds to Indian Evidence Act, 1872 Section 113B 'Presumption as to dowry death' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "118",
+      "sub_section": null,
+      "title": "Presumption as to dowry death",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "113B",
+      "sub_section": null,
+      "title": "Presumption as to dowry death",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-119",
+    "lookup_key": "119",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 119 'Court may presume existence of certain facts' corresponds to Indian Evidence Act, 1872 Section 114 'Court may presume existence of certain facts' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "119",
+      "sub_section": null,
+      "title": "Court may presume existence of certain facts",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "114",
+      "sub_section": null,
+      "title": "Court may presume existence of certain facts",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-120",
+    "lookup_key": "120",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 120 'Presumption as to absence of consent in certain prosecution for rape' corresponds to Indian Evidence Act, 1872 Section 114A 'Presumption as to absence of consent in certain prosecution for rape' under PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "120",
+      "sub_section": null,
+      "title": "Presumption as to absence of consent in certain prosecution for rape",
+      "chapter": "PART IV PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "114A",
+      "sub_section": null,
+      "title": "Presumption as to absence of consent in certain prosecution for rape",
+      "chapter": "PART III PRODUCTION AND EFFECT OF EVIDENCE CHAPTER VII OF THE BURDEN OF PROOF"
+    }
+  },
+  {
+    "id": "BSA-121",
+    "lookup_key": "121",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 121 'Estoppel' corresponds to Indian Evidence Act, 1872 Section 115 'Estoppel' under CHAPTER VIII ESTOPPEL.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "121",
+      "sub_section": null,
+      "title": "Estoppel",
+      "chapter": "CHAPTER VIII ESTOPPEL"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "115",
+      "sub_section": null,
+      "title": "Estoppel",
+      "chapter": "CHAPTER VIII ESTOPPEL"
+    }
+  },
+  {
+    "id": "BSA-122",
+    "lookup_key": "122",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 122 'Estoppel of tenants and of licensee of person in possession' corresponds to Indian Evidence Act, 1872 Section 116 'Estoppel of tenants and of licensee of person in possession' under CHAPTER VIII ESTOPPEL.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "122",
+      "sub_section": null,
+      "title": "Estoppel of tenants and of licensee of person in possession",
+      "chapter": "CHAPTER VIII ESTOPPEL"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "116",
+      "sub_section": null,
+      "title": "Estoppel of tenants and of licensee of person in possession",
+      "chapter": "CHAPTER VIII ESTOPPEL"
+    }
+  },
+  {
+    "id": "BSA-123",
+    "lookup_key": "123",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 123 'Estoppel of acceptor of bill of exchange, bailee or licensee' corresponds to Indian Evidence Act, 1872 Section 117 'Estoppel of acceptor of bill of exchange, bailee or licensee' under CHAPTER VIII ESTOPPEL.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "123",
+      "sub_section": null,
+      "title": "Estoppel of acceptor of bill of exchange, bailee or licensee",
+      "chapter": "CHAPTER VIII ESTOPPEL"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "117",
+      "sub_section": null,
+      "title": "Estoppel of acceptor of bill of exchange, bailee or licensee",
+      "chapter": "CHAPTER VIII ESTOPPEL"
+    }
+  },
+  {
+    "id": "BSA-124",
+    "lookup_key": "124",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 124 'Who may testify' corresponds to Indian Evidence Act, 1872 Section 118 'Who may testify' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "124",
+      "sub_section": null,
+      "title": "Who may testify",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "118",
+      "sub_section": null,
+      "title": "Who may testify",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-125",
+    "lookup_key": "125",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 125 'Witness unable to communicate verbally' corresponds to Indian Evidence Act, 1872 Section 119 'Witness unable to communicate verbally' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "125",
+      "sub_section": null,
+      "title": "Witness unable to communicate verbally",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "119",
+      "sub_section": null,
+      "title": "Witness unable to communicate verbally",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-126",
+    "lookup_key": "126",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 126 'Competency of husband and wife as witnesses in certain cases' corresponds to Indian Evidence Act, 1872 Section 120 'Parties to civil suit, and their wives or husbands. Husband or wife of person under criminal trial' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "126",
+      "sub_section": null,
+      "title": "Competency of husband and wife as witnesses in certain cases",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "120",
+      "sub_section": null,
+      "title": "Parties to civil suit, and their wives or husbands. Husband or wife of person under criminal trial",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-127",
+    "lookup_key": "127",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 127 'Judges and Magistrates' corresponds to Indian Evidence Act, 1872 Section 121 'Judges and Magistrates' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "127",
+      "sub_section": null,
+      "title": "Judges and Magistrates",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "121",
+      "sub_section": null,
+      "title": "Judges and Magistrates",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-128",
+    "lookup_key": "128",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 128 'Communications during marriage' corresponds to Indian Evidence Act, 1872 Section 122 'Communications during marriage' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "128",
+      "sub_section": null,
+      "title": "Communications during marriage",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "122",
+      "sub_section": null,
+      "title": "Communications during marriage",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-129",
+    "lookup_key": "129",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 129 'Evidence as to affairs of State' corresponds to Indian Evidence Act, 1872 Section 123 'Evidence as to affairs of State' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "129",
+      "sub_section": null,
+      "title": "Evidence as to affairs of State",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "123",
+      "sub_section": null,
+      "title": "Evidence as to affairs of State",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-130",
+    "lookup_key": "130",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 130 'Official communications' corresponds to Indian Evidence Act, 1872 Section 124 'Official communications' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "130",
+      "sub_section": null,
+      "title": "Official communications",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "124",
+      "sub_section": null,
+      "title": "Official communications",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-131",
+    "lookup_key": "131",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 131 'Information as to commission of offences' corresponds to Indian Evidence Act, 1872 Section 125 'Information as to commission of offences' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "131",
+      "sub_section": null,
+      "title": "Information as to commission of offences",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "125",
+      "sub_section": null,
+      "title": "Information as to commission of offences",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-132",
+    "lookup_key": "132",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 132 'Professional Communications' corresponds to Indian Evidence Act, 1872 Section 126 'Professional communications' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "132",
+      "sub_section": null,
+      "title": "Professional Communications",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "126",
+      "sub_section": null,
+      "title": "Professional communications",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-132(3)",
+    "lookup_key": "132(3)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 132(3) 'Professional Communications' corresponds to Indian Evidence Act, 1872 Section 127 'Section 126 to apply to interpreters, etc' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "132",
+      "sub_section": "132(3)",
+      "title": "Professional Communications",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "127",
+      "sub_section": null,
+      "title": "Section 126 to apply to interpreters, etc",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-133",
+    "lookup_key": "133",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 133 'Privilege not waived by volunteering evidence' corresponds to Indian Evidence Act, 1872 Section 128 'Privilege not waived by volunteering evidence' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "133",
+      "sub_section": null,
+      "title": "Privilege not waived by volunteering evidence",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "128",
+      "sub_section": null,
+      "title": "Privilege not waived by volunteering evidence",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-134",
+    "lookup_key": "134",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 134 'Confidential communication with legal advisers' corresponds to Indian Evidence Act, 1872 Section 129 'Confidential communications with legal advisers' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "134",
+      "sub_section": null,
+      "title": "Confidential communication with legal advisers",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "129",
+      "sub_section": null,
+      "title": "Confidential communications with legal advisers",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-135",
+    "lookup_key": "135",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 135 'Production of title-deeds of witness not a party' corresponds to Indian Evidence Act, 1872 Section 130 'Production of title-deeds of witness not a party' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "135",
+      "sub_section": null,
+      "title": "Production of title-deeds of witness not a party",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "130",
+      "sub_section": null,
+      "title": "Production of title-deeds of witness not a party",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-136",
+    "lookup_key": "136",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 136 'Production of documents or electronic records which another person, having possession, could refuse to produce' corresponds to Indian Evidence Act, 1872 Section 131 'Production of documents or electronic records which another person, having possession, could refuse to produce' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "136",
+      "sub_section": null,
+      "title": "Production of documents or electronic records which another person, having possession, could refuse to produce",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "131",
+      "sub_section": null,
+      "title": "Production of documents or electronic records which another person, having possession, could refuse to produce",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-137",
+    "lookup_key": "137",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 137 'Witness not excused from answering on ground that answer will criminate' corresponds to Indian Evidence Act, 1872 Section 132 'Witness not excused from answering on ground that answer will criminate' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "137",
+      "sub_section": null,
+      "title": "Witness not excused from answering on ground that answer will criminate",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "132",
+      "sub_section": null,
+      "title": "Witness not excused from answering on ground that answer will criminate",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-138",
+    "lookup_key": "138",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 138 'Accomplice' corresponds to Indian Evidence Act, 1872 Section 133 'Accomplice' under CHAPTER IX OF WITNESSES with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "138",
+      "sub_section": null,
+      "title": "Accomplice",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "133",
+      "sub_section": null,
+      "title": "Accomplice",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-139",
+    "lookup_key": "139",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 139 'Number of witnesses' corresponds to Indian Evidence Act, 1872 Section 134 'Number of witnesses' under CHAPTER IX OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "139",
+      "sub_section": null,
+      "title": "Number of witnesses",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "134",
+      "sub_section": null,
+      "title": "Number of witnesses",
+      "chapter": "CHAPTER IX OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-140",
+    "lookup_key": "140",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 140 'Order of production and examination of witnesses' corresponds to Indian Evidence Act, 1872 Section 135 'Order of production and examination of witnesses' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "140",
+      "sub_section": null,
+      "title": "Order of production and examination of witnesses",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "135",
+      "sub_section": null,
+      "title": "Order of production and examination of witnesses",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-141",
+    "lookup_key": "141",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 141 'Judge to decide as to admissibility of evidence' corresponds to Indian Evidence Act, 1872 Section 136 'Judge to decide as to admissibility of evidence' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "141",
+      "sub_section": null,
+      "title": "Judge to decide as to admissibility of evidence",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "136",
+      "sub_section": null,
+      "title": "Judge to decide as to admissibility of evidence",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-142",
+    "lookup_key": "142",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 142 'Examination of witnesses' corresponds to Indian Evidence Act, 1872 Section 137 'Examination-in-chief. Cross-examination. Re-examination' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "142",
+      "sub_section": null,
+      "title": "Examination of witnesses",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "137",
+      "sub_section": null,
+      "title": "Examination-in-chief. Cross-examination. Re-examination",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-143",
+    "lookup_key": "143",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 143 'Order of examinations' corresponds to Indian Evidence Act, 1872 Section 138 'Order of examinations' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "143",
+      "sub_section": null,
+      "title": "Order of examinations",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "138",
+      "sub_section": null,
+      "title": "Order of examinations",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-144",
+    "lookup_key": "144",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 144 'Cross-examination of person called to produce a document' corresponds to Indian Evidence Act, 1872 Section 139 'Cross-examination of person called to produce a document' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "144",
+      "sub_section": null,
+      "title": "Cross-examination of person called to produce a document",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "139",
+      "sub_section": null,
+      "title": "Cross-examination of person called to produce a document",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-145",
+    "lookup_key": "145",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 145 'Witnesses to character' corresponds to Indian Evidence Act, 1872 Section 140 'Witnesses to character' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "145",
+      "sub_section": null,
+      "title": "Witnesses to character",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "140",
+      "sub_section": null,
+      "title": "Witnesses to character",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-146",
+    "lookup_key": "146",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 146 'Leading questions' corresponds to Indian Evidence Act, 1872 Section 141 'Leading questions' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "146",
+      "sub_section": null,
+      "title": "Leading questions",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "141",
+      "sub_section": null,
+      "title": "Leading questions",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-146(1)",
+    "lookup_key": "146(1)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 146(1) 'Leading questions' corresponds to Indian Evidence Act, 1872 Section 141 'Leading questions' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "146",
+      "sub_section": "146(1)",
+      "title": "Leading questions",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "141",
+      "sub_section": null,
+      "title": "Leading questions",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-146(2),146(3)",
+    "lookup_key": "146(2), 146(3)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 146(2), 146(3) 'Leading questions' corresponds to Indian Evidence Act, 1872 Section 142 'When they must not be asked' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "146",
+      "sub_section": "146(2), 146(3)",
+      "title": "Leading questions",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "142",
+      "sub_section": null,
+      "title": "When they must not be asked",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-146(4)",
+    "lookup_key": "146(4)",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 146(4) 'Leading questions' corresponds to Indian Evidence Act, 1872 Section 143 'When they may be asked' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "146",
+      "sub_section": "146(4)",
+      "title": "Leading questions",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "143",
+      "sub_section": null,
+      "title": "When they may be asked",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-147",
+    "lookup_key": "147",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 147 'Evidence as to matters in writing' corresponds to Indian Evidence Act, 1872 Section 144 'Evidence as to matters in writing' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "147",
+      "sub_section": null,
+      "title": "Evidence as to matters in writing",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "144",
+      "sub_section": null,
+      "title": "Evidence as to matters in writing",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-148",
+    "lookup_key": "148",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 148 'Cross-examination as to previous statements in writing' corresponds to Indian Evidence Act, 1872 Section 145 'Cross-examination as to previous statements in writing' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "148",
+      "sub_section": null,
+      "title": "Cross-examination as to previous statements in writing",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "145",
+      "sub_section": null,
+      "title": "Cross-examination as to previous statements in writing",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-149",
+    "lookup_key": "149",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 149 'Questions lawful in cross-examination' corresponds to Indian Evidence Act, 1872 Section 146 'Questions lawful in cross-examination' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "149",
+      "sub_section": null,
+      "title": "Questions lawful in cross-examination",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "146",
+      "sub_section": null,
+      "title": "Questions lawful in cross-examination",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-150",
+    "lookup_key": "150",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 150 'When witness to be compelled to answer' corresponds to Indian Evidence Act, 1872 Section 147 'When witness to be compelled to answer' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "150",
+      "sub_section": null,
+      "title": "When witness to be compelled to answer",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "147",
+      "sub_section": null,
+      "title": "When witness to be compelled to answer",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-151",
+    "lookup_key": "151",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 151 'Court to decide when question shall be asked and when witness compelled to answer' corresponds to Indian Evidence Act, 1872 Section 148 'Court to decide when question shall be asked and when witness compelled to answer' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "151",
+      "sub_section": null,
+      "title": "Court to decide when question shall be asked and when witness compelled to answer",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "148",
+      "sub_section": null,
+      "title": "Court to decide when question shall be asked and when witness compelled to answer",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-152",
+    "lookup_key": "152",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 152 'Question not to be asked without reasonable grounds' corresponds to Indian Evidence Act, 1872 Section 149 'Question not to be asked without reasonable grounds' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "152",
+      "sub_section": null,
+      "title": "Question not to be asked without reasonable grounds",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "149",
+      "sub_section": null,
+      "title": "Question not to be asked without reasonable grounds",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-153",
+    "lookup_key": "153",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 153 'Procedure of Court in case of question being asked without reasonable grounds' corresponds to Indian Evidence Act, 1872 Section 150 'Procedure of Court in case of question being asked without reasonable grounds' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "153",
+      "sub_section": null,
+      "title": "Procedure of Court in case of question being asked without reasonable grounds",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "150",
+      "sub_section": null,
+      "title": "Procedure of Court in case of question being asked without reasonable grounds",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-154",
+    "lookup_key": "154",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 154 'Indecent and scandalous questions' corresponds to Indian Evidence Act, 1872 Section 151 'Indecent and scandalous questions' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "154",
+      "sub_section": null,
+      "title": "Indecent and scandalous questions",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "151",
+      "sub_section": null,
+      "title": "Indecent and scandalous questions",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-155",
+    "lookup_key": "155",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 155 'Questions intended to insult or annoy' corresponds to Indian Evidence Act, 1872 Section 152 'Questions intended to insult or annoy' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "155",
+      "sub_section": null,
+      "title": "Questions intended to insult or annoy",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "152",
+      "sub_section": null,
+      "title": "Questions intended to insult or annoy",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-156",
+    "lookup_key": "156",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 156 'Exclusion of evidence to contradict answers to questions testing veracity' corresponds to Indian Evidence Act, 1872 Section 153 'Exclusion of evidence to contradict answers to questions testing veracity' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "156",
+      "sub_section": null,
+      "title": "Exclusion of evidence to contradict answers to questions testing veracity",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "153",
+      "sub_section": null,
+      "title": "Exclusion of evidence to contradict answers to questions testing veracity",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-157",
+    "lookup_key": "157",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 157 'Question by party to his own witness' corresponds to Indian Evidence Act, 1872 Section 154 'Question by party to his own witness' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "157",
+      "sub_section": null,
+      "title": "Question by party to his own witness",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "154",
+      "sub_section": null,
+      "title": "Question by party to his own witness",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-158",
+    "lookup_key": "158",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 158 'Impeaching credit of witness' corresponds to Indian Evidence Act, 1872 Section 155 'Impeaching credit of witness' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "158",
+      "sub_section": null,
+      "title": "Impeaching credit of witness",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "155",
+      "sub_section": null,
+      "title": "Impeaching credit of witness",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-159",
+    "lookup_key": "159",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 159 'Questions tending to corroborate evidence of relevant fact, admissible' corresponds to Indian Evidence Act, 1872 Section 156 'Questions tending to corroborate evidence of relevant fact, admissible' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "159",
+      "sub_section": null,
+      "title": "Questions tending to corroborate evidence of relevant fact, admissible",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "156",
+      "sub_section": null,
+      "title": "Questions tending to corroborate evidence of relevant fact, admissible",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-160",
+    "lookup_key": "160",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 160 'Former statements of witness may be proved to corroborate later testimony as to same fact' corresponds to Indian Evidence Act, 1872 Section 157 'Former statements of witness may be proved to corroborate later testimony as to same fact' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "160",
+      "sub_section": null,
+      "title": "Former statements of witness may be proved to corroborate later testimony as to same fact",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "157",
+      "sub_section": null,
+      "title": "Former statements of witness may be proved to corroborate later testimony as to same fact",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-161",
+    "lookup_key": "161",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 161 'What matters may be proved in connection with proved statement relevant under section 26 or 27' corresponds to Indian Evidence Act, 1872 Section 158 'What matters may be proved in connection with proved statement relevant under section 32 or 33' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "161",
+      "sub_section": null,
+      "title": "What matters may be proved in connection with proved statement relevant under section 26 or 27",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "158",
+      "sub_section": null,
+      "title": "What matters may be proved in connection with proved statement relevant under section 32 or 33",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-162",
+    "lookup_key": "162",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 162 'Refreshing memory' corresponds to Indian Evidence Act, 1872 Section 159 'Refreshing memory' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "162",
+      "sub_section": null,
+      "title": "Refreshing memory",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "159",
+      "sub_section": null,
+      "title": "Refreshing memory",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-163",
+    "lookup_key": "163",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 163 'Testimony to facts stated in document mentioned in section 162' corresponds to Indian Evidence Act, 1872 Section 160 'Testimony to facts stated in document mentioned in section 159' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "163",
+      "sub_section": null,
+      "title": "Testimony to facts stated in document mentioned in section 162",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "160",
+      "sub_section": null,
+      "title": "Testimony to facts stated in document mentioned in section 159",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-164",
+    "lookup_key": "164",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 164 'Right of adverse party as to writing used to refresh memory' corresponds to Indian Evidence Act, 1872 Section 161 'Right of adverse party as to writing used to refresh memory' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "164",
+      "sub_section": null,
+      "title": "Right of adverse party as to writing used to refresh memory",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "161",
+      "sub_section": null,
+      "title": "Right of adverse party as to writing used to refresh memory",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-165",
+    "lookup_key": "165",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 165 'Production of documents' corresponds to Indian Evidence Act, 1872 Section 162 'Production of documents' under CHAPTER X OF THE EXAMINATION OF WITNESSES with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "165",
+      "sub_section": null,
+      "title": "Production of documents",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "162",
+      "sub_section": null,
+      "title": "Production of documents",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-166",
+    "lookup_key": "166",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 166 'Giving, as evidence, of document called for and produced on notice' corresponds to Indian Evidence Act, 1872 Section 163 'Giving, as evidence, of document called for and produced on notice' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "166",
+      "sub_section": null,
+      "title": "Giving, as evidence, of document called for and produced on notice",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "163",
+      "sub_section": null,
+      "title": "Giving, as evidence, of document called for and produced on notice",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-167",
+    "lookup_key": "167",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 167 'Using, as evidence, of document production of which was refused on notice' corresponds to Indian Evidence Act, 1872 Section 164 'Using, as evidence, of document production of which was refused on notice' under CHAPTER X OF THE EXAMINATION OF WITNESSES.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "167",
+      "sub_section": null,
+      "title": "Using, as evidence, of document production of which was refused on notice",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "164",
+      "sub_section": null,
+      "title": "Using, as evidence, of document production of which was refused on notice",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-168",
+    "lookup_key": "168",
+    "status": "Change",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 168 'Judge's power to put questions or order production' corresponds to Indian Evidence Act, 1872 Section 165 'Judge's power to put questions or order production' under CHAPTER X OF THE EXAMINATION OF WITNESSES with amendments (Change).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "168",
+      "sub_section": null,
+      "title": "Judge's power to put questions or order production",
+      "chapter": "CHAPTER X OF EXAMINATION OF WITNESSES"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "165",
+      "sub_section": null,
+      "title": "Judge's power to put questions or order production",
+      "chapter": "CHAPTER X OF THE EXAMINATION OF WITNESSES"
+    }
+  },
+  {
+    "id": "BSA-169",
+    "lookup_key": "169",
+    "status": "Retained",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 169 'No new trial for improper admission or rejection of evidence' corresponds to Indian Evidence Act, 1872 Section 167 'No new trial for improper admission or rejection of evidence' under CHAPTER XI OF IMPROPER ADMISSION AND REJECTION OF EVIDENCE.",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "169",
+      "sub_section": null,
+      "title": "No new trial for improper admission or rejection of evidence",
+      "chapter": "CHAPTER XI OF IMPROPER ADMISSION AND REJECTION OF EVIDENCE"
+    },
+    "target": {
+      "act": "Indian Evidence Act, 1872",
+      "section": "167",
+      "sub_section": null,
+      "title": "No new trial for improper admission or rejection of evidence",
+      "chapter": "CHAPTER XI OF IMPROPER ADMISSION AND REJECTION OF EVIDENCE"
+    }
+  },
+  {
+    "id": "BSA-170",
+    "lookup_key": "170",
+    "status": "New Section",
+    "mapping_statement": "Bharatiya Sakshya Adhiniyam, 2023 Section 170 'Repeal and savings' is a newly introduced provision with no direct counterpart in Indian Evidence Act, 1872 (New Section).",
+    "source": {
+      "act": "Bharatiya Sakshya Adhiniyam, 2023",
+      "section": "170",
+      "sub_section": null,
+      "title": "Repeal and savings",
+      "chapter": "CHAPTER XII REPEAL AND SAVINGS"
+    },
+    "target": null
+  }
+]

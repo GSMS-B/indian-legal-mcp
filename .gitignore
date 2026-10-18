@@ -42,6 +42,9 @@ flagged/
 *.swo
 .DS_Store
 *.db
+!legal.db
+*.bak
+data/pdf_sources/
 
 # Publisher artifacts
 mcp-publisher.exe

@@ -1,0 +1,306 @@
+{
+  "act_code": "EPA",
+  "act_name": "Environment (Protection) Act, 1986",
+  "year": 1986,
+  "total_sections": 37,
+  "blueprint_sections": 37,
+  "completeness": "100.0%",
+  "sections": [
+    {
+      "act_code": "EPA",
+      "chapter_number": "I",
+      "chapter_title": "PRELIMINARY",
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement",
+      "text": "CHAPTER I \nPRELIMINARY \n1. Short title, extent and commencement .—(1) This Act may be called the Environment \n(Protection) Act, 1986. \n(2) It extends to the whole of India. \n(3) It shall  come into force  on such date 1 as the Central Governme nt may, by notification in the \nOfficial Gazette, appoint and different dates may be appointed for different provisions of this Act and for \ndifferent areas."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "I",
+      "chapter_title": "PRELIMINARY",
+      "section_number": "2",
+      "section_title": "Definitions",
+      "text": "2. Definitions.—In this Act, unless the context otherwise requires,— \n(a) “environment” includes water, air and land and the inter -relationship which exists among and \nbetween water, air and land, and human being s, other living creatures, plants, micro -organism and \nproperty; \n(b) “environmental pollutant ” means any solid, liquid or gaseous substance present in such \nconcentration as may be, or tend to be, injurious to environment; \n(c) “environmental pollution ” means the presence in the environment of any environmental \npollutant; \n2[(ca) “Fund” means the Environmental Protection Fund established under section 16;] \n(d) “handling”, in relation to any substance, means the manufacture, processing, treatment, \npackage, storage, transportation, use, collection, destruction, conversion, offering for sale, transfer or \nthe like of such substance; \n(e) “hazardous substance” means any substance or preparation which, by reason of its chemical or \nphysico-chemical properties or handling, is liable to cau se harm to human beings, other living \ncreatures, plants, micro-organism, property or the environment; \n(f) “occupier”, in relation to any factory or premises, means a person who has control over the \naffairs of the factory or the premises and includes , in relation to any substance , the person in \npossession of the substance; \n                                                           \n1. 19th November, 1986, vide notification No. G.S.R.1198(E), dated 12thNovember, 1986, see Gazette of India, Extraordinary, \nPart II, sec. 3(i). \n2. Ins. by Act 18 of 2023, s. 2 and Schedule (w.e.f. 1-4-2024). \n \n(g) “prescribed” means prescribed by rules made under this Act."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "II",
+      "chapter_title": "GENERAL POWERS OF THE CENTRAL GOVERNMENT",
+      "section_number": "3",
+      "section_title": "Power of Central Government to take measures to protect and improve environment",
+      "text": "CHAPTER II \nGENERAL POWERS OF THE CENTRAL GOVERNMENT \n3. Power of Central Government to take measures to protect and improve environment .—(1) \nSubject to the provisions of this Act, the Central Government shall have the power to take all such \nmeasures as it deems necessary or expedient for the purpose of protect ing and improving the quality of \nthe environment and preventing, controlling and abating environmental pollution. \n(2) In particular, and without prejudice to the generality of the provisions of sub -section ( 1), such \nmeasures may include measures with respect to all or any of the following matters, namely:— \n(i) co-ordination of actions by the State Governments, officers and other authorities— \n(a) under this Act, or the rules made thereunder; or \n(b) under any other law for the time being in force which i s relatable to the objects of this \nAct; \n(ii) planning and execution of a nation -wide programme for the prevention, control and \nabatement of environmental pollution; \n(iii) laying down standards for the quality of environment in its various aspects; \n(iv) laying down standards for emission or discharge of environmental pollutants from various \nsources whatsoever: \nProvided that different standards for emission or discharge may be laid down under this clause \nfrom different sources having regard to the quality or composition of the emission or discharge of \nenvironmental pollutants from such sources; \n(v) restriction of areas in which any industries, operations or processes or class of industries, \noperations or processes shall not be carried out or shall be carried out subject to certain safeguards; \n(vi) laying down procedures and safeguards for the prevention of accidents which may cause \nenvironmental pollution and remedial measures for such accidents; \n(vii) laying down procedures and safeguards for the handling of hazardous substances; \n(viii) examination of such manufacturing processes, materials and substances as are likely to \ncause environmental pollution; \n(ix) carrying out and sponsoring investigations and research relating to problems of \nenvironmental pollution; \n(x) inspection of any premises, plant, equipment, machinery, manufacturing or other processes, \nmaterials or substances and giving, by order, of such directions to such authorities, officers or persons \nas it may consider necessary to take steps for the pre vention, control and abatement of environmental \npollution; \n(xi) establishment or recognition of environmental laboratories and institutes to carry out the \nfunctions entrusted to such environmental laboratories and institutes under this Act; \n(xii) collection and dissemination of information in respect of matters relating to environmental \npollution; \n(xiii) preparation of manuals, codes or guides relating to the prevention, control and abatement of \nenvironmental pollution; \n(xiv) such other matters as the Central Government deems necessary or expedient for the purpose \nof securing the effective implementation of the provisions of this Act. \n \n(3) The Central Government may, if it considers it necessary or expedient so to do for the purposes of \nthis Act, by order, published in the Official Gazette, constitute an authority or authorities by such name or \nnames as may be specified in the order for the purpose of exercising and performing such of the powers \nand functions (including the power to issue directions under section 5) of the Central Government under \nthis Act and for taking measures with respect to such of the matters referred to in sub -section (2) as may \nbe mentioned in the order and subject to the supervision and control of the Central Government and the \nprovisions of such order, such authority or authorities may exercise the powers or perform the functions \nor take the measures so mentioned in the order as if such authority or authorities had been empowered by \nthis Act to exercise those powers or perform those functions or take such measures."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "II",
+      "chapter_title": "GENERAL POWERS OF THE CENTRAL GOVERNMENT",
+      "section_number": "4",
+      "section_title": "Appointment of officers and their powers and functions",
+      "text": "4. Appointment of officers and their powers and functions .—(1) Without prejudice to the \nprovisions of sub -section ( 3) of s ection 3, the Central Government may appoint officers with such \ndesignations as it thinks fit for th e purposes of this Act and may entrust to them such of the powers and \nfunctions under this Act as it may deem fit. \n(2) The officers appointed under sub -section (1) shall be subject to the general control and direction \nof the Central Government or, if so di rected by that Government, also of the authority or authorities, if \nany, constituted under sub-section (3) of section 3 or of any other authority or officer."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "II",
+      "chapter_title": "GENERAL POWERS OF THE CENTRAL GOVERNMENT",
+      "section_number": "5",
+      "section_title": "Power to give directions",
+      "text": "5. Power to give directions.—Notwithstanding anything contained in any other law but subject to the \nprovisions of this Act, the Central Government may, in the exercise of its powers and performance of its \nfunctions under this Act, issue directions in writing to any person, officer or any authority and such \nperson, officer or authority shall be bound to comply with such directions. \nExplanation.—For the avoidance of doubts, it is hereby declared that the power to issue directions \nunder this section includes the power to direct— \n(a) the closure, prohibition or regulation of any industry, operation or process; or \n(b) stoppage or regulation of the supply of electricity or water or any other service."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "II",
+      "chapter_title": "GENERAL POWERS OF THE CENTRAL GOVERNMENT",
+      "section_number": "5A",
+      "section_title": "Appeal to National Green Tribunal",
+      "text": "1[5A. Appeal to National Green Tribunal .—Any person aggrieved by any directions issues under \nsection 5, on or after the commencement of the National Green Tribunal Act, 2010, may file an appeal to \nthe National Green Tribunal established under section 3 of the National Green Tribunal Act, 2010, in \naccordance with the provisions of that Act.]"
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "II",
+      "chapter_title": "GENERAL POWERS OF THE CENTRAL GOVERNMENT",
+      "section_number": "6",
+      "section_title": "Rules to regulate environmental pollution",
+      "text": "6. Rules to regulate environmental pollution.—(1) The Central Government may, by notification in \nthe Official Gazette, make rules in respect of all or any of the matters referred to in section 3. \n(2) In particular, and without prejudice to the generality of the foregoing power, such rules  may \nprovide for all or any of the following matters, namely:— \n(a) the standards of quality of air, water or soil for various areas and purposes; \n(b) the maximum allowable limits of concentration of various environmental pollutants (including \nnoise) for different areas; \n(c) the procedures and safeguards for the handling of hazardous substances; \n(d) the prohibition and restrictions on the handling of hazardous substances in different areas; \n(e) the prohibition and restriction s on the location of industries  and the carrying on of processes \nand operations in different areas; \n(f) the procedures and safeguards for the prevention of accidents which may cause environmental \npollution and for providing for remedial measures for such accidents."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "7",
+      "section_title": "Persons carrying on industry, operations, etc., not to allow emission or discharge of",
+      "text": "CHAPTER III \nPREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION \n7. Persons carrying on industry, operation , etc., not to allow emission or discharge of \nenvironmental pollutants in excess of the standards .—No person carrying on any industry, operation \n                                                           \n1. Ins. by Act 19 of 2010, s. 36 and Schedule III (w.e.f. 18-10-2010). \n \nor process shall  discharge or emit or permit to be discharged or emitted any environmental pollutant in \nexcess or such standards as may be prescribed."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "8",
+      "section_title": "Persons handling hazardous substances to comply with procedural safeguards",
+      "text": "8. Persons handling hazardous substances to comply with procedural safeguards .—No person \nshall handle or cause to be hand led any hazardous substance except in accordance with such procedure \nand after complying with such safeguards as may be prescribed."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "9",
+      "section_title": "Furnishing of information to authorities and agencies in certain cases",
+      "text": "9. Furnishing of information to authorities and agencies in certain cases .—(1) Where the \ndischarge of any environmental pollutant in excess of the prescribed standards occurs or is apprehended \nto occur due to any accident or other unforeseen act or event, the person responsible for such discharge \nand the person in charge of the place at which such discharge occurs or is app rehended to occur shall be \nbound to prevent or mitigate the environmental pollution caused as a result of such disc harge and shall \nalso forthwith— \n(a) intimate the fact of such occurrence or apprehension of such occurrence; and \n(b) be bound, if called upon, to render all assistance, \nto such authorities or agencies as may be prescribed. \n(2) On receipt of information with respect to the fact or apprehension of any occurrence of the nature \nreferred to in sub -section ( 1), whether through intimation under that sub -section or otherwise, the \nauthorities or agencies referred to in sub -section ( 1) shall, as early as practicable, cause such remedial \nmeasures to be taken as are necessary to prevent or mitigate the environmental pollution. \n(3) The expenses, if any , incurred by any authority or agency with respect to the remedial measures \nreferred to in sub -section (2), together with interest (at such reasonable rate as the Government may, by \norder, fix) from the date when a demand for the expenses is made until it is paid, may be recovered by \nsuch authority or agency from the person concerned as arrears of land revenue or of public demand."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "10",
+      "section_title": "Powers of entry and inspection",
+      "text": "10. Powers of entry and inspection .—(1) Subject to the provisions of this section, any person \nempowered by the Central Governmen t in this behalf shall have a right to enter, at all reasonable times \nwith such assistance as he considers necessary, any place— \n(a) for the purpose of performing any of the functions of the Central Government entrusted to \nhim; \n(b) for the purpose of determining whether and if so in what manner, any such functions are to be \nperformed or whether any provisions of this Act or the rules made thereunder or any notice, order, \ndirection or authorisation served, made, given or granted under this Act is being or has been complied \nwith; \n(c) for the purpose of examining and testing any equipment, industrial plant, record, register, \ndocument or any other material object or for conducting a search of any building in which he has \nreason to believe that an offence under this Act or the rules made thereunder has been or is being or is \nabout to be committed and for seizing any such equipment, industrial plant, record, register, \ndocument or other material object if he has reasons to believe that it m ay furnish evidence of the \ncommission of an offence punishable under this Act or the rules made thereunder or that such seizure \nis necessary to prevent or mitigate environmental pollution. \n1[(2) Every person carrying on any industry, operation or process o f handling any hazardous \nsubstance shall render assistance, as may be required, to the person empowered by the Central \nGovernment under sub-section (1) for carrying out the functions under that sub -section and if he fails to \ndo so without any reasonable cause, he shall be liable to penalty provided under section 14B. \n(3) If any person willfully delays or obstructs any person empowered by the Central Government \nunder sub-section (1) in the performance of his functions under sub -sections (1) or (2), he shall be liable \nto penalty provided under section 14B. \n                                                           \n1. Subs. by Act 18 of 2023, s. 2 and Schedule for sub-sections (2) to (4) (w.e.f. 1-4-2024). \n \n(4) The provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall, so far as may be, apply \nto any search or seizures under this section as they apply to any search or seizures made under the  \nauthority of a warrant issued under section 94 of that Code.]"
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "11",
+      "section_title": "Power to take sample and procedure to be followed in connection therewith",
+      "text": "11. Power to take sample and procedure to be followed in connection therewith .—(1) The \nCentral Government or any officer empowered by it in this behalf, shall have power to take, for the \npurpose of analysis, samples of air, water, soil or other substance from any factory, premises or other \nplace in such manner as may be prescribed. \n(2) The result of any analysis of a sample taken under sub -section ( 1) shall not be admissible in \nevidence in any legal proceeding unless the provisions of sub-sections (3) and (4) are complied with. \n(3) Subject to the provisions of sub -section (4), the person taking the sampl e under sub -section (1) \nshall,— \n(a) serve on the occupier or his agent or person in charge of the p lace, a notice, then and there, in \nsuch form as may be prescribed, of his intention to have it so analysed; \n(b) in the presence of the occupier or his agent or person, collect a sample for analysis; \n(c) cause the sample to be placed in a container or containers which shall be marked and sealed \nand shall also be signed both by the person taking the sample and the occupier or his agent or person; \n(d) send without delay, the container or the containers to the laboratory established or recognised \nby the Central Government under section 12. \n(4) When a sample is taken for analysis under sub-section (1) and the person taking the sample serves \non the occupier or his agent or person, a notice under clause (a) of sub-section (3), then,— \n(a) in a case where the occupier, his agent or person wilfully absents himself, the person taking \nthe sample shall collect the sample for analysis to be placed in a container or containers which shall \nbe marked and sealed and shall also be signed by the person taking the sample, and \n(b) in a case where the occupier or his agent or person present at the time of taking the sample \nrefuses to sign the marked and sealed container or containers of the sample as required under clause \n(c) of sub -section (3), the mark ed and sealed container or containers shall be signed by the person \ntaking the samples, \nand the container or containers shall be sent without delay by the person taking the sample for analysis to \nthe laboratory established or recognised under section 12 an d such person sha ll inform the Government \nAnalyst appointed or recognised under section 13 in writing, about the wilful absence of the occupier or \nhis agent or person, or, as the case may be, his refusal to sign the container or containers."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "12",
+      "section_title": "Environmental laboratories",
+      "text": "12. Environmental laboratories.—(1) The Central Government may, by notific ation in the Official \nGazette,— \n(a) establish one or more environmental laboratories; \n(b) recognise one or more laboratories or institutes as environmental laboratories to ca rry out the \nfunctions entrusted to an environmental laboratory under this Act. \n(2) The Central Government may, by notification in the Official Gazette, make rules specifying— \n(a) the functions of the environmental laboratory; \n(b) the procedure for the submission to the said laboratory of samples of air, water, soil or other \nsubstance for analysis or tests, the form of the laboratory report thereon and the fees payable for such \nreport; \n(c) such other matters as may be necessary or expedient to enable that laboratory to carry o ut its \nfunctions."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "13",
+      "section_title": "Government Analysts",
+      "text": "13. Government Analysts.—The Central Government may , by notification in the O fficial Gazette, \nappoint or recognise such persons as it thinks fit and having the  prescribed qualifications to b e \nGovernment Analysts for the purpose of analysi s of samples of air, water, soil or other substance sent for \nanalysis to any environmental laboratory established or recognised under sub-section (1) of section 12."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "14",
+      "section_title": "Reports of Government Analysts",
+      "text": "14. Reports of Government Analysts .—Any document purporting to be a  report signed by a \nGovernment Analyst may be used as evidence of the facts stated therein in any proceeding under this Act."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "14A",
+      "section_title": "Penalty for contravention of section 7 or section 8",
+      "text": "1[14A. Penalty for contravention of  section 7 or section 8. —(1) If any person,  contravenes \nprovisions of section 7 or section 8 or the rules made thereunder, he shall be liable to penalty in respect of \neach such contravention, which shall not be less  than one lakh rupees but which may extend  to fifteen \nlakh rupees. \n(2) Where any person continues contravention under sub -section (1), he shall be liable to additional \npenalty of fifty thousand rupees for every day during which such contravention continues."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "14B",
+      "section_title": "Penalty for contravention of sections 9, 10 and 11",
+      "text": "14B. Penalty for contravention of sections 9, 10 and 11.—(1) If any person contravenes or does not \ncomply with the provisions of sectio n 9, section 10 or section 11 or orders or directions issued under \nthose sections, he shall be liable to penalty in respect of each such contravention which shall not be less \nthan ten thousand rupees but which may extend to five lakh rupees. \n(2) Where any person continues contravention under sub -section (1), he shall be liable to additional \npenalty of ten thousand rupees for every day during which such contravention continues.]"
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "15",
+      "section_title": "Penalty for contravention of provisions of Act, rules, orders and directions",
+      "text": "2[15. Penalty for contravention of provisions of Act, rules, orders and directions.—(1) Where any \nperson contravenes or does not comply with any of the provisions of this Act or the rules made or orders \nor directions issued thereunder for which no penalty is provided, he shall be liable to penalty in respect of \neach such contravention which shall not be less than ten thousand rupees but which may extend to fifteen \nlakh rupees.  \n(2) Where any person continues contravention under sub -section (1), he shall be liable to additional \npenalty of ten thousand rupees for every day during which such contravention continues."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "15A",
+      "section_title": "Penalty for contravention by companies",
+      "text": "15A. Penalty for contravention by companies. —(1) Where any company contravenes any of the \nprovisions of this Act, the company shall be liable to penalty for each such contravention which shall not \nbe less than one lakh rupees but which may extend to fifteen lakh rupees. \n(2) Where any company continues contravention under sub-section (1), the company shall be liable to \nadditional penalty of one lakh rupees for every day during which such contravention continues."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "15B",
+      "section_title": "Penalty for contravention by Government Department",
+      "text": "15B. Penalty for contravention by Government Department. —(1) Where contravention of any of \nthe provision of this Act has been committed by any Department of the Central Government or the State \nGovernment, the Head of the Department shall be liable to penalty equal to one month of his basic salary: \nProvided that he shall not be liable for such contravention, if he proves that the contravention was \ncommitted without his knowledge or instructions or that he exercised all due diligence to prevent such \ncontravention. \n(2) Where any contravention under sub -section (1) is attributable to any neglect on the part of, any \nofficer, other than the Head of the Department, the officer shall be liable to penalty equal to one month of \nhis basic salary: \nProvided that he shall not be liable for the contravention, if he proves that he exercised all due \ndiligence to avoid such contravention."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "15C",
+      "section_title": "Adjudicating officer",
+      "text": "15C. Adjudicating officer. —(1) The  Central Government, for the purposes of  determining the \npenalties under this Act, may appoint an officer not b elow the rank of Joint Secretary to the Government \n                                                           \n1. Ins. by Act 18 of 2023, s. 2 and Schedule (w.e.f. 1-4-2024). \n2. Subs. by s. 2 and Schedule, ibid., for sections 15 to 17 (w.e.f. 1-4-2024).  \n \nof India or a Secretary to the State Government  to be the adjudicating officer, to hold an  inquiry and to \nimpose penalty in the manner, as may be prescribed: \nProvided that the Central Government may appoint as many adjudicating officers as may be required. \n(2) The adjudicating officer may— \n(a) call upon any person alleged to have contravened or not complied with the provisions of this \nAct and the rules made thereunder or having the knowledge of the facts and circumstances of the \ncase; \n(b) require such person to produce any record, register or other document in his possession or any \nother document, which in the opinion of the adjudicating officer may be relevant to the subject -\nmatter. \n(3) The adjudicating officer shall, after giving the person a reasonable opportunity of being heard in \nthe matter, and if, on such inquiry, he is satisfied that the person concerned has contravened or has not \ncomplied with the provisions of this Act or the rules made thereunde r, he may impose such penalty as he \nthinks fit in accordance with the provisions of sections 14A, 14B, 15, 15A or section 15B, as the case may \nbe. \n(4) The adjudicating officer, while adjudicating the quantum of penalty under sub -section (3), shall \nhave due regard to the following, namely:— \n(a) the population and the area impacted or affected due to such contravention or non -\ncompliance; \n(b) the frequency and duration of such contravention or non-compliance; \n(c) the vulnerability of the class of persons likel y to be adversely affected by such contravention \nor non-compliance; \n(d) the damage caused or likely to be caused to any person, as a result of such contravention or \nnon-compliance, if any; \n(e) the undue gain derived out of such contravention or non-compliance; and \n(f) such other factor, as may be prescribed. \n(5) The amount of penalty imposed under the provisions of sections 14A, 14B, 15, 15A or 15B, as the \ncase may be, shall be in addition to the liability to pay relief or compensation under section 15 read  with \nsection 17 of the National Green Tribunal Act, 2010 (19 of 2010)."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "15D",
+      "section_title": "Appeal",
+      "text": "15D. Appeal.—(1) Whoever aggrieved by the order, passed by the adjudicating officer under this Act \nmay prefer an appeal to the National Green Tribunal established under section 3 of the National Green \nTribunal Act, 2010 (19 of 2010). \n(2) Every appeal under sub -section ( 1) shall be filed within sixty  days from the date on which the \ncopy of the order made by the adjudicating officer is received by the aggrieved person. \n(3) The Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such \norder as it thinks fit, confirming, modifying or setting aside the order appealed against. \n(4) Where an appeal is preferred against any order of the adjudicating officer u nder sub-section (1), \nsuch appeal shall not be entertained by the Tribunal unless such person has deposited with the Tribunal \nten per cent. of the amount of the penalty imposed by the adjudicating officer."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "15E",
+      "section_title": "Penalty amount to be credited to Environmental Protection Fund",
+      "text": "15E. Penalty amount to be credited to Environmenta l Protection Fund. —Where any penalty or \nadditional penalty, as the case may be, is imposed under sections 14A, 14B, 15, 15A or section 15B, the \namount of the penalty shall be credited to the Environmental Protection Fund established under                  \nsection 16."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "III",
+      "chapter_title": "PREVENTION, CONTROL AND ABATEMENT OF ENVIRONMENTAL POLLUCTION",
+      "section_number": "15F",
+      "section_title": "Offence for failure to pay penalty or additional penalty",
+      "text": "15F. Offence for failure to pay penalty or additional penalty. —(1) Where any person fails to pay \nthe penalty or additional penalty, as the case may be, under sections 14A, 14B, 15, 15A or section 15B \nwithin ninety days of such imposition, he sh all be liable for imprisonment which may extend to three \nyears or with fine which may extend to twice the amount of the penalty or with both. \n(2) Where any offence under sub-section (1) has been committed by a company, every person who, at \nthe time the  offence was committed, was directly in charge of, and was responsible to, the company for \nthe conduct of the business of the company, as well as the company, shall be deemed to be guilty of \noffence and he shall be liable to be proceeded against and punished accordingly: \nProvided that nothing contained in this sub -section shall render any person liable to any punishment \nprovided in sub-section (1), if he proves that the offence was committed without his knowledge or that he \nexercised all due diligence to prevent the commission of such offence. \n(3) Notwithstanding anything contained in sub-section (2), where an offence has been committed by a \ncompany and it is proved that the offence has been  committed with the consent or connivance  of, or is \nattributable to any neglect on the part of, any director, manager, secretary or other officer of the company, \nsuch director, manager, secretary or other officer shall also  be deemed to be guilty of that offence and  \nshall be liable to be proceeded against and punished accordingly. \nExplanation.—For the purposes of this section,— \n(a) “company” includes body corporate, firm, trust, society and any other association of individuals; \n(b) “director” includes director of the company, partner of the firm, members of the society or trust or \nmember of any association of individuals, as the case may be.] \n1[CHAPTER IIIA \nFUND, ACCOUNTS AND AUDIT"
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IIIA",
+      "chapter_title": "FUND, ACCOUNTS AND AUDIT",
+      "section_number": "16",
+      "section_title": "Environmental Protection Fund",
+      "text": "16. Environmental Protection Fund. —(1) The Central Government may, by  notification in the \nOfficial Gazette, establish a fund to be known as the Environmental Protection Fund. \n(2) There shall be credited to the Fund— \n(a) the amount of penalty imposed under the Air (Prevention and Control of Pollution) Act, 1981 \n(14 of 1981), and under this Act; \n(b) the interest or other income received out of investments made from the Fund; and \n(c) any other amount from such sources, as may be prescribed. \n(3) The Fund shall be applied for— \n(a) the promotion of awareness, education and research for the protection of environment; \n(b) the expenses for achieving the  objects and for purposes of the Air (Prevention and Control of \nPollution) Act, 1981(14 of 1981) and under this Act; \n(c) such other purposes, as may be prescribed. \n(4) The Central Government shall notify the administrator for the administration of the Fund  and \nother matters connected therewith and incidental thereto in such manner, as may be prescribed. \n(5) The Central Government shall allocate seventy -five per cent. of the amount of penalties to the \nState Governments or Union territory administrations, which has been credited to the Fund."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IIIA",
+      "chapter_title": "FUND, ACCOUNTS AND AUDIT",
+      "section_number": "16A",
+      "section_title": "Accounts and audit of Fund",
+      "text": "16A. Accounts and audit of Fund. —(1) The Central Government shall maintain separate accounts \nand other relevant records in relation to the Environmental Protection Fund and prepare an annual \nstatement of accounts in such f orm, as may be prescribed, in consultation with the Comptroller and \nAuditor-General of India. \n                                                           \n1. Ins. by Act 18 of 2023, s. 2 and the Schedule (w.e.f. 1-4-2024). \n \n(2) The accounts of the Fund shall be audited by the Comptroller and Auditor -General of India at \nsuch intervals as may be specified by him and such audited accoun ts together with the audit report \nthereon shall be forwarded annually to the Central Government."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IIIA",
+      "chapter_title": "FUND, ACCOUNTS AND AUDIT",
+      "section_number": "16B",
+      "section_title": "Annual report",
+      "text": "16B. Annual report. —The Central Government shall prepare its annual report in relation to \nEnvironmental Protection Fund giving a full account of its activities  defined under this Act in such form, \nas may be prescribed, for each financial year during the previous financial year, and shall be laid before \neach House of Parliament along with audit report given by the Comptroller and Auditor -General of \nIndia.]"
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IIIA",
+      "chapter_title": "FUND, ACCOUNTS AND AUDIT",
+      "section_number": "17",
+      "section_title": "Offences by Government Departments",
+      "text": "17. Offences by Government Departments. [Substituted by Act 18 of 2023, s. 2 and Schedule, for sections 15 to 17 (w.e.f. 1-4-2024). See section 15B.]"
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "18",
+      "section_title": "Protection of action taken in good faith",
+      "text": "CHAPTER IV \nMISCELLANEOUS \n18. Protection of action taken in good faith .—No suit, prosecution or other legal proceeding shall \nlie against the Government or any officer or other employee of the Government or any authority \nconstituted under this Act or any member, officer or other employee of such authority in respect of \nanything which is done or intended to be done in good faith in pursuance of this Act or the rules made or \norders or directions issued thereunder."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "19",
+      "section_title": "Cognizance of offences",
+      "text": "19. Cognizance of offences.—No court shall take cognizance of any offence under this Act except on \na complaint made by,— \n(a) the Central Government or any authority or officer authorised in this behalf by that \nGovernment; or \n1[(aa) adjudicating officer or any officer authorised by him in this behalf;] \n(b) any person who has given notice of not less than sixty days, in the manner prescribed, of the \nalleged offence and of his intention to make a complaint, to the Central Government or the authority \nor officer authorised as aforesaid."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "20",
+      "section_title": "Information, reports or returns",
+      "text": "20. Information, report s or returns .—The Central Government may, in relation to its functions \nunder this Act, from time to time, require any person, officer, State Government or other authority to \nfurnish to it or any prescribed authority or officer any reports, returns, statist ics, accounts and other \ninformation and such person, officer, State Government or other authority shall be bound to do so."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "21",
+      "section_title": "Members, officers and employees of the authority constituted under Section 3 to be public",
+      "text": "21. Members, officers and employees of t he authority constituted under s ection 3 to be public \nservants.—All the members of the authority, constituted, if any, under section 3 and all officers and other \nemployees of such authority when acting or purporting to act in pursuance of any provisions of this Act or \nthe rules made or orders or directions issued thereunder shall be deemed t o be public servants within the \nmeaning of Section 21 of the Indian Penal Code (45 of 1860)."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "22",
+      "section_title": "Bar of jurisdiction",
+      "text": "22. Bar of jurisdiction.—No civil court shall have jurisdiction to entertain any suit or proceeding in \nrespect of anything done, action taken or order or direction  issued by the Central Government or any \nother authority or officer in pursuance of any power conferred by or in relation to its or his functions \nunder this Act."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "23",
+      "section_title": "Power to delegate",
+      "text": "23. Power to delegate .—Without prejudice to the provisions of sub -section ( 3) of s ection 3, the \nCentral Government may, by notification in the O fficial Gazette, delegate, subject to such conditions and \nlimitations as may be specified in the notification, such of its powers and functions under this Act [except \nthe power to constitute an authority under sub-section (3) of section 3 and to make rules under section 25] \nas it may deem necessary or expedient, to any officer, State Government or other authority."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "24",
+      "section_title": "Effect of other laws",
+      "text": "2[24. Effect of other laws.—The provisions of this Act and the rules or orders made thereunde r shall \nhave effect notwithstanding anything inconsistent therewith contained in any other law for the time being \nin force.] \n                                                           \n1. Ins. by Act 18 of 2023, s. 2 and Schedule (w.e.f. 1-4-2024). \n2. Subs. by s. 2 and Schedule, ibid., for section 24 (w.e.f. 1-4-2024)."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "25",
+      "section_title": "Power to make rules",
+      "text": "25. Power to make rules.—(1) The Central Government may, by notification in the Official Gazette, \nmake rules for carrying out the purposes of this Act. \n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may \nprovide for all or any of the following matters, namely:— \n(a) the standards in excess of which environmental pollutants shall not be discharged or emitted \nunder section 7; \n(b) the procedure in accordance with and the safeguards in compliance with which hazardous \nsubstances shall be handled or cause to be handled under section 8; \n(c) the authorities or agencies to which intimation of the fa ct of occurrence or apprehension of \noccurrence of the discharge of any environmental pollutant in excess of the prescribed standards shall \nbe given and to whom all assistance shall be bound to be rendered under sub-section (1) of section 9; \n(d) the manner in which samples of air, water, soil or other substance for the purpose of analysis \nshall be taken under sub-section (1) of section 11; \n(e) the form in which notice of intention to have a sample analysed shall be se rved under                      \nclause (a) of sub-section (3) of section 11; \n(f) the functions of the environmental laboratories, the procedure for the submission to such \nlaboratories of samples of air, water, soil and other substances for analysis or test; the form of \nlaboratory report; the fees payable for such report and other matters to enable such laboratories to \ncarry out their functions under sub-section (2) of section 12; \n(g) the qualifications of Government Analyst appointed or recognised for the purpose of analysis \nof samples of air, water, soil or other substances under section 13; \n1[(ga) the manner of holding inquiry and imposing penalty by the adjudicating officer under                  \nsub-section ( 1) and other factors for determining quantum of penalty under clause ( f) of                            \nsub-section (4) of section 15C; \n(gb) the other amount under clause (c) of sub-section (2) of section 16; \n(gc) the other purposes under clause (c) of sub-section (3) of section 16; \n(gd) the manner of administration of Fund under sub-section (4) of section 16; \n(ge) form for maintenance of accounts of the Fund and for preparation of annual statement of \naccounts under sub-section (1) of section 16A; \n(gf) form for preparing annual report of the Fund under section 16B;] \n(h) the manner in which notice of the offence and of the intention to make a complaint to the \nCentral Government shall be given under clause (b) of section 19; \n(i) the authority or officer to whom any reports, returns, statistics accounts and other inform ation \nshall be furnished under section 20; \n(j) any other matter which is required to be, or may be, prescribed."
+    },
+    {
+      "act_code": "EPA",
+      "chapter_number": "IV",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "26",
+      "section_title": "Rules made under this Act to be laid before Parliament",
+      "text": "26. Rules made under this Act to be laid before Parliament .—Every rule made under this Act \nshall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, \nfor a total period of thirty days which may be comprised in one session or in two or more successive \nsessions, and if , before the expiry of the session immediately following the session or the successive \nsessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that \nthe rule should not be made, the rule shall thereafter have effect  only in such modified form or be of no \n                                                           \n1. Ins. by Act 18 of 2023, s. 2 and Schedule (w.e.f. 1-4-2024). \n \neffect, as the case may be; so, however, that any such modification or annulment shall be without \nprejudice to the validity of anything previously done under that rule."
+    }
+  ]
+}
