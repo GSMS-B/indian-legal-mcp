@@ -49,4 +49,8 @@ data/pdf_sources/
 # Publisher artifacts
 mcp-publisher.exe
 release.json
+upload_to_huggingface.py
+retry_failed_acts.py
+README_JSON.md
+README_PDF.md
 
