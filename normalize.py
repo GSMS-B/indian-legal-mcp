@@ -208,7 +208,7 @@ def load_extracted_acts():
     core_filenames = {
         'ipc.json', 'crpc.json', 'iea.json', 'nia.json', 'cpc.json', 'MVA.json',
         'bns_sections.json', 'bnss_sections.json', 'bsa_sections.json',
-        'constitution_of_india.json', 'CONSTITUTION_DATASET.json',
+        'CONSTITUTION_DATASET.json',
         'bns_to_ipc.json', 'bnss_to_crpc.json', 'bsa_to_iea.json',
         'crpc_to_bnss.json', 'iea_to_bsa.json', 'ipc_to_bns.json'
     }
