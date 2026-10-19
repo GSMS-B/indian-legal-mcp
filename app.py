@@ -1308,6 +1308,68 @@ def trace_concept_across_acts(legal_concept: str) -> str:
     return f"Trace the legal concept '{legal_concept}' across the available Indian Acts. Search systematically, group results by Act, and explain how the concept is treated differently."
 
 # ---------------------------------------------------------
+# SKILL REGISTRY & RETRIEVAL TOOLS
+# ---------------------------------------------------------
+
+SKILLS_DIR = os.path.join(BASE_DIR, "skills")
+
+def list_skills(query: str = "") -> dict:
+    """Discover expert legal research procedures and workflows available in the system.
+    Returns the skills registry containing domain skill IDs, titles, triggers ('use_when'),
+    covered act codes, recommended tool sequences, and reference files.
+    
+    If query is provided, filters skills by keyword matching against skill ID, title,
+    trigger keywords, or act codes.
+
+    Args:
+        query: (Optional) Search filter, e.g. 'bail', 'FIR', 'cheque', 'SEBI', 'tax', 'divorce', 'IPR'.
+    """
+    reg_path = os.path.join(SKILLS_DIR, "registry.json")
+    if not os.path.exists(reg_path):
+        return {"error": "Skills registry not found on server."}
+    with open(reg_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    if not query:
+        return data
+    q = query.strip().lower()
+    filtered = []
+    for s in data.get("skills", []):
+        if (q in s["id"].lower() or 
+            q in s["title"].lower() or 
+            q in s["use_when"].lower() or 
+            any(q == c.lower() for c in s.get("act_codes", []))):
+            filtered.append(s)
+    return {
+        "version": data.get("version"),
+        "total_matching": len(filtered),
+        "skills": filtered
+    }
+
+def get_skill(skill_id: str, file: str = "SKILL.md") -> dict:
+    """Retrieve procedural instructions and domain reference files for a legal skill.
+    Call this tool after checking list_skills to load the exact workflow for a legal domain.
+    Use skill_id='_core' to retrieve global legal reasoning, citation, and anti-hallucination rules.
+
+    Args:
+        skill_id: The skill identifier (e.g. '_core', 'criminal-law', 'banking-finance-recovery', 'taxation-and-customs', 'corporate-securities-insurance').
+        file: Specific file to retrieve (default: 'SKILL.md', or reference files like 'reference/date_rule.md', 'reference/recovery_routes.md').
+    """
+    clean_id = str(skill_id).strip().replace("/", "").replace("\\", "")
+    clean_file = str(file).strip().replace("\\", "/")
+    if ".." in clean_file or clean_file.startswith("/"):
+        return {"error": "Invalid file path: directory traversal prohibited."}
+    target_path = os.path.join(SKILLS_DIR, clean_id, clean_file)
+    if not os.path.exists(target_path):
+        return {"error": f"Skill file not found: {clean_id}/{clean_file}"}
+    with open(target_path, "r", encoding="utf-8") as f:
+        content = f.read()
+    return {
+        "skill_id": clean_id,
+        "file": clean_file,
+        "content": content
+    }
+
+# ---------------------------------------------------------
 # GRADIO APPLICATION INTERFACE
 # ---------------------------------------------------------
 
@@ -1461,6 +1523,25 @@ with gr.Blocks(title="Indian Legal MCP") as demo:
             outputs="json",
             description=list_constitution_appendices.__doc__,
             title="List Constitution Appendices"
+        )
+
+    with gr.Tab("Legal Research Skills & Workflows"):
+        gr.Interface(
+            fn=list_skills,
+            inputs=[gr.Textbox(label="query", info="(Optional) Search filter, e.g. 'bail', 'FIR', 'cheque', 'SEBI', 'tax', 'divorce'")],
+            outputs="json",
+            description=list_skills.__doc__,
+            title="List Skills"
+        )
+        gr.Interface(
+            fn=get_skill,
+            inputs=[
+                gr.Textbox(label="skill_id", info="e.g. '_core', 'criminal-law', 'banking-finance-recovery', 'taxation-and-customs'"),
+                gr.Textbox(label="file", value="SKILL.md", info="File to fetch: 'SKILL.md' or reference file like 'reference/date_rule.md'")
+            ],
+            outputs="json",
+            description=get_skill.__doc__,
+            title="Get Skill"
         )
 
     with gr.Accordion("MCP Resources", open=False):

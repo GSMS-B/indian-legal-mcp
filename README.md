@@ -15,16 +15,17 @@ license: mit
 
 <div align="center">
 
-# ⚖️ Indian Legal MCP Server (v3.0)
-### High-Performance Model Context Protocol Server for Indian Law & Jurisprudence
+# ⚖️ Indian Legal MCP Server (v3.1)
+### High-Performance Model Context Protocol Server with Domain Skills for Indian Law & Jurisprudence
 
 <p align="center">
-  <b>Structured, authoritative access to 102 Indian Acts & Codes (12,174 sections) for AI assistants, LLM agents, and legal researchers.</b>
+  <b>Structured, authoritative access to 102 Indian Acts & Codes (12,174 sections) coupled with 10 Domain Legal Research Skills for AI assistants, LLM agents, and legal practitioners.</b>
 </p>
 
 <!-- Badges -->
-[![MCP Version](https://img.shields.io/badge/MCP%20Version-3.0.0-blue.svg?style=for-the-badge&logo=probot)](https://github.com/GSMS-B/indian-legal-mcp)
+[![MCP Version](https://img.shields.io/badge/MCP%20Version-3.1.0-blue.svg?style=for-the-badge&logo=probot)](https://github.com/GSMS-B/indian-legal-mcp)
 [![Database Size](https://img.shields.io/badge/Coverage-102%20Acts%20%7C%2012%2C174%20Sections-emerald.svg?style=for-the-badge&logo=sqlite)](https://github.com/GSMS-B/indian-legal-mcp)
+[![Skills Architecture](https://img.shields.io/badge/Skills-10%20Domains%20%2B%201%20Core-purple.svg?style=for-the-badge&logo=anthropic)](https://github.com/GSMS-B/indian-legal-mcp/tree/main/skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-amber.svg?style=for-the-badge)](LICENSE)
 [![HF Space](https://img.shields.io/badge/%F0%9F%A4%97%20Space-Indian%20Legal%20MCP-red.svg?style=for-the-badge)](https://huggingface.co/spaces/GSMS-B/indian-legal-mcp)
 [![FastMCP](https://img.shields.io/badge/Protocol-Streamable%20HTTP%20%2F%20FastMCP-purple.svg?style=for-the-badge)](https://modelcontextprotocol.io/)
@@ -39,14 +40,52 @@ license: mit
 
 ## ⚡ Overview
 
-The **Indian Legal MCP Server** connects Claude, ChatGPT, Cursor, and any MCP-compliant autonomous agent directly to India's entire statutory legal system.
+The **Indian Legal MCP Server** connects Claude, ChatGPT, Cursor, Windsurf, Claude Code, and any MCP-compliant autonomous agent directly to India's entire statutory legal system.
 
 Built on SQLite with native **FTS5 full-text indexing**, BM25 ranking, and sub-millisecond retrieval, it provides:
 - **102 Complete Indian Acts & Codes** spanning 12,174 statutory sections, articles, schedules, and appendices.
+- **10 Domain Skills + 1 Core Universal Skill**: Procedural AI research workflows adhering strictly to the principle that **the MCP is the library, while skills are the procedures the AI follows**.
 - **Modern 2023 Criminal Reform Sanhitas** (BNS, BNSS, BSA) alongside historical codes (IPC, CrPC, IEA) with **2,629 bidirectional section concordance mappings**.
 - **Complete 2026 Constitution of India** (Articles 1–395, Preamble, all 12 Schedules, 3 Appendices) incorporating up to the 106th Amendment.
 - **Direct Taxation & Corporate Framework**: Income-tax Act, 2025 (536 sections), Companies Act (517 sections), SEBI Act, SCRA, LLP, MSMED, IBC, and Arbitration.
-- **14 Core Legal Tools** + **15 Advanced Prompt Workflows** (Beginner explanations, brief drafting, statutory comparison, and legal claim verification).
+- **16 Core Legal Tools** + **15 Advanced Prompt Workflows** (Beginner explanations, brief drafting, statutory comparison, and legal claim verification).
+
+---
+
+## 🧠 Legal Research Skills Architecture
+
+> **Design Principle:** The MCP is the **library**, and a skill is the **procedure the AI follows while using it**. A skill never contains raw statutory text—the law stays in the MCP database, and the skill instructs the AI how to fetch, verify, and cite it without hallucinations.
+
+```text
+skills/
+├── registry.json                    # Tier 1: Lightweight index of triggers & tools (startup discovery)
+├── _core/
+│   └── SKILL.md                     # Universal legal reasoning, retrieval-first rule, citation standards
+├── criminal-law/                    # Tier 2: Domain-specific procedural workflows (<100 lines)
+│   ├── SKILL.md
+│   └── reference/                   # Tier 3: Deep doctrinal references (loaded on-demand)
+│       ├── date_rule.md
+│       └── special_statutes.md
+├── civil-contract-property/
+│   ├── SKILL.md
+│   └── reference/
+└── ... (10 cohesive domains covering all 102 Acts)
+```
+
+### The 10 Domain Skills Matrix (All 102 Acts Assigned)
+
+| # | Skill ID | Acts Covered | Primary Procedural Job & Doctrinal Traps |
+|---|---|---|---|
+| 1 | `criminal-law` | BNS, BNSS, BSA, IPC, CRPC, IEA, POCSO, NDPS, PMLA, PCA, UAPA, ARMS, DPA, SCST | Offence date decides IPC vs BNS. Special act non-obstante bail clauses (NDPS s.37, PMLA s.45) override BNSS. |
+| 2 | `civil-contract-property` | CPC, ICA, SGA, SRA, LA, TPA, REGISTRATION, EASEMENTS, RFCTLARR, MVA, ACA | Pick the correct forum (civil court vs arbitral tribunal). Mandatory limitation check under Limitation Act 1963. |
+| 3 | `banking-finance-recovery` | NIA, SARFAESI, RDBA, IBC, BRA, RBI, FEMA, CHIT, PSSA, FCRA | Recovery route decision matrix: cheque bounce (s.138 NIA) vs DRT (RDBA) vs SARFAESI vs corporate insolvency (IBC). |
+| 4 | `corporate-securities-insurance` | CA, IPA, LLP, COMPETITION, COMMERCIAL_COURTS, SEBI, SCRA, INSURANCE, IRDAI | Business vehicle classification (Proprietorship vs Firm vs LLP vs Pvt/Public Ltd). SEBI regulations and insider trading. |
+| 5 | `taxation-and-customs` | ITA, CGST, IGST, CUSTOMS, STAMP, PBPTA | Assessment year determines applicability of direct tax codes. Input tax credit rules under CGST/IGST; benami property confiscation. |
+| 6 | `family-and-personal-law` | HMA, HSA, HAMA, SMA, ISA, FCA, GWA, MWPRDA, MWPRMA, PCMA | Religion of parties governs personal succession/marriage; secular options under Special Marriage Act; triple talaq criminalization. |
+| 7 | `labour-and-workplace` | COW, CSS, IRC, OSH, CALPRA, POSH | 4 unified labour codes replacing ~29 legacy statutes. Mandatory POSH Internal Complaints Committees (ICC). |
+| 8 | `cyber-data-and-ipr` | IT_ACT, DPDPA, AADHAAR, TELECOM, COPYRIGHT, PATENTS, TRADEMARKS, DESIGNS, GI | Separation of cyber offences (IT Act) from digital privacy (DPDPA 2023) and intellectual property infringement. |
+| 9 | `constitutional-and-public-law` | COI, RTI, PHRA, PCRA, ADVOCATES, ATA, CONTEMPT_COURTS, LSAA, RPA, RPWDA, RTE, DV, JJ, MWPSC | Fundamental Rights violation remedies (Article 32/226 writs), Union/State/Concurrent legislative lists (7th Schedule), RTI exemptions. |
+| 10 | `environment-healthcare-regulatory` | EPA, NGT, AIR, WATER, WPA, VSA, FSSA, DCA, MHA, EA, CPA, RERA, MSMED | Specialized tribunals (NGT, RERA, Consumer Commissions), environmental clearances, FSSAI standards, Drugs & Cosmetics licensing. |
 
 ---
 
@@ -97,10 +136,12 @@ Add to `.cursor/mcp.json` in your project or global settings:
 
 ---
 
-## 🛠️ MCP Tools Reference
+## 🛠️ MCP Tools Reference (16 Tools)
 
 | Tool Name | Description | Key Arguments |
 |---|---|---|
+| `list_skills` | **[Discovery]** Returns the skill registry with domain triggers, covered Acts, and workflows. Supports keyword filtering. | `query` (optional str) |
+| `get_skill` | **[Procedure Retrieval]** Retrieves procedural instructions (`SKILL.md`) or reference files for a legal domain or `_core`. | `skill_id` (str), `file` (default: 'SKILL.md') |
 | `search_keyword` | **[Primary AI Tool]** Ultra-fast FTS5 full-text keyword search across 102 Acts with BM25 ranking. | `query` (str), `act_code` (optional) |
 | `resolve_act` | Lightweight topic resolver returning matching act codes and titles. | `query` (str) |
 | `get_section` | Fetches exact section/article by number with full headnote and body text. | `act_code` (str), `section_number` (str) |

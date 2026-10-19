@@ -1,0 +1,305 @@
+{
+  "version": "1.0",
+  "total_skills": 10,
+  "core": "skills/_core/SKILL.md",
+  "skills": [
+    {
+      "id": "criminal-law",
+      "title": "Criminal Law & The Criminal Sanhitas Transition",
+      "use_when": "criminal offences, FIR, police investigation, arrest, bail, custody, trial, evidence admissibility, IPC to BNS transition, CrPC to BNSS, IEA to BSA, POCSO, NDPS, PMLA, anti-corruption, terrorism (UAPA), illegal arms, dowry offences, SC/ST atrocities",
+      "act_codes": [
+        "BNS",
+        "BNSS",
+        "BSA",
+        "IPC",
+        "CRPC",
+        "IEA",
+        "POCSO",
+        "NDPS",
+        "PMLA",
+        "PCA",
+        "UAPA",
+        "ARMS",
+        "DPA",
+        "SCST"
+      ],
+      "tools": [
+        "resolve_act",
+        "search_keyword",
+        "get_section",
+        "convert_section",
+        "get_chapter"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/date_rule.md",
+        "reference/special_statutes.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "civil-contract-property",
+      "title": "Civil Procedure, Contracts, Property & Land Laws",
+      "use_when": "civil disputes, breach of contract, specific performance, damages, limitation period, civil appeals, property sale, mortgage, lease, gift, easements, land registration, compulsory land acquisition, RERA, motor vehicle accidents",
+      "act_codes": [
+        "CPC",
+        "ICA",
+        "SGA",
+        "SRA",
+        "LA",
+        "TPA",
+        "REGISTRATION",
+        "EASEMENTS",
+        "RFCTLARR",
+        "MVA",
+        "ACA"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/limitation_periods.md",
+        "reference/property_transactions.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "banking-finance-recovery",
+      "title": "Banking, Debt Recovery, Insolvency & Financial Regulation",
+      "use_when": "cheque bounce (Section 138 NIA), SARFAESI enforcement, DRT debt recovery, corporate insolvency (IBC / CIRP), liquidation, banking regulation, RBI monetary regulations, foreign exchange (FEMA), chit funds, digital payments (PSSA), foreign contribution (FCRA)",
+      "act_codes": [
+        "NIA",
+        "SARFAESI",
+        "RDBA",
+        "IBC",
+        "BRA",
+        "RBI",
+        "FEMA",
+        "CHIT",
+        "PSSA",
+        "FCRA"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/recovery_routes.md",
+        "reference/banking_regulations.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "corporate-securities-insurance",
+      "title": "Company Law, Securities Regulation & Insurance",
+      "use_when": "company incorporation, board of directors, corporate governance, CSR, mergers, winding up, partnership disputes, LLP compliance, anti-competitive practices, SEBI regulations, insider trading, stock exchange regulation (SCRA), insurance policies, IRDAI",
+      "act_codes": [
+        "CA",
+        "IPA",
+        "LLP",
+        "COMPETITION",
+        "COMMERCIAL_COURTS",
+        "SEBI",
+        "SCRA",
+        "INSURANCE",
+        "IRDAI"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "get_chapter",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/entity_governance.md",
+        "reference/securities_regulation.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "taxation-and-customs",
+      "title": "Direct Taxation, Indirect Taxation & Customs",
+      "use_when": "income tax, corporate tax, TDS, capital gains, tax assessments, Income-tax Act 2025, GST, CGST, IGST, input tax credit, customs duty, import tariffs, stamp duty on agreements, benami property transactions",
+      "act_codes": [
+        "ITA",
+        "CGST",
+        "IGST",
+        "CUSTOMS",
+        "STAMP",
+        "PBPTA"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "get_chapter",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/direct_tax_transition.md",
+        "reference/gst_and_customs.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "family-and-personal-law",
+      "title": "Family, Marriage, Succession, Divorce & Guardianship",
+      "use_when": "Hindu marriage, divorce, Hindu succession, coparcenary rights, Hindu adoption, maintenance, civil marriage (Special Marriage Act), Christian and Parsi succession, family court jurisdiction, guardianship of minors, Muslim women divorce, triple talaq, child marriage prohibition",
+      "act_codes": [
+        "HMA",
+        "HSA",
+        "HAMA",
+        "SMA",
+        "ISA",
+        "FCA",
+        "GWA",
+        "MWPRDA",
+        "MWPRMA",
+        "PCMA"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/personal_law_matrix.md",
+        "reference/maintenance_and_custody.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "labour-and-workplace",
+      "title": "Unified Labour Codes, Industrial Relations & Workplace Safety",
+      "use_when": "minimum wages, payment of wages, bonus, EPF, ESI, gratuity, maternity benefit, trade unions, strikes, lockouts, retrenchment, occupational safety, factory compliance, child labour prohibition, sexual harassment at workplace (POSH)",
+      "act_codes": [
+        "COW",
+        "CSS",
+        "IRC",
+        "OSH",
+        "CALPRA",
+        "POSH"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/labor_code_transition.md",
+        "reference/workplace_harassment.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "cyber-data-and-ipr",
+      "title": "Cyber Law, Digital Data Protection, Telecom & Intellectual Property",
+      "use_when": "cyber crimes, hacking, digital signatures, IT Act 2000, digital personal data protection (DPDPA 2023), privacy rights, data fiduciary, Aadhaar verification, telecommunications, telecom licensing, copyright infringement, patentability, patent licensing, trademark registration, designs, geographical indications",
+      "act_codes": [
+        "IT_ACT",
+        "DPDPA",
+        "AADHAAR",
+        "TELECOM",
+        "COPYRIGHT",
+        "PATENTS",
+        "TRADEMARKS",
+        "DESIGNS",
+        "GI"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/digital_data_protection.md",
+        "reference/ipr_enforcement.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "constitutional-and-public-law",
+      "title": "Constitutional Law, Fundamental Rights, Elections & Public Administration",
+      "use_when": "Constitution of India, Fundamental Rights, Article 21, freedom of speech, writs (habeas corpus, mandamus, certiorari, prohibition, quo warranto), legislative lists (Union, State, Concurrent lists), Seventh Schedule, RTI, human rights (NHRC), administrative tribunals, contempt of court, legal aid, election law (RPA), citizenship, rights of persons with disabilities, right to education (RTE)",
+      "act_codes": [
+        "COI",
+        "RTI",
+        "PHRA",
+        "PCRA",
+        "ADVOCATES",
+        "ATA",
+        "CONTEMPT_COURTS",
+        "LSAA",
+        "RPA",
+        "RPWDA",
+        "RTE",
+        "DV",
+        "JJ",
+        "MWPSC"
+      ],
+      "tools": [
+        "get_section",
+        "get_chapter",
+        "search_keyword",
+        "get_constitution_article",
+        "get_constitution_schedule",
+        "list_constitution_schedules",
+        "get_constitution_appendix"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/constitutional_writs.md",
+        "reference/administrative_justice.md"
+      ],
+      "last_reviewed": "2026-10"
+    },
+    {
+      "id": "environment-healthcare-regulatory",
+      "title": "Environmental Protection, Healthcare, Food Safety & Regulators",
+      "use_when": "environmental clearance, EIA, pollution control (air, water), National Green Tribunal (NGT), wildlife protection, forest conservation, food safety standards (FSSAI), drug manufacturing, cosmetic regulation, mental healthcare rights, electricity grid regulations, consumer protection commissions (CPA), real estate regulator (RERA), MSME development",
+      "act_codes": [
+        "EPA",
+        "NGT",
+        "AIR",
+        "WATER",
+        "WPA",
+        "VSA",
+        "FSSA",
+        "DCA",
+        "MHA",
+        "EA",
+        "CPA",
+        "RERA",
+        "MSMED"
+      ],
+      "tools": [
+        "resolve_act",
+        "get_section",
+        "search_keyword",
+        "list_sections"
+      ],
+      "files": [
+        "SKILL.md",
+        "reference/environmental_regimes.md",
+        "reference/healthcare_and_food.md"
+      ],
+      "last_reviewed": "2026-10"
+    }
+  ]
+}
