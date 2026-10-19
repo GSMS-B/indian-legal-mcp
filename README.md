@@ -115,11 +115,10 @@ Open **Settings → Developer → Edit Config**, and add this to `claude_desktop
 ```json
 {
   "mcpServers": {
-    "indian-legal-mcp": {
+    "Indian Legal MCP": {
       "command": "npx",
       "args": [
-        "-y",
-        "mcp-proxy",
+        "mcp-remote",
         "https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/"
       ]
     }
@@ -129,9 +128,11 @@ Open **Settings → Developer → Edit Config**, and add this to `claude_desktop
 
 Restart Claude Desktop — the tools will appear under the MCP/tools icon in the chat window.
 
-### Other MCP clients (ChatGPT, etc.)
+### Other MCP clients (Cursor, Cline, Windsurf, Claude Code, etc.)
 
-Use the same server URL above wherever your client asks for an MCP server endpoint. If your client connects over SSE directly (no local proxy needed), point it straight at the URL — `mcp-proxy` above is only needed for clients (like Claude Desktop) that expect a local stdio bridge.
+For your MCP client’s setup instructions, use the following server URL:
+
+[https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/](https://gsms-b-indian-legal-mcp.hf.space/gradio_api/mcp/)
 
 ---
 
