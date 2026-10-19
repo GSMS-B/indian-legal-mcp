@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.GSMS-B/indian-legal-mcp",
   "title": "Indian Legal MCP",
-  "description": "Structured access to 81 Indian legal codes and statutes (~10,000 sections), 2026 Constitution, and law conversions for AI agents.",
+  "description": "Access 81 Indian Acts, Constitution, and old-to-new criminal law mappings for AI assistants.",
   "version": "2.0.0",
   "repository": {
     "url": "https://github.com/GSMS-B/indian-legal-mcp",
