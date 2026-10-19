@@ -34,7 +34,7 @@ ACT_DESCRIPTIONS = {
     "MVA": "The primary law regulating all aspects of road transport vehicles, including traffic rules and vehicle registration.",
     "NIA": "The law regulating Promissory Notes, Bills of Exchange and Cheques (frequently used for dishonour of cheques under Section 138).",
 
-    # 71 Added Official Acts
+    # 92 Added Official Acts (102 Acts Total)
     "AADHAAR": "Statutory framework for targeted delivery of subsidies, benefits and services through unique 12-digit Aadhaar identification numbers and UIDAI.",
     "ACA": "Comprehensive law governing domestic arbitration, international commercial arbitration, enforcement of foreign arbitral awards, and conciliation.",
     "ADVOCATES": "Law relating to legal practitioners, constitution of Bar Councils, admission, enrollment, and professional conduct of advocates.",
@@ -105,7 +105,30 @@ ACT_DESCRIPTIONS = {
     "UAPA": "Stringent anti-terrorism and national security statute dealing with unlawful associations, terrorist acts, and designation of individuals as terrorists.",
     "VSA": "Forest conservation statute restricting de-reservation of forests or diversion of forest land for non-forest purposes.",
     "WATER": "Legislation providing for the prevention and control of water pollution and maintaining or restoring the wholesomeness of water.",
-    "WPA": "Primary statute providing protection to wild animal, bird, and plant species, establishing national parks, wildlife sanctuaries, and hunting prohibitions."
+    "WPA": "Primary statute providing protection to wild animal, bird, and plant species, establishing national parks, wildlife sanctuaries, and hunting prohibitions.",
+
+    # 21 New Added Acts (Total 102 Acts)
+    "DCA": "Principal legislation regulating the import, manufacture, distribution, and sale of drugs and cosmetics in India to ensure safety and quality standards.",
+    "EA": "Consolidated statute governing generation, transmission, distribution, trading, and use of electricity, open access, and Regulatory Commissions.",
+    "FSSA": "Umbrella food legislation establishing science-based standards for food articles, regulating manufacturing, storage, distribution, and sale under FSSAI.",
+    "FCRA": "Statute regulating the acceptance and utilization of foreign contributions or foreign hospitality by individuals and associations to safeguard national interest.",
+    "GWA": "Comprehensive law consolidating the law relating to the appointment, declaration, powers, and duties of guardians of minor persons and property.",
+    "ITA": "The direct tax code of India (2025 codification), governing taxation of income, assessments, capital gains, corporate tax, TDS, and tax administration.",
+    "INSURANCE": "Foundational statute regulating insurance business in India, solvency margins, policyholder protections, investment rules, and insurance councils.",
+    "IRDAI": "Statute establishing the Insurance Regulatory and Development Authority to promote, regulate, and ensure orderly growth of insurance and reinsurance businesses.",
+    "LLP": "Corporate statute governing the formation, registration, limited liability, governance, partner duties, and winding up of Limited Liability Partnerships.",
+    "MHA": "Protective legislation providing mental healthcare and services, protecting rights of persons with mental illness, and establishing Mental Health Review Boards.",
+    "MSMED": "Statute promoting the development, enhancement of competitiveness, classification, and resolution of delayed payments to micro, small, and medium enterprises.",
+    "MWPRDA": "Protective statute governing maintenance, mahr, dower, and properties of divorced Muslim women and incidental matters.",
+    "MWPRMA": "Penal and civil statute declaring talaq-e-biddat (instantaneous triple talaq) void and illegal, punishing perpetrators, and securing subsistence allowance and child custody.",
+    "PSSA": "Financial statute designating the Reserve Bank of India to regulate, supervise, and ensure safe and efficient payment and settlement systems in India.",
+    "PBPTA": "Anti-corruption statute prohibiting benami property transactions, providing for attachment, adjudication, confiscation of benami properties, and criminal prosecution.",
+    "RPA": "Foundational democratic legislation governing qualifications and disqualifications of MPs/MLAs, conduct of elections, corrupt practices, election petitions, and disputes.",
+    "RTE": "Constitutional mandate statute providing free and compulsory elementary education to every child of the age of 6 to 14 years in neighborhood schools.",
+    "RPWDA": "Rights-based statute giving effect to the UNCRPD, securing equality, accessibility, reservation, and protection against discrimination for persons with disabilities.",
+    "SEBI": "Primary securities market statute establishing SEBI to protect the interests of investors in securities and promote the development and regulation of the securities market.",
+    "SCRA": "Statute preventing undesirable transactions in securities by regulating stock exchanges, listing of public company securities, contracts, and derivatives.",
+    "TELECOM": "Comprehensive reform statute consolidating the law relating to the development, expansion, and operation of telecommunication services, spectrum management, and networks."
 }
 
 VALID_ACTS = set(ACT_DESCRIPTIONS.keys())
@@ -135,13 +158,21 @@ SCHEDULE_NUM_MAP = {
     '12': 'twelfth', 'twelfth': 'twelfth'
 }
 
-ROMAN_NUM_MAP = {
+ARABIC_TO_ROMAN = {
     '1': 'I', '2': 'II', '3': 'III', '4': 'IV', '5': 'V',
     '6': 'VI', '7': 'VII', '8': 'VIII', '9': 'IX', '10': 'X',
     '11': 'XI', '12': 'XII', '13': 'XIII', '14': 'XIV', '15': 'XV',
     '16': 'XVI', '17': 'XVII', '18': 'XVIII', '19': 'XIX', '20': 'XX',
-    '21': 'XXI', '22': 'XXII'
+    '21': 'XXI', '22': 'XXII', '23': 'XXIII', '24': 'XXIV', '25': 'XXV',
+    '26': 'XXVI', '27': 'XXVII', '28': 'XXVIII', '29': 'XXIX', '30': 'XXX',
+    '31': 'XXXI', '32': 'XXXII', '33': 'XXXIII', '34': 'XXXIV', '35': 'XXXV'
 }
+for k, v in list(ARABIC_TO_ROMAN.items()):
+    ARABIC_TO_ROMAN[f"{k}A"] = f"{v}A"
+    ARABIC_TO_ROMAN[f"{k}B"] = f"{v}B"
+
+ROMAN_TO_ARABIC = {v: k for k, v in ARABIC_TO_ROMAN.items()}
+ROMAN_NUM_MAP = ARABIC_TO_ROMAN
 
 def get_db_connection():
     if not os.path.exists(DB_FILE):
@@ -169,7 +200,7 @@ def validate_act(act_code: str):
 def list_acts() -> list:
     """List all available Acts in the database, with metadata and descriptions.
     Use this to see which legal codes are supported or find short codes.
-    Currently supports 81 official Acts of India.
+    Currently supports 102 official Acts of India.
     """
     try:
         conn = get_db_connection()
@@ -193,7 +224,7 @@ def get_act_info(act_code: str) -> dict:
     by something newer.
 
     Args:
-        act_code: short code, e.g. BNS, BNSS, BSA, IPC, CRPC, IEA, COI, CPC, MVA, NIA, RERA, CA, IBC, RTI, etc. (81 Acts supported).
+        act_code: short code, e.g. BNS, BNSS, BSA, IPC, CRPC, IEA, COI, CPC, MVA, NIA, RERA, CA, IBC, RTI, ITA, SEBI, SCRA, etc. (102 Acts supported).
     """
     is_valid, msg_or_code = validate_act(act_code)
     if not is_valid:
@@ -204,12 +235,15 @@ def get_act_info(act_code: str) -> dict:
         cursor = conn.cursor()
         cursor.execute("SELECT * FROM acts WHERE act_code = ?", (msg_or_code,))
         row = cursor.fetchone()
-        conn.close()
         
         if row:
             d = dict(row)
+            cursor.execute("SELECT count(*) FROM sections WHERE act_code = ?", (msg_or_code,))
+            d["total_sections"] = cursor.fetchone()[0]
+            conn.close()
             d["description"] = ACT_DESCRIPTIONS.get(d["act_code"], "")
             return d
+        conn.close()
         return {"error": f"Act {msg_or_code} not found in database."}
     except Exception as e:
         return {"error": str(e)}
@@ -226,15 +260,21 @@ TOPIC_ACT_MAP = {
 
     # Family & Matrimonial
     "hindu": ["HMA", "HSA", "HAMA"],
-    "marriage": ["HMA", "SMA", "FCA", "PCMA"],
-    "divorce": ["HMA", "SMA", "FCA"],
+    "marriage": ["HMA", "SMA", "FCA", "PCMA", "MWPRMA"],
+    "divorce": ["HMA", "SMA", "FCA", "MWPRDA", "MWPRMA"],
+    "muslim": ["MWPRDA", "MWPRMA"],
+    "talaq": ["MWPRMA", "MWPRDA"],
+    "triple talaq": ["MWPRMA"],
     "adoption": ["HAMA", "JJ"],
-    "maintenance": ["HAMA", "MWPSC", "DV", "BNSS", "CRPC"],
+    "maintenance": ["HAMA", "MWPSC", "DV", "MWPRDA", "BNSS", "CRPC"],
+    "guardian": ["GWA", "HAMA"],
+    "ward": ["GWA"],
+    "custody": ["GWA", "HAMA", "MWPRMA"],
     "succession": ["HSA", "ISA"],
     "inheritance": ["HSA", "ISA"],
     "will": ["ISA"],
     "probate": ["ISA"],
-    "family": ["FCA", "HMA", "HSA", "HAMA", "DV"],
+    "family": ["FCA", "HMA", "HSA", "HAMA", "DV", "MWPRDA", "MWPRMA"],
     "senior citizens": ["MWPSC"],
     "parents": ["MWPSC", "HAMA"],
 
@@ -251,9 +291,9 @@ TOPIC_ACT_MAP = {
     "child marriage": ["PCMA"],
 
     # Corporate, Commercial & Finance
-    "company": ["CA", "IBC", "COMMERCIAL_COURTS"],
-    "companies": ["CA", "IBC", "COMMERCIAL_COURTS"],
-    "corporate": ["CA", "IBC", "COMMERCIAL_COURTS"],
+    "company": ["CA", "IBC", "COMMERCIAL_COURTS", "LLP"],
+    "companies": ["CA", "IBC", "COMMERCIAL_COURTS", "LLP"],
+    "corporate": ["CA", "IBC", "COMMERCIAL_COURTS", "LLP"],
     "director": ["CA"],
     "csr": ["CA"],
     "insolvency": ["IBC", "CA", "RDBA"],
@@ -265,22 +305,59 @@ TOPIC_ACT_MAP = {
     "real estate": ["RERA"],
     "rera": ["RERA"],
     "consumer": ["CPA"],
+    "securities": ["SEBI", "SCRA", "CA"],
+    "stock exchange": ["SCRA", "SEBI"],
+    "shares": ["CA", "SEBI", "SCRA"],
+    "insider trading": ["SEBI", "SCRA"],
+    "llp": ["LLP", "IPA", "CA"],
+    "limited liability partnership": ["LLP"],
+    "msme": ["MSMED"],
+    "small enterprises": ["MSMED"],
+    "insurance": ["INSURANCE", "IRDAI"],
+    "irdai": ["IRDAI", "INSURANCE"],
 
     # Banking & Tax
-    "banking": ["BRA", "RBI", "NIA", "SARFAESI", "RDBA"],
-    "bank": ["BRA", "RBI", "NIA", "SARFAESI", "RDBA"],
+    "banking": ["BRA", "RBI", "NIA", "SARFAESI", "RDBA", "PSSA"],
+    "bank": ["BRA", "RBI", "NIA", "SARFAESI", "RDBA", "PSSA"],
     "cheque": ["NIA"],
     "promissory note": ["NIA"],
     "negotiable": ["NIA"],
+    "payment": ["PSSA", "RBI", "NIA"],
+    "settlement": ["PSSA"],
     "sarfaesi": ["SARFAESI", "RDBA"],
     "debt recovery": ["RDBA", "SARFAESI"],
     "fema": ["FEMA", "PMLA"],
     "foreign exchange": ["FEMA"],
+    "foreign contribution": ["FCRA"],
+    "fcra": ["FCRA"],
     "chit fund": ["CHIT"],
-    "tax": ["CGST", "IGST", "CUSTOMS", "STAMP"],
+    "tax": ["ITA", "CGST", "IGST", "CUSTOMS", "STAMP"],
+    "income tax": ["ITA"],
+    "direct tax": ["ITA"],
     "gst": ["CGST", "IGST"],
     "customs": ["CUSTOMS"],
     "stamp duty": ["STAMP"],
+    "benami": ["PBPTA"],
+
+    # Public Welfare, Health & Education
+    "drugs": ["DCA", "NDPS"],
+    "cosmetics": ["DCA"],
+    "pharmacy": ["DCA"],
+    "food": ["FSSA"],
+    "food safety": ["FSSA"],
+    "fssai": ["FSSA"],
+    "electricity": ["EA"],
+    "power": ["EA"],
+    "mental health": ["MHA"],
+    "mental healthcare": ["MHA"],
+    "education": ["RTE"],
+    "right to education": ["RTE"],
+    "disability": ["RPWDA"],
+    "disabilities": ["RPWDA"],
+    "election": ["RPA", "COI"],
+    "elections": ["RPA", "COI"],
+    "telecom": ["TELECOM"],
+    "telecommunications": ["TELECOM"],
 
     # Civil, Contract & Property
     "civil": ["CPC", "SRA", "ICA", "LA"],
@@ -492,13 +569,14 @@ def list_sections(act_code: str) -> list[dict]:
 
 def get_chapter(act_code: str, chapter_number: str) -> dict:
     """Get every section within one chapter (or Constitution Part) of an Act, with full text.
-    Supports BNS, BNSS, BSA, IPC, CRPC, IEA, and Constitution of India (COI).
-    For the Constitution of India, chapter_number represents the Part (e.g. 'III', 'IV', '3', 'Fundamental Rights').
+    Supports all chaptered Acts in the database (e.g. BNS, BNSS, BSA, IPC, CRPC, IEA, COI, CA, IBC, SEBI, SCRA, ITA, EA, DCA, LLP, MHA, MSMED, etc.).
+    You can query by Roman numeral (e.g. 'I', 'III', 'VIA'), Arabic numeral (e.g. '1', '3', '6A'),
+    or by chapter title keywords (e.g. 'Fundamental Rights', 'Adjudication', 'Demutualisation').
     For CPC and MVA, which lack chapter grouping in this dataset, it returns an informative message.
 
     Args:
-        act_code: e.g. 'BNS', 'COI', 'IPC'.
-        chapter_number: e.g. '1', '16', or for COI: 'III', '3', 'Fundamental Rights'.
+        act_code: short code, e.g. 'BNS', 'COI', 'SEBI', 'SCRA', 'ITA', 'LLP'.
+        chapter_number: chapter/part number or title, e.g. '1', 'I', 'Chapter 4', 'Part III', 'Fundamental Rights'.
     """
     is_valid, msg_or_code = validate_act(act_code)
     if not is_valid:
@@ -511,24 +589,49 @@ def get_chapter(act_code: str, chapter_number: str) -> dict:
         conn = get_db_connection()
         cursor = conn.cursor()
         
-        chap_query = str(chapter_number).strip()
+        chap_raw = str(chapter_number).strip()
         # Clean any "Part " or "Chapter " prefix
-        clean_num = re.sub(r'^(Part|Chapter)\s+', '', chap_query, flags=re.IGNORECASE).strip()
-        roman_equiv = ROMAN_NUM_MAP.get(clean_num, clean_num.upper())
+        clean_val = re.sub(r'^(Part|Chapter)\s+', '', chap_raw, flags=re.IGNORECASE).strip().rstrip(':.-').strip()
+        clean_upper = clean_val.upper()
         
-        # Check by chapter_number or Roman numeral or chapter title match
-        cursor.execute("""
-            SELECT chapter_number, chapter_title, section_number, section_title, text 
-            FROM sections 
-            WHERE act_code = ? AND (
-                chapter_number = ? OR 
-                chapter_number = ? OR 
-                chapter_number = ? OR
-                chapter_title LIKE ?
-            )
-            ORDER BY id
-        """, (msg_or_code, chap_query, clean_num, roman_equiv, f"%{clean_num}%"))
+        # Build candidate set for matching
+        candidates = {chap_raw, clean_val, clean_upper}
+        if clean_upper in ARABIC_TO_ROMAN:
+            candidates.add(ARABIC_TO_ROMAN[clean_upper])
+        if clean_upper in ROMAN_TO_ARABIC:
+            candidates.add(ROMAN_TO_ARABIC[clean_upper])
+            
+        for c in list(candidates):
+            candidates.add(f"CHAPTER {c}")
+            candidates.add(f"PART {c}")
+            
+        # If query is numeric or roman numeral, match ONLY chapter_number to prevent partial vowel matches in titles
+        is_num_or_roman = bool(re.match(r'^[0-9]+[A-Z]?$', clean_upper) or re.match(r'^[IVXLCDM]+[A-Z]?$', clean_upper))
         
+        placeholders = " OR ".join(["chapter_number = ?"] * len(candidates))
+        if is_num_or_roman:
+            query_sql = f"""
+                SELECT chapter_number, chapter_title, section_number, section_title, text 
+                FROM sections 
+                WHERE act_code = ? AND (
+                    {placeholders}
+                )
+                ORDER BY id
+            """
+            params = [msg_or_code] + list(candidates)
+        else:
+            query_sql = f"""
+                SELECT chapter_number, chapter_title, section_number, section_title, text 
+                FROM sections 
+                WHERE act_code = ? AND (
+                    {placeholders} OR 
+                    chapter_title LIKE ?
+                )
+                ORDER BY id
+            """
+            params = [msg_or_code] + list(candidates) + [f"%{clean_val}%"]
+            
+        cursor.execute(query_sql, params)
         rows = cursor.fetchall()
         conn.close()
         
@@ -536,6 +639,8 @@ def get_chapter(act_code: str, chapter_number: str) -> dict:
             return {"error": f"Chapter/Part '{chapter_number}' not found in {msg_or_code}."}
             
         return {
+            "act_code": msg_or_code,
+            "chapter_number": rows[0]["chapter_number"],
             "chapter_title": rows[0]["chapter_title"],
             "total_sections_in_chapter": len(rows),
             "sections": [dict(row) for row in rows]
@@ -682,7 +787,7 @@ ALL_STOPWORDS = STOPWORDS | LEGAL_META
 
 def search_keyword(query: str, act_code: str | None = None) -> dict:
     """[AI TOOL ORCHESTRATION INSTRUCTION: ALWAYS use this tool FIRST when the specific section number is unknown. Never guess section numbers.]
-    Search section titles and text across all 81 Acts (including the 2026 Constitution of India, criminal, civil, commercial, corporate, labor, environmental, and family codes).
+    Search section titles and text across all 102 Acts (including the 2026 Constitution of India, criminal, civil, commercial, corporate, labor, tax, environmental, public health, and family codes).
     Exact title matches rank #1, partial title matches rank #2, and body text matches rank #3 (via BM25).
     Handles exact phrases, multi-word keywords, section citations (e.g. 'Article 21: Life & Liberty'), and punctuation gracefully.
     If filtered by an Act that has no matching provisions, dynamically detects and suggests
@@ -1208,16 +1313,20 @@ def trace_concept_across_acts(legal_concept: str) -> str:
 
 with gr.Blocks(title="Indian Legal MCP") as demo:
     gr.Markdown("""
-    # ⚖️ Indian Legal MCP (v2.0)
-    Structured, authoritative access to **81 Indian Acts & Codes (9,901 sections)** for AI agents:
-    - **Criminal Codes**: Modern 2023 Sanhitas (BNS, BNSS, BSA) & Historical Codes (IPC, CrPC, IEA with bidirectional conversions), NDPS, PMLA, POCSO, UAPA, PCA, Arms Act.
-    - **Constitutional Law**: Constitution of India (2026 Edition: Articles 1–395, Preamble, all 12 Schedules, 3 Appendices), RTI, Human Rights, Legal Services.
-    - **Commercial, Corporate & Tax**: Companies Act (CA), Insolvency & Bankruptcy Code (IBC), Commercial Courts, RERA, Competition, Arbitration (ACA), Banking (BRA, RBI, NIA), GST (CGST, IGST), Customs.
-    - **Civil, Property & Contracts**: CPC, Contract Act (ICA), Specific Relief (SRA), Transfer of Property (TPA), Easements, Limitation, Stamp, Registration.
-    - **Labor Codes**: Code on Wages (COW), Social Security (CSS), Industrial Relations (IRC), Occupational Safety (OSH).
-    - **Cyber & Technology**: Digital Personal Data Protection Act (DPDPA), Information Technology Act (IT_ACT), Aadhaar.
+    # ⚖️ Indian Legal MCP (v3.0)
+    Structured, authoritative access to **102 Indian Acts & Codes (12,174 sections)** for AI agents:
+    - **Criminal Codes**: Modern 2023 Sanhitas (BNS, BNSS, BSA) & Historical Codes (IPC, CrPC, IEA with bidirectional conversions), NDPS, PMLA, POCSO, UAPA, PCA, Arms Act, Contempt of Courts.
+    - **Constitutional & Democratic Governance**: Constitution of India (2026 Edition: Articles 1–395, Preamble, all 12 Schedules, 3 Appendices), Representation of the People Act (RPA), RTI, Human Rights (PHRA), Legal Services (LSAA), Administrative Tribunals (ATA), Advocates Act.
+    - **Commercial, Corporate & Securities**: Companies Act (CA), Insolvency & Bankruptcy Code (IBC), SEBI Act, Securities Contracts Regulation (SCRA), LLP Act, MSMED Act, Commercial Courts, Competition Act, Arbitration (ACA), RERA, Consumer Protection (CPA), Partnership (IPA), Sale of Goods (SGA), Chit Funds.
+    - **Banking, Finance & Taxation**: Income-tax Act, 2025 (ITA), Banking Regulation (BRA), RBI Act, Negotiable Instruments (NIA), Insurance Act, IRDAI Act, SARFAESI, Debt Recovery (RDBA), FEMA, Foreign Contribution (FCRA), Payment Systems (PSSA), Benami Transactions (PBPTA), GST (CGST, IGST), Customs, Stamp Act.
+    - **Civil, Property & Contracts**: CPC, Contract Act (ICA), Specific Relief (SRA), Transfer of Property (TPA), Easements, Registration, Limitation, Land Acquisition (RFCTLARR), Motor Vehicles Act (MVA).
+    - **Unified Labor Codes**: Code on Wages (COW), Social Security (CSS), Industrial Relations (IRC), Occupational Safety (OSH), Child Labour Prohibition (CALPRA).
+    - **Communications, Cyber & Technology**: Telecommunications Act (TELECOM), Digital Personal Data Protection Act (DPDPA), Information Technology Act (IT_ACT), Aadhaar Act.
     - **Intellectual Property**: Copyright, Patents, Trade Marks, Designs, Geographical Indications.
-    - **Family & Social Protection**: Hindu Marriage/Succession/Adoption, Special Marriage, Indian Succession, Domestic Violence (DV), POSH, Dowry Prohibition.
+    - **Family & Personal Laws**: Hindu Marriage/Succession/Adoption (HMA, HSA, HAMA), Special Marriage (SMA), Indian Succession (ISA), Family Courts (FCA), Guardians & Wards (GWA), Muslim Women Protection on Divorce (MWPRDA) & Marriage (MWPRMA).
+    - **Environmental & Green Law**: Environment Protection (EPA), National Green Tribunal (NGT), Air Act, Water Act, Wild Life Protection (WPA), Forest Conservation (VSA).
+    - **Public Health, Healthcare & Utilities**: Drugs & Cosmetics Act (DCA), Food Safety and Standards (FSSA), Mental Healthcare (MHA), Electricity Act (EA).
+    - **Social Protection, Education & Welfare**: Right to Education (RTE), Rights of Persons with Disabilities (RPWDA), Domestic Violence (DV), POSH, POCSO, Dowry Prohibition (DPA), Protection of Civil Rights (PCRA), SC/ST Prevention of Atrocities, Juvenile Justice (JJ), Senior Citizens Welfare (MWPSC).
 
     *Not legal advice. Always verify anything that matters against the official Gazette (indiacode.nic.in).*
     """)

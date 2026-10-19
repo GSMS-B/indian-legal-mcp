@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.GSMS-B/indian-legal-mcp",
   "title": "Indian Legal MCP",
-  "description": "Access 81 Indian Acts, Constitution, and old-to-new criminal law mappings for AI assistants.",
-  "version": "2.0.0",
+  "description": "Access 102 Indian Acts, Constitution, and old-to-new criminal law mappings for AI assistants.",
+  "version": "3.0.0",
   "repository": {
     "url": "https://github.com/GSMS-B/indian-legal-mcp",
     "source": "github"

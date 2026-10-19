@@ -1,0 +1,345 @@
+{
+  "act_code": "PSSA",
+  "act_name": "Payment and Settlement Systems Act",
+  "year": 2007,
+  "status": "current",
+  "total_sections": 42,
+  "sections": [
+    {
+      "act_code": "PSSA",
+      "chapter_number": "I",
+      "chapter_title": "PRELIMINARY",
+      "section_number": "1",
+      "section_title": "Short title, extent and commencement.",
+      "text": "1. Short title, extent and commencement.—(1) This Act may be called the Payment and Settlement\nSystems Act, 2007.\n(2) It extends to the whole of India.\n(3) It shall come into force on such date 1 as the Central Government may, by notification in the\nOfficial Gazette, appoint and different dates may be appointed for different provisions of this Act, and\nany reference to the commencement in any such provision of this Act shall be construed as a reference to\nthe commencement of that provision."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "I",
+      "chapter_title": "PRELIMINARY",
+      "section_number": "2",
+      "section_title": "Definitions.",
+      "text": "2. Definitions.—(1) In this Act, unless the context otherwise requires,—\n(a) “bank” means,—\n(i) a bank included in the Second Schedule to the Reserve Bank of India Act, 1934\n(2 of 1934);\n(ii) a post office savings bank;\n(iii) a banking company as defined in clause ( c) of section 5 of the Banking Regulation\nAct, 1949 (10 of 1949);\n(iv) a co -operative bank as defined in clause ( cci) of secti on 5, as inserted by section 56 , of\nthe Banking Regulation Act, 1949 (10 of 1949); and\n(v) such other bank as the Reserve Bank may, by notification, specify for the purposes of this\nAct;\n(b) “derivative” means an instrument, to be settled at a future date, whose value is derived from\nchange in interest rate, foreign exchange rate, credit rating or credit index, price of securities (also\ncalled “underlying”), or any other underlying or a combination of more than one of them and includes\ninterest rate swaps, forward rate agreements, foreign currency swaps, foreign currency rupee swaps,\nforeign currency options, foreign currency rupee options or any other instrument, as may be specified\nby the Reserve Bank from time to time;\n(c) “electronic funds transfer” means any transfer of funds which is initiated by a person by way\nof instruction, authorisation or order to a bank to debit or credit an account maintained with that bank\nthrough electronic means and includes point of sale transfers, automated teller machine transactions,\ndirect deposits or withdrawal of funds, transfers initiated by telephone, internet and card payment;\n(d) “gross settlement system ” means a payment system in which each settlement of funds or\nsecurities occurs on the basis of separate or individual instructions;\n2[(da) “issuer” means a person who issues a legal entity identifier or such  other unique\nidentification (by whatever name called), as may be specified by the Reserve Bank from time to time;\n\n1. 12th August, 2008, vide Notifn. No. S.O. 2032(E), dated 12th August, 2008, see Gazette of India, Extraordinary, Part II, sec.\n3(ii).\n\n(db) “legal entity identifier ” means a unique identity code assigned to a  person by an issuer for\nthe purpose of identifying that person in such derivatives  or financial transactions, as may be\nspecified by the Reserve Bank from time to time;]\n(e) “netting” means the determination by the system provider of the amount of money or\nsecurities, due or payable or deliverable, as a result of setting off or adjusting, the payment\nobligations or delivery obligations among the system participants, including the claims and\nobligations arising out of the termination by the system provider, on the insolvency or dissolution or\nwinding up of any system participant or such other circumstances as the system provider may specify\nin its rules or regulations or bye -laws (by wha tever name called), of the transactions admitted for\nsettlement at a future date so that only a net claim be demanded or a net obligation be owned;\n(f) “notification” means a notification published in the Official Gazette;\n(g) “payment instruction” means any instrument, authorisation or order in any form, including\nelectronic means, to effect a payment,—\n(i) by a person to a system participant; or\n(ii) by a system participant to another system participant;\n(h) “payment obligation ” means an indebtedness that is owned by one system participant to\nanother system participant as a result of clearing or settlement of one or more payment instructions\nrelating to funds, securities or foreign exchange or derivatives or other transactions;\n(i) “payment system” means a system that enables payment to be effected between a payer and a\nbeneficiary, involving clearing, payment or settlement service or all of them, but do es not include a\nstock exchange.\nExplanation.—For the purposes of this clause, “payment system” includes the systems enabling\ncredit card operations, debit card operations, smart card operations, money transfer operations or\nsimilar operations;\n(j) “prescribed” means prescribed by regulations made under this Act;\n(k) “regulation” means a regulation made under this Act;\n(l) “Reserve Bank” means the Reserve Bank of India, constituted under the Reserve Bank of India\nAct, 1934 (2 of 1934);\n(m) “securities” means the Government securities as defined in the Public Debt Act, 1944  (18 of\n1944) or such other securities as may be notified by the Central Government from time to time under\nthat Act;\n(n) “settlement” means settlement of payment instructions and includes the settlement of\nsecurities, foreign exchange or derivatives or other transactions which involve payment obligations;\n(o) “systemic risk” means the risk arising from—\n(i) the inability of a system participant to meet his payment obligations under the payment\nsystem as and when they become due; or\n(ii) any disruption in the system,\nwhich may cause other participants to fail to meet their obligations when due and is likely to have an\nimpact on the stability of the system:\nProvided that if any doubt or difference arises as to whether a particular risk is likely to have an\nimpact on the stability of the system, the decision of the Reserve Bank shall be final;\n(p) “system participant” means a bank or any other person participating in a payment system and\nincludes the system provider;\n(q) “system provider” means a person who operates an authorised payment system;\n\n1[(r) “trade repository” means a person who is engaged in the business of  collecting, collating,\nstoring, maintaining, processing or disseminating electronic  records or data relating to such\nderivatives or financial transactions, as may be specified by the Reserve Bank from time to time.]\n(2) Words and expressions used, but not defined in this Act and defined in the Reserve Bank of India\nAct, 1934  (2 of 1934)  or the Banking Regulation Act, 1949  (10 of 1949) , shall have the meanings\nrespectively assigned to them in those Acts."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "II",
+      "chapter_title": "DESIGNATED AUTHORITY",
+      "section_number": "3",
+      "section_title": "Designated authority.",
+      "text": "3. Designated authority.—(1) The Reserve Bank shall be the designated authority for the regulation\nand supervision of payment systems under this Act.\n(2) The Reserve Bank  shall exercise the powers, perform the functions and discharge  the duties\nconferred on it under this Act through a Board to be known as the “Payments Regulatory Board”.\n(3) The Board shall consist of the following members, namely:—\n(a) the Governor of the Reserve Bank—Chairperson, ex officio;\n(b) the Deputy Governor  of the Reserve Bank  in-charge of the Payment and Settlement\nSystems—Member, ex officio;\n(c)  one officer of the Reserve Bank to be nominated by the Central Board of the Reserve\nBank—Member, ex officio; and\n(d) three persons to be nominated by the Central Government—Members.\n(4) The powers and functions of the Board referred to in sub -section (2), the time and venue of its\nmeetings, the procedures to be followed in such meetings (including the quorum at such meetings) and\nother matters incidental thereto shall be such as may be prescribed.]"
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "III",
+      "chapter_title": "AUTHORISATION OF PAYMENT SYSTEMS",
+      "section_number": "4",
+      "section_title": "Payment system not to operate without authorisation.",
+      "text": "4. Payment system not to operate without authorisation. —(1) No person, other than the Reserve\nBank, shall commence or operate a payment system except under and in accordance with an authorisation\nissued by the Reserve Bank under the provisions of this Act:\nProvided that nothing contained in this section shall apply to—\n(a) the continued operation of an existing payment system on commencement of this Act for a\nperiod not exceeding six months from such commencement, unless within such period, the operator\nof such payment system obtains an authorisation under this Act or the application for authorisation\nmade under section 7 of this Act is refused by the Reserve Bank;\n(b) any person acting as the duly appointed agent of another person to whom the payment is due;\n(c) a company accepting payments either from its holding company or any of its subsidiary\ncompanies or from any other company which is also a subsidiary of the same holding company;\n(d) any other person whom the Reserve Bank may, after considering the interests of monetary\npolicy or efficient operation of payment systems, the size of any payment system or for any other\nreason, by notification, exempt from the provisions of this section.\n(2) The Reserve Bank may, under sub -section (1) of this section, authorise a company or corporation\nto operate or regulate the existing clearing houses or new clearing houses of banks in order to have a\ncommon retail clearing house system for the banks throughout the country:\nProvided, however, that not less than fifty-one per cent. of the equity of such company or corporation\nshall be held by public sector banks.\n\nExplanation.—For the purposes of this clause, “public sector banks ” shall include a “corresponding\nnew bank ”, “State Bank of India ” and “subsidiary bank ” as defined in section 5 of the Banking\nRegulation Act, 1949 (10 of 1949)."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "III",
+      "chapter_title": "AUTHORISATION OF PAYMENT SYSTEMS",
+      "section_number": "5",
+      "section_title": "Application for authorisation.",
+      "text": "5. Application for authorisation .—(1) Any person desirous of commencing or carrying on a\npayment system may apply to the Reserve Bank for an authorisation under this Act.\n(2) An application under sub-section (1) shall be made in such form and in such manner and shall be\naccompanied by such fees as may be prescribed."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "III",
+      "chapter_title": "AUTHORISATION OF PAYMENT SYSTEMS",
+      "section_number": "6",
+      "section_title": "Inquiry by the Reserve Bank.",
+      "text": "6. Inquiry by the Reserve Bank.—After the receipt of an application under section 5, and before an\nauthorisation is issued under this Act, the Reserve Bank may make such inquiries as it may consider\nnecessary for the purpose of satisfying itself about the genuineness of the particulars furnished by the\napplicant, his capacity to operate the payment system, the credentials of the participants or for any other\nreason and when such an inquiry is conducted by any person authorised by it in this behalf, it may require\na report from such person in respect of the inquiry."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "III",
+      "chapter_title": "AUTHORISATION OF PAYMENT SYSTEMS",
+      "section_number": "7",
+      "section_title": "Issue or refusal of authorisation.",
+      "text": "7. Issue or refusal of authorisation .—(1) The Reserve Bank may, if satisfied, after any inquiry\nunder section 6 or otherwise, that the application is complete in all respects and that it conforms to the\nprovisions of this Act and the regulations issue an authorisation for operating the payment system under\nthis Act having regard to the following considerations, namely:—\n(i) the need for the proposed payment system or the services proposed to be undertaken by it;\n(ii) the technical standards or the design of the proposed payment system;\n(iii) the terms and conditions of operation of the proposed payment system including any security\nprocedure;\n(iv) the manner in which transfer of funds may be effected within the payment system;\n(v) the procedure for netting of payment instructions effecting the payment obligations under the\npayment system;\n(vi) the financial status, experience of management and integrity of the applicant;\n(vii) interests of consumers, including the terms and conditions governing their relationship with\npayment system providers;\n(viii) monetary and credit policies; and\n(ix) such other factors as may be considered relevant by the Reserve Bank.\n(2) An authorisation issued under sub -section ( 1) shall be in such form as may be prescribed and\nshall—\n(a) state the date on which it takes effect;\n(b) state the conditions subject to which the authorisation shall be in force;\n(c) indicate the payment of fees, if any, to be paid for the authorisation to be in force;\n(d) if it considers necessary, require the applicant to furnish such security for the proper conduct\nof the payment system under the provisions of this Act;\n(e) continue to be in force till the authorisation is revoked.\n(3) Where the Reserve Bank considers that the application for authorisation should be refused, it shall\ngive the applicant a written notice to that effect stating the reasons for the refusal:\nProvided that no such application shall be refused unless the applicant is given a reasonable\nopportunity of being heard.\n(4) Every application for authorisation shall be processed by the Reserve Bank as soon as possible\nand an endeavour shall be made to dispose of such application within six months from the date of filing of\nsuch application."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "III",
+      "chapter_title": "AUTHORISATION OF PAYMENT SYSTEMS",
+      "section_number": "8",
+      "section_title": "Revocation of authorisation.",
+      "text": "8. Revocation of authorisation.—(1) If a system provider,—\n(i) contravenes any provisions of this Act, or\n(ii) does not comply with the regulations, or\n(iii) fails to comply with the orders or directions issued by the designated authority, or\n(iv) operates the payment system contrary to the conditions subject to which the authorisation was\nissued,\nthe Reserve Bank may, by order, revoke the authorisation given to such system provider under this Act:\nProvided that no order of revocation under sub-section (1) shall be made—\n(i) except after giving the system provider a reasonable opportunity of being heard; and\n(ii) without prejudice to the direction of the Reserve Bank to the system provider that the\noperation of the payment system shall not be carried out till the order of revocation is issued.\n(2) Nothing contained in sub -section (1) shall apply to a case where the Reserve Bank considers it\nnecessary to revoke the authorisation given to a payment system in the interest of the monetary policy of\nthe country or for any other reasons to be specified by it in the order.\n(3) The order of revocation issued under sub -section (1) shall include necessary provisions to protect\nand safeguard the interests of persons affected by such order of revocation.\n(4) Where a system provider becomes insolvent or dissolved or wound up, such system provider shall\ninform that fact to the Reserve Bank and thereupon the Reserve Bank shall take such steps as deemed\nnecessary to revoke the authorisation issued to such system provider to operate the payment system."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "III",
+      "chapter_title": "AUTHORISATION OF PAYMENT SYSTEMS",
+      "section_number": "9",
+      "section_title": "Appeal to the Central Government.",
+      "text": "9. Appeal to the Central Government .—(1) Any applicant for an authorisation whose application\nfor the operation of the payment system is refused under sub -section (3) of section 7 or a system provider\nwho is aggrieved by an order of revocation under section 8 may, within thirty days from the date on\nwhich the order is communicated to him, appeal to the Central Government.\n(2) The Central Government shall endeavour to dispose of an appeal under sub -section (1) within a\nperiod of three months.\n(3) The decision of the Central Government on the appeal under sub-section (1) shall be final."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "10",
+      "section_title": "Power to determine standards.",
+      "text": "10. Power to determine standards.—(1) The Reserve Bank may, from time to time, prescribe—\n(a) the format of payment instructions and the size and shape of such instructions;\n(b) the timings to be maintained by payment systems;\n(c) the manner of transfer of funds within the payment system, either through paper, electronic\nmeans or in any other manner, between banks or between banks and other system participants;\n(d) such other standards to be complied with the payment systems generally;\n(e) the criteria for membership of payment systems including continuation, termination and\nrejection of membership;\n(f) the conditions subject to which the system participants shall participate in such fund transfers\nand the rights and obligations of the system participants in such funds.\n(2) Without prejudice to the provisions of sub -section (1), the Reserve Bank may, from time to time,\nissue such guidelines, as it may consider necessary for the proper and efficient management of the\npayment systems generally or with reference to any particular payment system."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "10A",
+      "section_title": "Bank, etc., not to impose charge for using electronic modes of payment.",
+      "text": "1[10A. Bank, etc., not to impose charge for using electronic modes of payment.—Notwithstanding\nanything contained in this Act, no bank or system provider shall impose, whether directly or indirectly,\nany charge upon a person making or receiving a payment by using 2[one or more electronic modes of\npayment as the Central Government may, by notification, specify].]"
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "11",
+      "section_title": "Notice of change in the payment system.",
+      "text": "11. Notice of change in the payment system.—(1) No system provider shall cause any change in the\nsystem which would affect the structure or the operation of the payment system without—\n(a) the prior approval of the Reserve Bank; and\n(b) giving notice of not less than thirty days to the system participants after the approval of the\nReserve Bank:\nProvided that in the interest of monetary policy of the country or in public interest, the Reserve\nBank may permit the system provider to make any changes in a payment system without giving\nnotice to the system participants under clause (b) or requiring the system provider to give notice for a\nperiod longer than thirty days.\n(2) Where the Reserve Bank has any objection, to the proposed change for any reason, it shall\ncommunicate such objection to the systems provider within two weeks of receipt of the intimation of the\nproposed changes from the system provider.\n(3) The system provider shall, within a period of two weeks of the receipt of the objections from the\nReserve Bank forward his comments to the Reserve Bank and the proposed changes may be effected only\nafter the receipt of approval from the Reserve Bank."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "12",
+      "section_title": "Power to call for returns, documents or other information.",
+      "text": "12. Power to call for returns, documents or other information .—The Reserve Bank may call for\nfrom any system provider such returns or documents as it may require or other information in regard to\nthe operation of his payment system at such intervals, in such form and in such manner, as the Reserve\nBank may require from time to time or as may be prescribed and such order shall be complied with."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "13",
+      "section_title": "Access to information.",
+      "text": "13. Access to information.—The Reserve Bank shall have right to access any information relating to\nthe operation of any payment system and system provider and all the system participants shall provide\naccess to such information to the Reserve Bank."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "14",
+      "section_title": "Power to enter and inspect.",
+      "text": "14. Power to enter and inspect.—Any officer of the Reserve Bank duly authorised by it in writing in\nthis behalf, may for ensu ring compliance with the provisions of this Act or any regulations, enter any\npremises where a payment system is being operated and may inspect any equipment, including any\ncomputer system or other documents situated at such premises and call upon any employee of such\nsystem provider or participant thereof or any other person working in such premises to furnish such\ninformation or documents as may be required by such officer."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "15",
+      "section_title": "Information, etc., to be confidential.",
+      "text": "15. Information, etc., to be confidential .—(1) Subject to the provisions of sub -section ( 2), any\ndocument or information obtained by the Reserve Bank under sections 12 to 14 (both inclusive) shall be\nkept confidential.\n(2) Notwithstanding anything contained in sub -section ( 1), the Reserve Bank may disclose any\ndocument or information obtained by it under sections 12 to 14 (both inclusive) to any person to whom\nthe disclosure of such document or information is considered necessary for protecting the integrity,\neffectiveness or security of the payment system, or in the interest of banking or monetary policy or the\noperation of the payment systems generally or in the public interest."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "16",
+      "section_title": "Power to carry out audit and inspection.",
+      "text": "16. Power to carry out audit and inspection .—The Reserve Bank may, for the purpose of carrying\nout its functions under this Act, conduct or get conducted audits and inspections of a payment system or\nparticipants thereof and it shall be the duty of the system provider and the system participants to assist the\nReserve Bank to carry out such audit or inspection, as the case may be."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "17",
+      "section_title": "Power to issue directions.",
+      "text": "17. Power to issue directions.—Where the Reserve Bank is of the opinion that,—\n(a) a payment system or a system participant is engaging in, or is about to engage in, any act,\nomission or course of conduct that results, or is likely to result, in systemic risk being inadequately\ncontrolled; or\n(b) any action under clause ( a) is likely to affect the payment system, the monetary policy or the\ncredit policy of the country,\nthe Reserve Bank may issue directions in writing to such payment system or system participant requiring\nit, within such time as the Reserve Bank may specify—\n(i) to cease and desist from engaging in the act, omission or course of conduct or to ensure the\nsystem participants to cease and desist from the act, omission or course of conduct; or\n(ii) to perform such acts as may be necessary, in the opinion of the Reserve Bank, to remedy the\nsituation."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "18",
+      "section_title": "Power of Reserve Bank to give directions generally.",
+      "text": "18. Power of Reserve Bank to give directions generally .—Without prejudice to the provisions of\nthe foregoing, the Reserve Bank may, if it is satisfied that for the purpose of enabling it to regulate the\npayment systems or in the interest of management or operation of any of the payment systems or in public\ninterest, it is necessary so to do, lay down policies relating to the regulation of payment systems including\nelectronic, non -electronic, domestic and international payment systems affecting domestic transactions\nand give such directions in writing as it may consider necessary to system providers or the system\nparticipants or any other person either generally or to any such agency and in particular, pertaining to the\nconduct of business relating to payment systems."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "IV",
+      "chapter_title": "REGULATION AND SUPERVISION BY THE RESERVE BANK",
+      "section_number": "19",
+      "section_title": "Directions of Reserve Bank to be complied with.",
+      "text": "19. Directions of Reserve Bank to be complied with .—Every person to whom a direction has been\nissued by the Reserve Bank under this Act shall comply with such direction without any delay and a\nreport of compliance shall be furnished to the Reserve Bank within the time allowed by it."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "V",
+      "chapter_title": "RIGHTS AND DUTIES OF A SYSTEM PROVIDER",
+      "section_number": "20",
+      "section_title": "System provider to act in accordance with the Act, regulations, etc.",
+      "text": "20. System provider to act in accordance with the Act, regulations, etc .—Every system provider\nshall operate the payment system in accordance with the provisions of this Act, the regulations, the\ncontract governing the relationship among the system participants, the rules and regulations which deal\nwith the operation of the payment system and the conditions subject to which the authorisation is issued,\nand the directions given by the Reserve Bank from time to time."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "V",
+      "chapter_title": "RIGHTS AND DUTIES OF A SYSTEM PROVIDER",
+      "section_number": "21",
+      "section_title": "Duties of a system provider.",
+      "text": "21. Duties of a system provider .—(1) Every system provider shall disclose to the existing or\npotential system participants, the terms and conditions including the charges and the limitations of\nliability under the payment system, supply them with copies of the rules and regulations governing the\noperation of the payment system, netting arrangements and other relevant documents.\n(2) It shall be the duty of every system provider to maintain the standards determined under this Act."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "V",
+      "chapter_title": "RIGHTS AND DUTIES OF A SYSTEM PROVIDER",
+      "section_number": "22",
+      "section_title": "Duty to keep documents in the payment system confidential.",
+      "text": "22. Duty to keep documents in the payment system confidential.—(1) A system provider shall not\ndisclose to any other person the existence or contents of any document or part thereof or other\ninformation given to him by a system participant, except where such disclosure is required under the\nprovisions of this Act or the disclosure is made with the express or implied consent of the system\nparticipant concerned or where such disclosure is in obedience to the orders passed by a court of\ncompetent jurisdiction or a statutory authority in exercise of the powers conferred by a statute.\n(2) The provisions of the Bankers ’ Book Evidence Act, 1891  (18 of 1 891) shall apply in relation to\nthe information or documents or other books in whatever form maintained by the system provider."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "V",
+      "chapter_title": "RIGHTS AND DUTIES OF A SYSTEM PROVIDER",
+      "section_number": "23",
+      "section_title": "Settlement and netting.",
+      "text": "23. Settlement and netting .—(1) The payment obligations and settlement instructions among the\nsystem participants shall be determined in accordance with the gross or netting procedure, as the case may\nbe, approved by the Reserve Bank while issuing authorisation to a payment system  1[under section 7, or,\nsuch gross or netting procedure as may be approved by it under any other provisions of this Act].\n\n(2) Where the rules providing for the operation of a payment system indicates a procedure for the\ndistribution of losses between the system participants and the payment system, such procedure shall have\neffect notwithstanding anything to the contrary contained in any other law for the time being in force.\n(3) A settlement effected under such procedure shall be final and irrevocable.\n1[(4) Where, by an order of a court, Tribunal or authority––\n(a) a system participant is declared as insolvent or is dissolved or wound up; or\n(b) a liquidator or receiver or assignee (by whatever name called), whether provisional or\notherwise, is appointed in a proceeding relating to insolvency or dissolution or winding up of a\nsystem participant,\nthen, notwithstanding anything contained in the Banking Regulation Act,  1949 (10 of 1949) or the\nCompanies Act,  1956 (1 of 1956) or the Companies Act, 2013 (18 of 201 3) 2[or the Insolvency and\nBankruptcy Code, 2016  (31 of 2016) ] or any other law for the time being in force, such order shall not\naffect any settlement that has  become final and irrevocable prior to such order or immediately thereafter,\nand the right of the system provider to appropriate any collaterals contributed by the system participants\ntowards its settlement or other obligations in accordance with the rules, regulations or bye-laws relating to\nsuch system provider.]\n1[(5) Where an order referred to in sub -section (4) is made with respect to  a central counter party,\nthen, notwithstanding such order or anything contained in the Banking Regulation Act, 1949 (10 of 1949)\nor the Companies Act, 1956 (1 of 1956) or the Companies Act, 2013 (18 of 2013) 2[or the Insolvency and\nBankruptcy Code, 2016] or any other law for the time being in force, the payment obligations  and\nsettlement instructions between the central counter party and the system  participants including those\narising from transactions admitted for settlement at  a future date, shall be determined forthwith by such\ncentral counter party in accordance with the gross or netting procedure, as the case may be, approved  by\nthe Reserve Bank, while issuing authorisation or under any other provisions  of this Act, and such\ndetermination shall be final and irrevocable.\n(6) Notwithstanding anything contained in the Banking Regulation  Act, 1949 (10 of 1949) or the\nCompanies Act, 1956 (1 of 1956) or the Companies Act, 2013 (18 of 2013 ) 2[or the Insolvency and\nBankruptcy Code, 2016  (31 of 2016) ] or any other  law for the time being in force, the liquidator or\nreceiver or assignee (by whatever  name called) of the central counter party, whether appointed as\nprovisional or otherwise, shall—\n(a) not re-open any determination that has become final and irrevocable;\n(b) after appropriating in accordance with the rules, regulations or bye-laws of the central counter\nparty, the collaterals provided by the system participants towards their settlement or other obligations,\nreturn the collaterals held in excess to the system participants concerned.]\n3[Explanation 1].—For the removal of doubts, it is hereby declared that the settlement, whether gross\nor net, referred to in this section is final and irrevocable as soon as the money, securities, foreign\nexchange or derivatives or other transactions payable as a result of such settlement is determined, whether\nor not such money, securities or foreign exchange or derivatives or other transactions is actually paid.\n4[Explanation 2.—For the purposes of this section, the expression “central counter party” means a\nsystem provider who by way of novation interposes  between system participants in the transactions\nadmitted for settlement, thereby  becoming the buyer to every seller and the seller to every buyer, for the\npurpose of effecting settlement of their transactions.]"
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "V",
+      "chapter_title": "RIGHTS AND DUTIES OF A SYSTEM PROVIDER",
+      "section_number": "23A",
+      "section_title": "Protection of funds collected from customers.",
+      "text": "5[23A. Protection of funds collected from customers .—(1) The Reserve Bank may, in public\ninterest or in the interest of the customers of designated payment systems or to prevent the affairs of such\n\ndesignated payment system from being conducted in a manner prejudicial to the interests of its customers,\nrequire system provider of such payment system to—\n(a) deposit and keep deposited in a separate account or accounts held in  a scheduled commercial\nbank; or\n(b) maintain liquid assets in such manner and form as it may specify from time to time,\nof an amount equal to such percentage of the amounts collected by the system provider  of designated\npayment system from its customers and remaining outstanding, as maybe specified by the Reserve Bank\nfrom time to time:\nProvided that the Reserve Bank may specify different percentages and the manner  and forms for\ndifferent categories of designated payment systems.\n(2) The balance held in the account or accounts, referred to in sub -section (1), shall not be utilised for\nany purpose other than for discharging the liabilities arising  on account of the usage of the payment\nservice by the customers or for repaying to  the customers or for such other purpose as may be specified\nby the Reserve Bank from time to time.\n(3) Notwithstanding anything contained in the Banking Regulation Act, 1949 (10 of 1949) , or the\nCompanies Act, 1956 (1 of 1956) or the Companies Act, 2013  (18 of 2013 ) 1[or the Insolvency and\nBankruptcy Code, 2016 (31 of 2016)] or any other law for the time being  in force, the persons entitled to\nreceive payment under sub-section (2) shall have a first and paramount charge on the balance held in that\naccount and the liquidator or receiver or assignee (by whatever name called) of the system provider of the\ndesignated payment system or the scheduled commercial bank concerned, whether appointed as\nprovisional or otherwise, shall not utilise the said balances for any other purposes  until all such persons\nare paid in full or adequate provision is made therefor.\nExplanation.—For the purposes of this section, the expressions—\n(a) “designated payment system” shall mean a payment system or a class of  payment system, as\nmay be specified by the Reserve Bank from time to time,  engaged in collection of funds from their\ncustomers for rendering payment service;\n(b) “scheduled commercial bank” shall mean a “banking company”, “corresponding new bank”,\n“State Bank of India ” and “subsidiary bank ” as defined in section 5 of the Banking Regulation\nAct, 1949 (10 of 1949) and included in the  Second Schedule to the Reserve Bank of India Act,1934\n(2 of 1934).]"
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VI",
+      "chapter_title": "SETTLEMENT OF DISPUTES",
+      "section_number": "24",
+      "section_title": "Settlement of disputes.",
+      "text": "24. Settlement of disputes.—(1) The system provider shall make provision in its rules or regulations\nfor creation of panel consisting of not less than three system participants other than the system\nparticipants who are parties to the dispute to decide the disputes between system participants in respect of\nany matter connected with the operation of the payment system.\n(2) Where any dispute in respect of any matter connected with the operation of the payment system\narises between two or more system participants, the system provider shall refer the dispute to the panel\nreferred to in sub-section (1).\n(3) Where any dispute arises between any system participant and the system provider or between\nsystem providers or where any of the system participants is not satisfied with the decision of the panel\nreferred to in sub-section (1), the dispute shall be referred to the Reserve Bank.\n(4) The dispute referred to the Reserve Bank for adjudication under sub -section (3) shall be disposed\nof by an officer of the Reserve Bank generally or specially authorised in this behalf and the decision of\nthe Reserve Bank shall be final and binding.\n\n(5) Where a dispute arises between the Reserve Bank, while acting in its capac ity as system provider\nor as system participant, and another system provider or system participant, the matter shall be referred to\nthe Central Government which may authorise an officer not below the rank of Joint Secretary for\nsettlement of the dispute and the decision of such officer shall be final."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VI",
+      "chapter_title": "SETTLEMENT OF DISPUTES",
+      "section_number": "25",
+      "section_title": "Dishonour of electronic funds transfer for insufficiency, etc., of funds in the account.",
+      "text": "25. Dishonour of electronic funds transfer for insufficiency, etc., of funds in the account .—(1)\nWhere an electronic funds transfer initiated by a person from an account maintained by him cannot be\nexecuted on the ground that the amount of money standing to the credit of that account is insufficient to\nhonour the transfer instruction or that it exceeds the amount arranged to be paid from that account by an\nagreement made with a bank, such person shall be deemed to have committed an offence and shall,\nwithout prejudice to any other provisions of this Act, be punished with imprisonment for a term which\nmay extend to two years, or with fine which may extend to twice the amount of the electronic funds\ntransfer, or with both:\nProvided that nothing contained in this section shall apply unless—\n(a) the electronic funds transfer was initiated for payment of any amount of money to another\nperson for the discharge, in whole or in part, of any debt or other liability;\n(b) the electronic funds transfer was initiated in accordance with the relevant procedural\nguidelines issued by the system provider;\n(c) the beneficiary makes a demand for the payment of the said amount of money by giving a\nnotice in writing to the person initiating the electronic funds transfer within thirty days of the receipt\nof information by him from the bank concerned regarding the dishonour of the electronic funds\ntransfer; and\n(d) the person initiating the electronic funds transfer fails to make the payment of the said money\nto the beneficiary within fifteen days of the receipt of the said notice.\n(2) It shall be presumed, unless the contrary is proved, that the electronic funds transfer was initiated\nfor the discharge, in whole or in part, of any debt or other liability.\n(3) It shall not be a defence in a prosecution for an offence under sub -section (1) that the person, who\ninitiated the electronic funds transfer through an instruction, authorisation, order or agreement, did not\nhave reason to believe at the time of such instruction, authorisation, order or agreement that the credit of\nhis account is insufficient to effect the electronic funds transfer.\n(4) The Court shall, in respect of every proceeding under this section, on production of a\ncommunication from the bank denoting the dishonour of electronic funds transfer, presume the fact of\ndishonour of such electronic funds transfer, unless and until such fact is disproved.\n(5) The provisions of Chapter XVII of the Negotiable Instruments Act, 1881  (26 of 1881) shall apply\nto the dishonour of electronic funds transfer to the extent the circumstances admit.\nExplanation.—For the purposes of this section, “debt or other liability ” means a legally enforceable\ndebt or other liability, as the case may be."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section_number": "26",
+      "section_title": "Penalties.",
+      "text": "26. Penalties.—(1) Where a person contravenes the provisions of section 4 or fails to comply with\nthe terms and conditions subject to which the authorisation has been issued under section 7, he shall be\npunishable with imprisonment for a term which shall not be less than one month but which may extend to\nten years or with fine which may extend to one crore rupees or with both and with a further fine which\nmay extend to one lakh rupees for every day, after the first during which the contravention or failure to\ncomply continues.\n(2) Whoever in any application for authorisation or in any return or other document or on any\ninformation required to be furnished by or under, or for the purpose of, any provision of this Act, wilfully\nmakes a statement which is false in any material particular, knowing it to be false or wilfully omits to\nmake a material statement, shall be punishable with imprisonment for a term which may extend to three\n\nyears and shall also be liable to fine which shall not be less than ten lakh rupees and which may extend to\nfifty lakh rupees.\n(3) If any person fails to produce any statement, information, returns or other documents, or to furnish\nany statement, information, returns or other documents, which under section 12 or under section 13, it is\nhis duty to furnish or to answer any question relating to the operation of a payment system which is\nrequired by an officer making inspection under section 14, he shall be  1[liable to penalty as may be\nimposed in accordance with the provisions of section 30].\n(4) If any person discloses any information, the disclosure of which is prohibited under section 22, he\nshall be punishable with imprisonment for a term which may extend to six months, or with fine which\nmay extend to five lakh rupees or an amount equal to twice the amount of the damages incurred by the act\nof such disclosure, whichever is higher or with both.\n(5) Where a direction issued under this Act is not complied with within the period stipulated by the\nReserve Bank or where no such period is stipulated, within a reasonable time or where the penalty\nimposed by the Reserve Bank under section 30 is not paid within a period of thirty days from the date of\nthe order, the system provider or the system participant which has failed to comply with the direction or\nto pay the penalty shall be punishable with imprisonment for a term which shall not be less than one\nmonth but which may extend to ten years, or with fine which may extend to one crore rupees or with both\nand where the failure to comply with the direction continues, with further fine which may extend to one\nlakh rupees for every day, after the first during which the contravention continues.\n(6) If any provision of this Act is contravened, or if any default is made in complying with any other\nrequirement of this Act, or of any regulation, order or direction made or given or condition imposed\nthereunder and in respect of which no penalty has been specified, then, the person guilty of such\ncontravention or default, as the case may be, shall be 1[liable to penalty as may be imposed in accordance\nwith the provisions of section 30]."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section_number": "27",
+      "section_title": "Offences by companies.",
+      "text": "27. Offences by companies .—(1) Where a person committing a contravention of any of the\nprovisions of this Act or any regulation, direction or order made thereunder is a company, every person\nwho, at the time of the contravention, was in -charge of, and was responsible to, the company for the\nconduct of business of the company, as well as the company, shall be guilty of the contravention and shall\nbe liable to be proceeded against and punished accordingly:\nProvided that nothing contained in this sub -section shall render any such person liable to punishment\nif he proves that the contravention took place without his knowledge or that he exercised all due diligence\nto prevent such contravention.\n(2) Notwithstanding anything contained in sub -section ( 1), where a contravention of any of the\nprovisions of this Act or of any regulation, direction or order made thereunder has been committed by a\ncompany and it is proved that the contravention has taken place with the consent or connivance of, or is\nattributable to any neglect on the part of any director, manager, secretary or other officer of the company,\nsuch director, manager, secretary or other officer shall also be deemed to be guilty of the contravention\nand shall be liable to be proceeded against and punished accordingly.\nExplanation.—For the purposes of this section,—\n(a) “company” means any body corporate and includes a firm or other association of individuals;\nand\n(b) “director”, in relation to a firm, means a partner in the firm."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section_number": "28",
+      "section_title": "Cognizance of offences.",
+      "text": "28. Cognizance of offences.—(1) No court shall take cognizance of an offence punishable under this\nAct except upon a complaint in writing made by an officer of the Reserve Bank generally or specially\nauthorised by it in writing in this behalf, and no court, lower than that of a Metropolitan Magistrate or a\nJudicial Magistrate of the first class shall try any such offence:\nProvided that the Court may take cognizance of an offence punishable under section 25 upon a\ncomplaint in writing made by the person aggrieved by the dishonour of the electronic funds transfer.\n\n(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973  (2 of 1974) , a\nMagistrate may dispense with the personal attendance of the officer of the Reserve Bank filing the\ncomplaint, but the Magistrate may, in his discretion, at any stage of the proceedings, direct the personal\nattendance of the complainant."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section_number": "29",
+      "section_title": "Application of fine.",
+      "text": "29. Application of fine.—A court imposing any fine under this Act may direct that the whole or any\npart thereof shall be applied in, or towards payment of, the costs of the proceedings."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section_number": "30",
+      "section_title": "Power of Reserve Bank to impose penalties.",
+      "text": "30. Power of Reserve Bank to impose 1[penalties].—(1) Notwithstanding anything contained in\nsection 26, if a contravention or default of the nature referred to in sub -section (2) 2[or sub-section (3)] or\nsub-section ( 6) of section 26, as the case may be, the Reserve Bank may impose on the person\ncontravening or committing default a penalty not exceeding 3[ten lakh ] rupees or twice the amount\ninvolved in such contravention or default where such amount is quantifiable, whichever is more, and\nwhere such contravention or default is a continuing one, a further penalty which may extend to twenty -\nfive thousand rupees for every day after the first during which the contravention or default continues.\n(2) For the purpose of imposing penalty under sub -section (1), the Reserve Bank shall serve a notice\non the defaulter requiring him to show cause why the amount specified in the notice should not be\nimposed as a penalty and a reasonable opportunity of being heard shall also be given to such defaulter.\n(3) Any penalty imposed by the Reserve Bank under this section shall be payable within a period of\nthirty days from the date on which notice issued by the Reserve Bank demanding payment of the sum is\nserved on the defaulter and, in the event of failure of the person to pay the sum within such period, may\nbe recovered on a direction made by the principal civil court having jurisdiction in the area where the\nregistered office of the defaulter company or the official business of the person is situated:\nProvided that no such direction shall be made, except on an application made by an officer of the\nReserve Bank authorised by it in this behalf.\n(4) The Reserve Bank may recover the amount of penalty by debiting the current account, if any, of\nthe defaulter or by liquidating the securities held to the credit of the defaulter or in accordance with the\nprovisions of this Act.\n(5) The court which makes a direction under sub -section (3) shall issue a certificate specifying the\nsum payable by the defaulter and every such certificate shall be enforceable in the same manner as it were\na decree made by the court in a civil suit.\n(6) Where any complaint has been filed against any person in any court in respect of the\ncontravention or default of the nature referred to in sub-section (2), or, as the case may be, sub-section (4)\nof section 26, then, no proceeding for the imposition of any penalty on the person shall be taken under\nthis section."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VII",
+      "chapter_title": "OFFENCES AND PENALTIES",
+      "section_number": "31",
+      "section_title": "Power to compound offences.",
+      "text": "31. Power to compound offences.—(1) Notwithstanding anything contained in the Code of Criminal\nProcedure, 1973 (2 of 1974) , any offence punishable under this Act for any contravention, not being an\noffence punishable with imprisonment only, or with imprisonment and also with fine, may, on receipt of\nan application from the person committing such contravention either before or after the institution of any\nproceeding, be compounded by an officer of the Reserve Bank duly authorised by it in this behalf.\n(2) Where a contravention has been compounded under sub -section ( 1), no proceeding or further\nproceeding, as the case may be, shall be initiated or continued, as the case may be, against the person\ncommitting such contravention under that section, in respect of the contravention so compounded."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "32",
+      "section_title": "Act to have overriding effect.",
+      "text": "32. Act to have overriding effect .—The provisions of this Act shall have effect notwithstanding\nanything inconsistent therewith contained in any other law for the time being in force."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "33",
+      "section_title": "Mode of recovery of penalty.",
+      "text": "33. Mode of recovery of penalty .—(1) The penalty imposed on the defaulter by the Reserve Bank\nunder section 30 may be recovered by issuing a notice to any person from whom any amount is due to the\ndefaulter, by requiring such person to deduct from the amount payable by him to the defaulter, the amount\npayable to the Reserve Bank by way of penalty and pay to the Reserve Bank.\n(2) Save as otherwise provided in this section, every person to whom a notice is issued under this\nsub-section shall be bound to comply with such notice, and, in particular, where such notice is issued to a\npost office, bank or an insurer, it shall not be necessary for any passbook, deposit receipt, policy or any\nother document to be produced for the purpose of any entry, endorsement or the like being made before\npayment is made notwithstanding that any rule, practice or requirement to the contrary.\n(3) Any claim respecting any property in relation to which a notice under this sub -section has been\nissued arising after the date of the notice shall be void as against any demand contained in the notice.\n(4) Where a person to whom the notice under this sub -section is sent objects to it by a statement on\noath that the sum demanded or any part thereof is not due to the defaulter or that he does not hold any\nmoney for or on account of the defaulter, then, nothing contained in this sub -section shall be deemed to\nrequire such person to pay any such sum or part thereof, as the case may be, but if it is discovered that\nsuch statement was false in any material particular, such person shall be personally liable to the Reserve\nBank to the extent of his own liability to the defaulter on the date of the notice, or to the extent of the\npenalty imposed on the defaulter by the Reserve Bank, whichever is less.\n(5) The Reserve Bank may at any time or from time to time, amend or revoke any notice issued under\nthis section or extend the time for making the payment in pursuance of such notice.\n(6) The Reserve Bank shall grant a receipt for any amount paid to it in compliance with a notice\nissued under this section and the person so paying shall be fully discharged from his liability to the\ndefaulter to the extent of the amount so paid.\n(7) Any person discharging any liability to the defaulter after the receipt of a notice under this section\nshall be personally liable to the Reserve Bank to the extent of his own liability to the defaulter so\ndischarged or to the extent of the penalty imposed on the defaulter by the Reserve Bank, whichever is\nless.\n(8) If the person to whom the notice under this section is sent fails to make payment in pursuance\nthereof to the Reserve Bank, he shall be deemed to be the defaulter in respect of the amount specified in\nthe notice and further proceedings may be taken against him for the realisation of the amount as if it were\nan arrear due from him in the manner provided in this section.\nExplanation.—For the purposes of this section, “defaulter” means any person or system provider or\nsystem participant on whom the Reserve Bank has imposed a penalty under section 30."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "34",
+      "section_title": "Act not to apply to stock exchanges or clearing corporations of stock exchanges.",
+      "text": "34. Act not to apply to s tock exchanges or clearing cor porations of stock ex changes.—Nothing\ncontained in this Act shall apply to stock exchanges or the clearing corporations of the stock exchanges."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "34A",
+      "section_title": "Act to apply to designated trade repository and issuer.",
+      "text": "1[34A. Act to apply to designated trade repository and issuer .—(1) The provisions of this Act\nshall apply to, or in relation to, a designated  trade repository or issuer, as they apply to, or in relation to,\npayment systems to the extent applicable, subject to the modification that, throughout this Act, unless the\ncontext otherwise requires,—\n(a) references to a “payment system” or “system provider” shall be construed as references to a\n“designated trade repository” or “issuer”, as the case may be;\n(b) references to “commencement of this Act” shall be construed with reference to––\n(i) a designated trade repository, as references to the date on which  a trade repository is\nspecified by the Reserve Bank as a designated trade repository; and\n(ii) an issuer, as references to commencement of the Payment and  Settlement Systems\n(Amendment) Act, 2015 (18 of 2015).\n\n(2) The Reserve Bank may, on an application by a designated trade repository or  otherwise, permit or\ndirect the designated trade repository to provide such other services as are deemed necessary from time to\ntime.\nExplanation.—For the purposes of this section, the expression “designated trade repository ” shall\nmean a trade repository or a class of trade repositories, as may  be specified by the Reserve Bank from\ntime to time.]"
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "34B",
+      "section_title": "Powers of Reserve Bank not to apply to International Financial Services Centre.",
+      "text": "1[34B. Powers of Reserve Bank not to apply to International Financial Services Centre .—\nNotwithstanding anything contained in any other law for the time being in force, the powers exercisable\nby the Reserve Bank under this Act,—\n(a) shall not extend to an International Financial Services Centre set up under sub -section (1) of\nsection 18 of the Special Economic Zones Act, 2005 (28 of 2005);\n(b) shall be exercisable by the International Financial Services Centres Authority established\nunder sub-section (1) of section 4 of the International Financial Services Centres Authority Act, 2019\n(50 of 2019),\nin so far as regulation of financial products, financial services and financial institutions that are permitted\nin the International Financial Services Centres are concerned.]"
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "35",
+      "section_title": "Certain persons deemed to be public servants.",
+      "text": "35. Certain persons deemed to be public servants .—Every officer of the Reserve Bank who has\nbeen entrusted with any power under this Act, shall be deemed to be a public servant within the meaning\nof section 21 of the Indian Penal Code (45 of 1860)."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "36",
+      "section_title": "Protection of action taken in good faith.",
+      "text": "36. Protection of action taken in good faith .—No suit or other legal proceedings shall lie against\nthe Central Government, the Reserve Bank, or any officer thereof for any damage caused or likely to be\ncaused by anything which is in good faith done or intended to be done in pursuance of this Act, any\nregulations, order or direction made or given thereunder."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "37",
+      "section_title": "Power to remove difficulties.",
+      "text": "37. Power to remove difficulties .—(1) If any difficulty arises in giving effect to the provisions of\nthis Act, the Central Government may, by order published in the Official Gazette, make such provision is\nnot inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing\nthe difficulty:\nProvided that no order shall be made under this section after the expiry of a period of two years from\nthe commencement of this Act.\n(2) Every order made under this section shall be laid, as soon as may be after it is made, before each\nHouse of Parliament."
+    },
+    {
+      "act_code": "PSSA",
+      "chapter_number": "VIII",
+      "chapter_title": "MISCELLANEOUS",
+      "section_number": "38",
+      "section_title": "Power of Reserve Bank to make regulations.",
+      "text": "38. Power of Reserve Bank to make regulations .—(1) The Reserve Bank may, by notification,\nmake regulations consistent with this Act to carry out the provisions of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing provision, such regulations\nmay provide for all or any of the following matters, namely:—\n(a) the powers and functions of the 2[Board referred to in sub -section (2)], the time and venue of\nits meetings and the procedure to be followed by it at its meetings (including the quorum at such\nmeetings) under sub-section (4) of section 3;\n(b) the form and manner in which an application for authorisation for commencing or carrying on\na payment system shall be made and the fees which shall accompany such application under\nsub-section (2) of section 5;\n(c) the form in which an authorisation to operate a payment system under this Act shall be issued\nunder sub-section (2) of section 7;\n(d) the format of payment instructions and other matters relating to determination of standards to\nbe complied with by the payment systems under sub-section (1) of section 10;\n\n(e) the intervals, at which and the form and manner in which the information or returns required\nby the Reserve Bank shall be furnished under section 12;\n(f) such other matters as are required to be, or may be, prescribed.\n(2) Any regulation made under this section shall have effect from such earlier or later date (nor earlier\nthan the date of commencement of this Act) as may be specified in the regulation.\n(3) Every regulation shall, as soon as may be after it is made by the Reserve Bank, be forwarded to\nthe Central Government and that Central Government shall cause a copy of the same to be laid before\neach House of Parliament, while it is in session, for a total period of thirty days which may be comprised\nin one session or in two or more successive sessions, and if, before the expiry of the session immediately\nfollowing the session or the successive sessions aforesaid, both Houses agree in making any modifi cation\nin the regulation, or both Houses agree that the regulation should not be made, the regulation shall,\nthereafter, have effect only in such modified form or be of no effect, as the case may be; so, however, that\nany such modification or annulment shall be without prejudice to the validity of anything previously done\nunder that regulation.\n_____________\n\nSTATEMENT OF OBJECTS AND REASONS\nThe payment and settlement systems serve as a backbone of financial system of a  country. In India, a host\nof payment systems are in operation ranging from manual paper -based clearing to the Real Time Gross\nSettlement (RTGS) System for facilitating non-cash mode of payments. The various retail payment systems in\noperation include the manual  paper based clearing, MICR Clearing, Electronic Funds Transfer Systems\n(including the Electronic Clearing Services), Card Based Payment Systems, Government Securities Cle aring,\nForex Clearing, etc. The paper-based cheque processing is operated and managed by the Reserve Bank of India\nat the four metro centres, whereas at twelve other centres it is operated by public sector banks and managed by\nReserve Bank of India, while at the remaining centres it is operated as well as managed by certain public sector\nbanks. Clearing houses are not  legal entities but voluntary bodies of banks who have come together for the\nexpressed purpose  of clearing payment instruments and instructions. The rules and regulations for the\nfunctioning of clearing houses are contractual in nature. Among the large -value payment systems, the  Real\nTime Gross Settlement System is operated by the Reserve Bank of India while the  inter-bank Government\nSecurities and Foreign Exchange Clearing Systems are at present  operated by Clearing Corporation of India\nLtd. (CCIL). A new N ational Payments Corporation  of India would be taking over the operations of retail\npayment systems. Both these corporate entities will be outside the specific regulatory purview. The operations\nof Card Based systems is not under the regulatory purview of the Reserve Bank of India, however, the Bank is\nindirectly regulating it through the card issuing banks.\n2. The Central Board of Directors of the Reserve Bank of India under section 58(2)(p) of the Reserve Bank\nof India Act, 1934 is empowered to make regulations of clearing houses  for banks and under 58(2)(pp) of the\nsaid Act, to make regulations of fund transfer through  electronic means. These regulations are adopted by the\nmembers of the clearing houses by way of contractual agreement.\n3. The procedure of netting (arriving at the multilateral net settlement) is not legally  recognised but has\nbeen adopted as a working procedure adopted by the members of the clearing houses.\n4. In view of the above, it is considered necessary to enact a specific legislation which  will, inter alia,\nempower the Reserve Bank of India to act as the designated authority with the following powers and functions,\nnamely:—\n(a) to regulate and oversee the various payment and settlement systems in the  country including those\noperated by non -banks like CCIL, card companies, other  payment system providers and the proposed\numbrella organisation for retail payments;\n(b) lay down the procedure for authorisation of payment systems as well as revocation of authorisation;\n(c) to lay down operational and technical standards for various payment systems;\n(d) to call for information and furnish returns and documents from the service providers;\n(e) to issue directions and guidelines to system providers;\n(f) to audit and inspect the systems and premises of the system providers;\n(g) to lay down the duties of the system providers;\n(h) to levy fines and impose penalties for not providing information or documents  or wrongfully\ndisclosing information, etc.; and\n(i) to make regulations for carrying out the provisions of the proposed legislation.\n5. The Bill, inter alia, seeks to provide for the following matters, namely:—\n(a) to designate the Reserve Bank of India as the designated authority for the regulation and supervision\nof payment systems in India for their smooth operations;\n(b) to give legal recognition to the netting procedure and settlement finality; and\n(c) to empower the Securities Appellate Tribunals to settle disputes between the  Reserve Bank of India\nand the system providers.\n6. The Bill seeks to achieve the above objects.\nP. CHIDAMBARAM.\nNEW DELHI;\nThe 22nd May, 2006."
+    }
+  ]
+}
