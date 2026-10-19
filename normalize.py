@@ -58,91 +58,94 @@ def parse_bns_chapter(chapter_str):
 def load_core_sections():
     normalized_sections = []
     
-    file_handlers = {
-        'ipc.json': lambda item: {
+    file_specs = [
+        (['indian_penal_code_1860.json', 'ipc.json'], lambda item: {
             'act_code': 'IPC',
             'chapter_number': str(item.get('chapter', '')) if item.get('chapter') is not None else None,
             'chapter_title': item.get('chapter_title'),
             'section_number': str(item.get('Section', '')),
             'section_title': item.get('section_title'),
             'text': clean_text(item.get('section_desc', ''))
-        },
-        'crpc.json': lambda item: {
+        }),
+        (['code_of_criminal_procedure_1973.json', 'crpc.json'], lambda item: {
             'act_code': 'CRPC',
             'chapter_number': str(item.get('chapter', '')) if item.get('chapter') is not None else None,
             'chapter_title': None,
             'section_number': str(item.get('section', '')),
             'section_title': item.get('section_title'),
             'text': clean_text(item.get('section_desc', ''))
-        },
-        'iea.json': lambda item: {
+        }),
+        (['indian_evidence_act_1872.json', 'iea.json'], lambda item: {
             'act_code': 'IEA',
             'chapter_number': str(item.get('chapter', '')) if item.get('chapter') is not None else None,
             'chapter_title': None,
             'section_number': str(item.get('section', '')),
             'section_title': item.get('section_title'),
             'text': clean_text(item.get('section_desc', ''))
-        },
-        'nia.json': lambda item: {
+        }),
+        (['negotiable_instruments_act_1881.json', 'nia.json'], lambda item: {
             'act_code': 'NIA',
             'chapter_number': str(item.get('chapter', '')) if item.get('chapter') is not None else None,
             'chapter_title': None,
             'section_number': str(item.get('section', '')),
             'section_title': item.get('section_title'),
             'text': clean_text(item.get('section_desc', ''))
-        },
-        'cpc.json': lambda item: {
+        }),
+        (['code_of_civil_procedure_1908.json', 'cpc.json'], lambda item: {
             'act_code': 'CPC',
             'chapter_number': None,
             'chapter_title': None,
             'section_number': str(item.get('section', '')),
             'section_title': item.get('title'),
             'text': clean_text(item.get('description', ''))
-        },
-        'MVA.json': lambda item: {
+        }),
+        (['motor_vehicles_act_1988.json', 'MVA.json'], lambda item: {
             'act_code': 'MVA',
             'chapter_number': None,
             'chapter_title': None,
             'section_number': str(item.get('section', '')),
             'section_title': item.get('title'),
             'text': clean_text(item.get('description', ''))
-        },
-        'articles.jsonl': lambda item: {
+        }),
+        (['constitution_of_india_articles.jsonl', 'articles.jsonl'], lambda item: {
             'act_code': 'COI',
             'chapter_number': str(item.get('part_number', '')) if item.get('part_number') else None,
             'chapter_title': f"{item.get('part_title', '')} - {item.get('chapter_title', '')}".strip(" -") if item.get('part_title') and item.get('chapter_title') else (item.get('part_title') or item.get('chapter_title')),
             'section_number': str(item.get('article_number', '')),
             'section_title': item.get('article_title'),
             'text': (clean_text(item.get('text', '')) + (f"\n\n[Editorial Notes: {clean_text(item.get('editorial_notes'))}]" if item.get('editorial_notes') else "")).strip()
-        },
-        'bns_sections.json': lambda item: {
+        }),
+        (['bharatiya_nyaya_sanhita_2023.json', 'bns_sections.json'], lambda item: {
             'act_code': 'BNS',
             'chapter_number': str(item.get('chapter', '')) if item.get('chapter') else None,
             'chapter_title': None,
             'section_number': str(item.get('section_number', '')),
             'section_title': item.get('section_title'),
             'text': clean_text(item.get('text', ''))
-        },
-        'bnss_sections.json': lambda item: {
+        }),
+        (['bharatiya_nagarik_suraksha_sanhita_2023.json', 'bnss_sections.json'], lambda item: {
             'act_code': 'BNSS',
-            'chapter_number': str(item.get('chapter', '')) if item.get('chapter') else None,
+            'chapter_number': str(item.get('chapter', '')) if item.get('chapter') is not None else None,
             'chapter_title': None,
             'section_number': str(item.get('section_number', '')),
             'section_title': item.get('section_title'),
             'text': clean_text(item.get('text', ''))
-        },
-        'bsa_sections.json': lambda item: {
+        }),
+        (['bharatiya_sakshya_adhiniyam_2023.json', 'bsa_sections.json'], lambda item: {
             'act_code': 'BSA',
-            'chapter_number': str(item.get('chapter', '')) if item.get('chapter') else None,
+            'chapter_number': str(item.get('chapter', '')) if item.get('chapter') is not None else None,
             'chapter_title': None,
             'section_number': str(item.get('section_number', '')),
             'section_title': item.get('section_title'),
             'text': clean_text(item.get('text', ''))
-        }
-    }
+        })
+    ]
+
 
     # Preamble for Constitution of India
-    full_ds_path = os.path.join(RAW_DATA_DIR, "CONSTITUTION_DATASET.json")
+    full_ds_path = os.path.join(RAW_DATA_DIR, "constitution_of_india.json")
+    if not os.path.exists(full_ds_path):
+        full_ds_path = os.path.join(RAW_DATA_DIR, "CONSTITUTION_DATASET.json")
     preamble_loaded = False
     if os.path.exists(full_ds_path):
         try:
@@ -174,13 +177,18 @@ def load_core_sections():
             'text': "WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949, do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
         })
 
-    for filename, handler in file_handlers.items():
-        filepath = os.path.join(RAW_DATA_DIR, filename)
-        if not os.path.exists(filepath):
+    for filenames, handler in file_specs:
+        found_file = None
+        for fn in filenames:
+            fp = os.path.join(RAW_DATA_DIR, fn)
+            if os.path.exists(fp):
+                found_file = fp
+                break
+        if not found_file:
             continue
             
-        if filename.endswith('.jsonl'):
-            with open(filepath, 'r', encoding='utf-8') as f:
+        if found_file.endswith('.jsonl'):
+            with open(found_file, 'r', encoding='utf-8') as f:
                 for line in f:
                     line = line.strip()
                     if not line:
@@ -188,7 +196,7 @@ def load_core_sections():
                     item = json.loads(line)
                     normalized_sections.append(handler(item))
         else:
-            with open(filepath, 'r', encoding='utf-8') as f:
+            with open(found_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 for item in data:
                     normalized_item = handler(item)
@@ -206,9 +214,19 @@ def load_extracted_acts():
     seen_codes = set()
     
     core_filenames = {
-        'ipc.json', 'crpc.json', 'iea.json', 'nia.json', 'cpc.json', 'MVA.json',
-        'bns_sections.json', 'bnss_sections.json', 'bsa_sections.json',
-        'CONSTITUTION_DATASET.json',
+        'ipc.json', 'indian_penal_code_1860.json',
+        'crpc.json', 'code_of_criminal_procedure_1973.json',
+        'iea.json', 'indian_evidence_act_1872.json',
+        'nia.json', 'negotiable_instruments_act_1881.json',
+        'cpc.json', 'code_of_civil_procedure_1908.json',
+        'MVA.json', 'motor_vehicles_act_1988.json',
+        'bns_sections.json', 'bharatiya_nyaya_sanhita_2023.json',
+        'bnss_sections.json', 'bharatiya_nagarik_suraksha_sanhita_2023.json',
+        'bsa_sections.json', 'bharatiya_sakshya_adhiniyam_2023.json',
+        'CONSTITUTION_DATASET.json', 'constitution_of_india.json',
+        'articles.jsonl', 'constitution_of_india_articles.jsonl',
+        'schedules.jsonl', 'constitution_of_india_schedules.jsonl',
+        'appendices.jsonl', 'constitution_of_india_appendices.jsonl',
         'bns_to_ipc.json', 'bnss_to_crpc.json', 'bsa_to_iea.json',
         'crpc_to_bnss.json', 'iea_to_bsa.json', 'ipc_to_bns.json'
     }
@@ -264,7 +282,9 @@ def normalize_data():
     return all_sections
 
 def load_constitution_schedules(conn):
-    filepath = os.path.join(RAW_DATA_DIR, "schedules.jsonl")
+    filepath = os.path.join(RAW_DATA_DIR, "constitution_of_india_schedules.jsonl")
+    if not os.path.exists(filepath):
+        filepath = os.path.join(RAW_DATA_DIR, "schedules.jsonl")
     if not os.path.exists(filepath):
         return
     cursor = conn.cursor()
@@ -298,7 +318,9 @@ def load_constitution_schedules(conn):
     conn.commit()
 
 def load_constitution_appendices(conn):
-    filepath = os.path.join(RAW_DATA_DIR, "appendices.jsonl")
+    filepath = os.path.join(RAW_DATA_DIR, "constitution_of_india_appendices.jsonl")
+    if not os.path.exists(filepath):
+        filepath = os.path.join(RAW_DATA_DIR, "appendices.jsonl")
     if not os.path.exists(filepath):
         return
     cursor = conn.cursor()
